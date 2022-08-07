@@ -1,0 +1,411 @@
+{
+	"supervisory": [{
+		"name": "Carlene C. Collado",
+		"roles": [
+			"Regional Executive Director"
+		],
+		"office": "ORED",
+		"image": "CCC"
+	}, {
+		"name": "Carlota S. Madriaga",
+		"roles": [
+			"Regional Technical Director",
+			"RSBSA Focal Person"
+		],
+		"office": "ORED",
+		"image": "CSM"
+	}, {
+		"name": "Carmelita T. Bajarla",
+		"roles": [
+			"Regional Technical Director"
+		],
+		"office": "ORED",
+		"image": "CTB"
+	}, {
+		"name": "Lorena V. Duna",
+		"roles": [
+			"Chief, PMED"
+		],
+		"office": "PMED",
+		"image": "LVD"
+	}, {
+		"name": "Lourdes P. Rudinas",
+		"roles": [
+			"Assistant Chief, PMED"
+		],
+		"office": "PMED",
+		"image": "LPR"
+	}, {
+		"name": "Apple Caryl C. Novo",
+		"roles": [
+			"RSBSA Secretariat"
+		],
+		"office": "PMED",
+		"image": "ACN"
+	}, {
+		"name": "Richelle Tampe-Wong",
+		"roles": [
+			"RSBSA Secretariat"
+		],
+		"office": "PMED",
+		"image": "RTW"
+	}],
+	"staff": [{
+		"name": "Jean Jacques A. Agbon",
+		"image": "JJAA",
+		"station": "Regional Office | IMS",
+		"designation": "AdminAssistantI_Encoder",
+		"roles": [
+			"📝Processor",
+			"✔️KYC"
+		]
+	}, {
+		"name": "Jean Dave V. Alemanio",
+		"image": "JDVA",
+		"station": "Regional Office | IMS",
+		"designation": "AdminAssistantI_Encoder",
+		"roles": [
+			"💻Encoder"
+		]
+	}, {
+		"name": "Joyce Anne Añora - Cape",
+		"image": "JANA",
+		"station": "Regional Office | IMS",
+		"designation": "AdminAssistantI_Encoder",
+		"roles": [
+			"📝Processor"
+		]
+	}, {
+		"name": "Leoj Liandre Q. Garces",
+		"image": "LLQG",
+		"station": "Regional Office | PMED",
+		"designation": "AdminAssistantI_Encoder",
+		"roles": [
+			"🔎Chief Validator"
+		]
+	}, {
+		"name": "Faizah A. Macabayao",
+		"image": "FAM",
+		"station": "Regional Office | IMS",
+		"designation": "AdminAssistantI_Encoder",
+		"roles": [
+			"📑Receiver",
+			"🧕Mataid"
+		]
+	}, {
+		"name": "Charity Mae V. Obial",
+		"image": "CMVO",
+		"station": "Regional Office | IMS",
+		"designation": "AdminAssistantI_Encoder",
+		"roles": [
+			"📝Chief Processor"
+		]
+	}, {
+		"name": "Adrian Jann F. Octat",
+		"image": "AJFO",
+		"station": "Regional Office | IMS",
+		"designation": "AdminAssistantI_Encoder",
+		"roles": [
+			"💻Encoder",
+			"✔️KYC",
+			"👾Dev"
+		]
+	}, {
+		"name": "Mark Jovani O. Salili",
+		"image": "MJOS",
+		"station": "Regional Office | PMED",
+		"designation": "AdminAssistantI_Encoder",
+		"roles": [
+			"💻Chief Encoder",
+			"✔️KYC"
+		]
+	}, {
+		"name": "Honey S. Salugsugan",
+		"image": "HSS",
+		"station": "Regional Office | IMS",
+		"designation": "AdminAssistantI_Encoder",
+		"roles": [
+			"💻Encoder"
+		]
+	}, {
+		"name": "Alejo Jason L. Salvani III",
+		"image": "AJLS",
+		"station": "Regional Office | IMS",
+		"designation": "AdminAssistantI_Encoder",
+		"roles": [
+			"💻Encoder",
+			"💪Lakas ni Dir Collado"
+		]
+	}, {
+		"name": "Kate Abegail D. Taal",
+		"image": "KADT",
+		"station": "Regional Office | IMS",
+		"designation": "AdminAssistantI_Encoder",
+		"roles": [
+			"🔎Validator"
+		]
+	}, {
+		"name": "Joyza Marian B. Tadlas",
+		"image": "JMBT",
+		"station": "Regional Office | IMS",
+		"designation": "AdminAssistantI_Encoder",
+		"roles": [
+			"📑Receiver"
+		]
+	}, {
+		"name": "Karl Christian O. Wong",
+		"image": "KCOW",
+		"station": "Regional Office | IMS",
+		"designation": "AdminAssistantI_Encoder",
+		"roles": [
+			"🔎Validator"
+		]
+	}, {
+		"name": "Cozzete E. Padilla",
+		"image": "CEP",
+		"station": "Regional Office | IMS",
+		"designation": "AdminAideVI",
+		"roles": [
+			"👩‍💼Admin Aide",
+			"📝Processor"
+		]
+	}, {
+		"name": "Kethyl Mae L. Muaña",
+		"image": "KMLM",
+		"station": "POC Bukidnon",
+		"designation": "AdminAssistantI_Encoder",
+		"roles": [
+			"💻Encoder",
+			"✔️KYC"
+		]
+	}, {
+		"name": "Sylvia Jane Nambatac - Cardente",
+		"image": "SJMN",
+		"station": "POC Bukidnon",
+		"designation": "AdminAssistantI_Encoder",
+		"roles": [
+			"💻Encoder",
+			"✔️KYC"
+		]
+	}, {
+		"name": "Nicola Isabel H. Rosal",
+		"image": "NIHR",
+		"station": "POC Bukidnon",
+		"designation": "AdminAssistantI_Encoder",
+		"roles": [
+			"📑Receiver",
+			"✔️KYC"
+		]
+	}, {
+		"name": "John Jeffrey L. Sab",
+		"image": "JJLS",
+		"station": "POC Bukidnon",
+		"designation": "AdminAssistantI_Encoder",
+		"roles": [
+			"🔎Validator",
+			"💖DA Heartthrob"
+		]
+	}, {
+		"name": "Jayhaze A. Sablayan",
+		"image": "JAS",
+		"station": "POC Bukidnon",
+		"designation": "AdminAssistantI_Encoder",
+		"roles": [
+			"👑Team Leader",
+			"📑Receiver"
+		]
+	}, {
+		"name": "Mark Anjorey S. Torres",
+		"image": "MAST",
+		"station": "POC Bukidnon",
+		"designation": "AdminAssistantI_Encoder",
+		"roles": [
+			"🔎Validator",
+			"✔️KYC"
+		]
+	}, {
+		"name": "Lourene V. Aguinaldo",
+		"image": "LVA",
+		"station": "POC Misamis Occidental",
+		"designation": "AdminAssistantI_Encoder",
+		"roles": [
+			"💻Encoder"
+		]
+	}, {
+		"name": "Kyle Gladys L. Gulang",
+		"image": "KGLG",
+		"station": "POC Misamis Occidental",
+		"designation": "AdminAssistantI_Encoder",
+		"roles": [
+			"👑Team Leader",
+			"🔎Validator"
+		]
+	}, {
+		"name": "Joscel N. Tamayo",
+		"image": "JNT",
+		"station": "POC Misamis Occidental",
+		"designation": "AdminAssistantI_Encoder",
+		"roles": [
+			"📑Receiver"
+		]
+	}, {
+		"name": "Geraldine Mae H. Cabigting",
+		"image": "GMHC",
+		"station": "Regional Office | RAFC",
+		"designation": "AdminAssistantI_Encoder",
+		"roles": [
+			"💻Encoder"
+		]
+	}, {
+		"name": "Reah Del H. Lumihay",
+		"image": "RDHL",
+		"station": "Regional Office | RAFC",
+		"designation": "AdminAssistantI_Encoder",
+		"roles": [
+			"📑Receiver"
+		]
+	}, {
+		"name": "Quinnie G. Magdale",
+		"image": "QGM",
+		"station": "Regional Office | RAFC",
+		"designation": "AdminAssistantI_Encoder",
+		"roles": [
+			"👑Team Leader",
+			"💻Encoder",
+			"✔️KYC"
+		]
+	}, {
+		"name": "Kim Andre S. Obsioma",
+		"image": "KASO",
+		"station": "Regional Office | RAFC",
+		"designation": "AdminAssistantI_Encoder",
+		"roles": [
+			"💻Encoder"
+		]
+	}, {
+		"name": "Dennis Arcayena",
+		"image": "DA",
+		"station": "📍Manolo Fortich",
+		"designation": "ProjectDevelopmentAssistantI_Enumerator"
+	}, {
+		"name": "James Carl Ledesma",
+		"image": "JCL",
+		"station": "📍Kalilangan",
+		"designation": "ProjectDevelopmentAssistantI_Enumerator"
+	}, {
+		"name": "Alquezar Dacillo",
+		"image": "AlD",
+		"station": "📍Impasug-ong",
+		"designation": "ProjectDevelopmentAssistantI_Enumerator"
+	}, {
+		"name": "Ike Sibog",
+		"image": "IS",
+		"station": "📍Quezon",
+		"designation": "ProjectDevelopmentAssistantI_Enumerator"
+	}, {
+		"name": "Ellen Jane Guibao",
+		"image": "EJG",
+		"station": "📍Quezon",
+		"designation": "ProjectDevelopmentAssistantI_Enumerator"
+	}, {
+		"name": "Charlon Sinatao",
+		"image": "CS",
+		"station": "📍Malitbog",
+		"designation": "ProjectDevelopmentAssistantI_Enumerator"
+	}, {
+		"name": "Jhondy Carpina",
+		"image": "JC",
+		"station": "📍Lantapan",
+		"designation": "ProjectDevelopmentAssistantI_Enumerator"
+	}, {
+		"name": "Jennifer Donato",
+		"image": "JD",
+		"station": "📍Lantapan",
+		"designation": "ProjectDevelopmentAssistantI_Enumerator"
+	}, {
+		"name": "Hasanah Mangorangca",
+		"image": "HM",
+		"station": "📍Pantar",
+		"designation": "ProjectDevelopmentAssistantI_Enumerator"
+	}, {
+		"name": "Sittie Aina Palanca",
+		"image": "SAP",
+		"station": "📍Poona Piagapo",
+		"designation": "ProjectDevelopmentAssistantI_Enumerator"
+	}, {
+		"name": "Judith R. Baroro",
+		"image": "JRB",
+		"station": "📍Malaybalay City",
+		"designation": "ProjectDevelopmentAssistantI_Geotagger"
+	}, {
+		"name": "Christine Kem Terese M. Echalico",
+		"image": "CKTME",
+		"station": "📍Malaybalay City",
+		"designation": "ProjectDevelopmentAssistantI_Geotagger"
+	}, {
+		"name": "Ngeri Boy E. Febria",
+		"image": "NBEF",
+		"station": "📍Malaybalay City",
+		"designation": "ProjectDevelopmentAssistantI_Geotagger"
+	}, {
+		"name": "Ariel D. Natividad",
+		"image": "ADN",
+		"station": "📍Malaybalay City",
+		"designation": "ProjectDevelopmentAssistantI_Geotagger"
+	}, {
+		"name": "Erwin L. Tagong",
+		"image": "ELT",
+		"station": "📍Malaybalay City",
+		"designation": "ProjectDevelopmentAssistantI_Geotagger"
+	}, {
+		"name": "Marian Laica Y. Angco",
+		"image": "MLYA",
+		"station": "📍Valencia City",
+		"designation": "ProjectDevelopmentAssistantI_Geotagger"
+	}, {
+		"name": "Marlo T. Bontes",
+		"image": "MTB",
+		"station": "📍Valencia City",
+		"designation": "ProjectDevelopmentAssistantI_Geotagger"
+	}, {
+		"name": "Christine Jade J. Cayetano",
+		"image": "CJJC",
+		"station": "📍Valencia City",
+		"designation": "ProjectDevelopmentAssistantI_Geotagger"
+	}, {
+		"name": "Eulabes Jaime G. Lachica",
+		"image": "EJGL",
+		"station": "📍Valencia City",
+		"designation": "ProjectDevelopmentAssistantI_Geotagger"
+	}, {
+		"name": "Richel A. Limato",
+		"image": "RAL",
+		"station": "📍Valencia City",
+		"designation": "ProjectDevelopmentAssistantI_Geotagger"
+	}, {
+		"name": "Jayrik M. Monsanto",
+		"image": "JMM",
+		"station": "📍Valencia City",
+		"designation": "ProjectDevelopmentAssistantI_Geotagger"
+	}, {
+		"name": "Isidore B. Naliponguit",
+		"image": "IBN",
+		"station": "📍Valencia City",
+		"designation": "ProjectDevelopmentAssistantI_Geotagger"
+	}, {
+		"name": "Cristamie L. Palmerola",
+		"image": "CLP",
+		"station": "📍Valencia City",
+		"designation": "ProjectDevelopmentAssistantI_Geotagger"
+	}, {
+		"name": "Ronald N. Preglo",
+		"image": "RNP",
+		"station": "📍Valencia City",
+		"designation": "ProjectDevelopmentAssistantI_Geotagger"
+	}, {
+		"name": "Niño Michael O. Villaflor",
+		"image": "NMOV",
+		"station": "📍Valencia City",
+		"designation": "ProjectDevelopmentAssistantI_Geotagger"
+	}]
+}

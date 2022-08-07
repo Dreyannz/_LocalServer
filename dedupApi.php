@@ -14,9 +14,13 @@ header('Content-Type: application/json');
 date_default_timezone_set("Asia/Manila");
 
 $query = $_GET['q'];
+$munCode = substr($query,0,8);
+
 
 $time_start = microtime(true);
-$data_file = file_get_contents('overallData.json');
+
+
+$data_file = file_get_contents('deduplication.json');
 $data_json = json_decode($data_file, 1);
 
 $allData = array();
@@ -32,7 +36,7 @@ $execution_time = ($time_end - $time_start)/60;
 
 $new_data = array(
 	'generationTime' => date("d M Y h:iA"),
-    'executionTime' => round($execution_time, 2).' mins',
+   'executionTime' => round($execution_time, 2).' mins',
 	'dataTotal' => count($allData),
 	'data' => $allData
 );

@@ -1,0 +1,467 @@
+[
+    {
+        "province": "BUKIDNON",
+        "name": "BAUNGON",
+        "geocode": "10-13-01"
+    },
+    {
+        "province": "BUKIDNON",
+        "name": "CABANGLASAN",
+        "geocode": "10-13-22"
+    },
+    {
+        "province": "BUKIDNON",
+        "name": "DAMULOG",
+        "geocode": "10-13-02"
+    },
+    {
+        "province": "BUKIDNON",
+        "name": "DANGCAGAN",
+        "geocode": "10-13-03"
+    },
+    {
+        "province": "BUKIDNON",
+        "name": "DON CARLOS",
+        "geocode": "10-13-04"
+    },
+    {
+        "province": "BUKIDNON",
+        "name": "IMPASUG-ONG",
+        "geocode": "10-13-05"
+    },
+    {
+        "province": "BUKIDNON",
+        "name": "KADINGILAN",
+        "geocode": "10-13-06"
+    },
+    {
+        "province": "BUKIDNON",
+        "name": "KALILANGAN",
+        "geocode": "10-13-07"
+    },
+    {
+        "province": "BUKIDNON",
+        "name": "KIBAWE",
+        "geocode": "10-13-08"
+    },
+    {
+        "province": "BUKIDNON",
+        "name": "KITAOTAO",
+        "geocode": "10-13-09"
+    },
+    {
+        "province": "BUKIDNON",
+        "name": "LANTAPAN",
+        "geocode": "10-13-10"
+    },
+    {
+        "province": "BUKIDNON",
+        "name": "LIBONA",
+        "geocode": "10-13-11"
+    },
+    {
+        "province": "BUKIDNON",
+        "name": "MALAYBALAY",
+        "geocode": "10-13-12"
+    },
+    {
+        "province": "BUKIDNON",
+        "name": "MALITBOG",
+        "geocode": "10-13-13"
+    },
+    {
+        "province": "BUKIDNON",
+        "name": "MANOLO FORTICH",
+        "geocode": "10-13-14"
+    },
+    {
+        "province": "BUKIDNON",
+        "name": "MARAMAG",
+        "geocode": "10-13-15"
+    },
+    {
+        "province": "BUKIDNON",
+        "name": "PANGANTUCAN",
+        "geocode": "10-13-16"
+    },
+    {
+        "province": "BUKIDNON",
+        "name": "QUEZON",
+        "geocode": "10-13-17"
+    },
+    {
+        "province": "BUKIDNON",
+        "name": "SAN FERNANDO",
+        "geocode": "10-13-18"
+    },
+    {
+        "province": "BUKIDNON",
+        "name": "SUMILAO",
+        "geocode": "10-13-19"
+    },
+    {
+        "province": "BUKIDNON",
+        "name": "TALAKAG",
+        "geocode": "10-13-20"
+    },
+    {
+        "province": "BUKIDNON",
+        "name": "VALENCIA",
+        "geocode": "10-13-21"
+    },
+    {
+        "province": "CAMIGUIN",
+        "name": "CATARMAN",
+        "geocode": "10-18-01"
+    },
+    {
+        "province": "CAMIGUIN",
+        "name": "GUINSILIBAN",
+        "geocode": "10-18-02"
+    },
+    {
+        "province": "CAMIGUIN",
+        "name": "MAHINOG",
+        "geocode": "10-18-03"
+    },
+    {
+        "province": "CAMIGUIN",
+        "name": "MAMBAJAO",
+        "geocode": "10-18-04"
+    },
+    {
+        "province": "CAMIGUIN",
+        "name": "SAGAY",
+        "geocode": "10-18-05"
+    },
+    {
+        "province": "LANAO DEL NORTE",
+        "name": "BACOLOD",
+        "geocode": "10-35-01"
+    },
+    {
+        "province": "LANAO DEL NORTE",
+        "name": "BALOI",
+        "geocode": "10-35-02"
+    },
+    {
+        "province": "LANAO DEL NORTE",
+        "name": "BAROY",
+        "geocode": "10-35-03"
+    },
+    {
+        "province": "LANAO DEL NORTE",
+        "name": "ILIGAN",
+        "geocode": "10-35-04"
+    },
+    {
+        "province": "LANAO DEL NORTE",
+        "name": "KAPATAGAN",
+        "geocode": "10-35-05"
+    },
+    {
+        "province": "LANAO DEL NORTE",
+        "name": "KAUSWAGAN",
+        "geocode": "10-35-07"
+    },
+    {
+        "province": "LANAO DEL NORTE",
+        "name": "KOLAMBUGAN",
+        "geocode": "10-35-08"
+    },
+    {
+        "province": "LANAO DEL NORTE",
+        "name": "LALA",
+        "geocode": "10-35-09"
+    },
+    {
+        "province": "LANAO DEL NORTE",
+        "name": "LINAMON",
+        "geocode": "10-35-10"
+    },
+    {
+        "province": "LANAO DEL NORTE",
+        "name": "MAGSAYSAY",
+        "geocode": "10-35-11"
+    },
+    {
+        "province": "LANAO DEL NORTE",
+        "name": "MAIGO",
+        "geocode": "10-35-12"
+    },
+    {
+        "province": "LANAO DEL NORTE",
+        "name": "MATUNGAO",
+        "geocode": "10-35-13"
+    },
+    {
+        "province": "LANAO DEL NORTE",
+        "name": "MUNAI",
+        "geocode": "10-35-14"
+    },
+    {
+        "province": "LANAO DEL NORTE",
+        "name": "NUNUNGAN",
+        "geocode": "10-35-15"
+    },
+    {
+        "province": "LANAO DEL NORTE",
+        "name": "PANTAO RAGAT",
+        "geocode": "10-35-16"
+    },
+    {
+        "province": "LANAO DEL NORTE",
+        "name": "PANTAR",
+        "geocode": "10-35-23"
+    },
+    {
+        "province": "LANAO DEL NORTE",
+        "name": "POONA PIAGAPO",
+        "geocode": "10-35-17"
+    },
+    {
+        "province": "LANAO DEL NORTE",
+        "name": "SALVADOR",
+        "geocode": "10-35-18"
+    },
+    {
+        "province": "LANAO DEL NORTE",
+        "name": "SAPAD",
+        "geocode": "10-35-19"
+    },
+    {
+        "province": "LANAO DEL NORTE",
+        "name": "SULTAN NAGA DIMAPORO",
+        "geocode": "10-35-06"
+    },
+    {
+        "province": "LANAO DEL NORTE",
+        "name": "TAGOLOAN",
+        "geocode": "10-35-20"
+    },
+    {
+        "province": "LANAO DEL NORTE",
+        "name": "TANGCAL",
+        "geocode": "10-35-21"
+    },
+    {
+        "province": "LANAO DEL NORTE",
+        "name": "TUBOD",
+        "geocode": "10-35-22"
+    },
+    {
+        "province": "MISAMIS OCCIDENTAL",
+        "name": "ALORAN",
+        "geocode": "10-42-01"
+    },
+    {
+        "province": "MISAMIS OCCIDENTAL",
+        "name": "BALIANGAO",
+        "geocode": "10-42-02"
+    },
+    {
+        "province": "MISAMIS OCCIDENTAL",
+        "name": "BONIFACIO",
+        "geocode": "10-42-03"
+    },
+    {
+        "province": "MISAMIS OCCIDENTAL",
+        "name": "CALAMBA",
+        "geocode": "10-42-04"
+    },
+    {
+        "province": "MISAMIS OCCIDENTAL",
+        "name": "CLARIN",
+        "geocode": "10-42-05"
+    },
+    {
+        "province": "MISAMIS OCCIDENTAL",
+        "name": "CONCEPCION",
+        "geocode": "10-42-06"
+    },
+    {
+        "province": "MISAMIS OCCIDENTAL",
+        "name": "DON VICTORIANO CHIONGBIAN",
+        "geocode": "10-42-17"
+    },
+    {
+        "province": "MISAMIS OCCIDENTAL",
+        "name": "JIMENEZ",
+        "geocode": "10-42-07"
+    },
+    {
+        "province": "MISAMIS OCCIDENTAL",
+        "name": "LOPEZ JAENA",
+        "geocode": "10-42-08"
+    },
+    {
+        "province": "MISAMIS OCCIDENTAL",
+        "name": "OROQUIETA",
+        "geocode": "10-42-09"
+    },
+    {
+        "province": "MISAMIS OCCIDENTAL",
+        "name": "OZAMIZ",
+        "geocode": "10-42-10"
+    },
+    {
+        "province": "MISAMIS OCCIDENTAL",
+        "name": "PANAON",
+        "geocode": "10-42-11"
+    },
+    {
+        "province": "MISAMIS OCCIDENTAL",
+        "name": "PLARIDEL",
+        "geocode": "10-42-12"
+    },
+    {
+        "province": "MISAMIS OCCIDENTAL",
+        "name": "SAPANG DALAGA",
+        "geocode": "10-42-13"
+    },
+    {
+        "province": "MISAMIS OCCIDENTAL",
+        "name": "SINACABAN",
+        "geocode": "10-42-14"
+    },
+    {
+        "province": "MISAMIS OCCIDENTAL",
+        "name": "TANGUB",
+        "geocode": "10-42-15"
+    },
+    {
+        "province": "MISAMIS OCCIDENTAL",
+        "name": "TUDELA",
+        "geocode": "10-42-16"
+    },
+    {
+        "province": "MISAMIS ORIENTAL",
+        "name": "ALUBIJID",
+        "geocode": "10-43-01"
+    },
+    {
+        "province": "MISAMIS ORIENTAL",
+        "name": "BALINGASAG",
+        "geocode": "10-43-02"
+    },
+    {
+        "province": "MISAMIS ORIENTAL",
+        "name": "BALINGOAN",
+        "geocode": "10-43-03"
+    },
+    {
+        "province": "MISAMIS ORIENTAL",
+        "name": "BINUANGAN",
+        "geocode": "10-43-04"
+    },
+    {
+        "province": "MISAMIS ORIENTAL",
+        "name": "CAGAYAN DE ORO",
+        "geocode": "10-43-05"
+    },
+    {
+        "province": "MISAMIS ORIENTAL",
+        "name": "CLAVERIA",
+        "geocode": "10-43-06"
+    },
+    {
+        "province": "MISAMIS ORIENTAL",
+        "name": "EL SALVADOR",
+        "geocode": "10-43-07"
+    },
+    {
+        "province": "MISAMIS ORIENTAL",
+        "name": "GINGOOG",
+        "geocode": "10-43-08"
+    },
+    {
+        "province": "MISAMIS ORIENTAL",
+        "name": "GITAGUM",
+        "geocode": "10-43-09"
+    },
+    {
+        "province": "MISAMIS ORIENTAL",
+        "name": "INITAO",
+        "geocode": "10-43-10"
+    },
+    {
+        "province": "MISAMIS ORIENTAL",
+        "name": "JASAAN",
+        "geocode": "10-43-11"
+    },
+    {
+        "province": "MISAMIS ORIENTAL",
+        "name": "KINOGUITAN",
+        "geocode": "10-43-12"
+    },
+    {
+        "province": "MISAMIS ORIENTAL",
+        "name": "LAGONGLONG",
+        "geocode": "10-43-13"
+    },
+    {
+        "province": "MISAMIS ORIENTAL",
+        "name": "LAGUINDINGAN",
+        "geocode": "10-43-14"
+    },
+    {
+        "province": "MISAMIS ORIENTAL",
+        "name": "LIBERTAD",
+        "geocode": "10-43-15"
+    },
+    {
+        "province": "MISAMIS ORIENTAL",
+        "name": "LUGAIT",
+        "geocode": "10-43-16"
+    },
+    {
+        "province": "MISAMIS ORIENTAL",
+        "name": "MAGSAYSAY",
+        "geocode": "10-43-17"
+    },
+    {
+        "province": "MISAMIS ORIENTAL",
+        "name": "MANTICAO",
+        "geocode": "10-43-18"
+    },
+    {
+        "province": "MISAMIS ORIENTAL",
+        "name": "MEDINA",
+        "geocode": "10-43-19"
+    },
+    {
+        "province": "MISAMIS ORIENTAL",
+        "name": "NAAWAN",
+        "geocode": "10-43-20"
+    },
+    {
+        "province": "MISAMIS ORIENTAL",
+        "name": "OPOL",
+        "geocode": "10-43-21"
+    },
+    {
+        "province": "MISAMIS ORIENTAL",
+        "name": "SALAY",
+        "geocode": "10-43-22"
+    },
+    {
+        "province": "MISAMIS ORIENTAL",
+        "name": "SUGBONGCOGON",
+        "geocode": "10-43-23"
+    },
+    {
+        "province": "MISAMIS ORIENTAL",
+        "name": "TAGOLOAN",
+        "geocode": "10-43-24"
+    },
+    {
+        "province": "MISAMIS ORIENTAL",
+        "name": "TALISAYAN",
+        "geocode": "10-43-25"
+    },
+    {
+        "province": "MISAMIS ORIENTAL",
+        "name": "VILLANUEVA",
+        "geocode": "10-43-26"
+    }
+]
