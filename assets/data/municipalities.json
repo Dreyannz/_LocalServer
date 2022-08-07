@@ -1,0 +1,560 @@
+[{
+		"name": "Baungon",
+		"province": "Bukidnon",
+		"mcode": 101301,
+		"city": false
+	},
+	{
+		"name": "Cabanglasan",
+		"province": "Bukidnon",
+		"mcode": 101322,
+		"city": false
+	},
+	{
+		"name": "Damulog",
+		"province": "Bukidnon",
+		"mcode": 101302,
+		"city": false
+	},
+	{
+		"name": "Dangcagan",
+		"province": "Bukidnon",
+		"mcode": 101303,
+		"city": false
+	},
+	{
+		"name": "Don Carlos",
+		"province": "Bukidnon",
+		"mcode": 101304,
+		"city": false
+	},
+	{
+		"name": "Impasug-Ong",
+		"province": "Bukidnon",
+		"mcode": 101305,
+		"city": false
+	},
+	{
+		"name": "Kadingilan",
+		"province": "Bukidnon",
+		"mcode": 101306,
+		"city": false
+	},
+	{
+		"name": "Kalilangan",
+		"province": "Bukidnon",
+		"mcode": 101307,
+		"city": false
+	},
+	{
+		"name": "Kibawe",
+		"province": "Bukidnon",
+		"mcode": 101308,
+		"city": false
+	},
+	{
+		"name": "Kitaotao",
+		"province": "Bukidnon",
+		"mcode": 101309,
+		"city": false
+	},
+	{
+		"name": "Lantapan",
+		"province": "Bukidnon",
+		"mcode": 101310,
+		"city": false
+	},
+	{
+		"name": "Libona",
+		"province": "Bukidnon",
+		"mcode": 101311,
+		"city": false
+	},
+	{
+		"name": "Malaybalay",
+		"province": "Bukidnon",
+		"mcode": 101312,
+		"city": true
+	},
+	{
+		"name": "Malitbog",
+		"province": "Bukidnon",
+		"mcode": 101313,
+		"city": false
+	},
+	{
+		"name": "Manolo Fortich",
+		"province": "Bukidnon",
+		"mcode": 101314,
+		"city": false
+	},
+	{
+		"name": "Maramag",
+		"province": "Bukidnon",
+		"mcode": 101315,
+		"city": false
+	},
+	{
+		"name": "Pangantucan",
+		"province": "Bukidnon",
+		"mcode": 101316,
+		"city": false
+	},
+	{
+		"name": "Quezon",
+		"province": "Bukidnon",
+		"mcode": 101317,
+		"city": false
+	},
+	{
+		"name": "San Fernando",
+		"province": "Bukidnon",
+		"mcode": 101318,
+		"city": false
+	},
+	{
+		"name": "Sumilao",
+		"province": "Bukidnon",
+		"mcode": 101319,
+		"city": false
+	},
+	{
+		"name": "Talakag",
+		"province": "Bukidnon",
+		"mcode": 101320,
+		"city": false
+	},
+	{
+		"name": "Valencia",
+		"province": "Bukidnon",
+		"mcode": 101321,
+		"city": true
+	},
+	{
+		"name": "Catarman",
+		"province": "Camiguin",
+		"mcode": 101801,
+		"city": false
+	},
+	{
+		"name": "Guinsiliban",
+		"province": "Camiguin",
+		"mcode": 101802,
+		"city": false
+	},
+	{
+		"name": "Mahinog",
+		"province": "Camiguin",
+		"mcode": 101803,
+		"city": false
+	},
+	{
+		"name": "Mambajao",
+		"province": "Camiguin",
+		"mcode": 101804,
+		"city": false
+	},
+	{
+		"name": "Sagay",
+		"province": "Camiguin",
+		"mcode": 101805,
+		"city": false
+	},
+	{
+		"name": "Bacolod",
+		"province": "Lanao Del Norte",
+		"mcode": 103501,
+		"city": false
+	},
+	{
+		"name": "Baloi",
+		"province": "Lanao Del Norte",
+		"mcode": 103502,
+		"city": false
+	},
+	{
+		"name": "Baroy",
+		"province": "Lanao Del Norte",
+		"mcode": 103503,
+		"city": false
+	},
+	{
+		"name": "Iligan",
+		"province": "Lanao Del Norte",
+		"mcode": 103504,
+		"city": true
+	},
+	{
+		"name": "Kapatagan",
+		"province": "Lanao Del Norte",
+		"mcode": 103505,
+		"city": false
+	},
+	{
+		"name": "Kauswagan",
+		"province": "Lanao Del Norte",
+		"mcode": 103507,
+		"city": false
+	},
+	{
+		"name": "Kolambugan",
+		"province": "Lanao Del Norte",
+		"mcode": 103508,
+		"city": false
+	},
+	{
+		"name": "Lala",
+		"province": "Lanao Del Norte",
+		"mcode": 103509,
+		"city": false
+	},
+	{
+		"name": "Linamon",
+		"province": "Lanao Del Norte",
+		"mcode": 103510,
+		"city": false
+	},
+	{
+		"name": "Magsaysay",
+		"province": "Lanao Del Norte",
+		"mcode": 103511,
+		"city": false
+	},
+	{
+		"name": "Maigo",
+		"province": "Lanao Del Norte",
+		"mcode": 103512,
+		"city": false
+	},
+	{
+		"name": "Matungao",
+		"province": "Lanao Del Norte",
+		"mcode": 103513,
+		"city": false
+	},
+	{
+		"name": "Munai",
+		"province": "Lanao Del Norte",
+		"mcode": 103514,
+		"city": false
+	},
+	{
+		"name": "Nunungan",
+		"province": "Lanao Del Norte",
+		"mcode": 103515,
+		"city": false
+	},
+	{
+		"name": "Pantao Ragat",
+		"province": "Lanao Del Norte",
+		"mcode": 103516,
+		"city": false
+	},
+	{
+		"name": "Pantar",
+		"province": "Lanao Del Norte",
+		"mcode": 103523,
+		"city": false
+	},
+	{
+		"name": "Poona Piagapo",
+		"province": "Lanao Del Norte",
+		"mcode": 103517,
+		"city": false
+	},
+	{
+		"name": "Salvador",
+		"province": "Lanao Del Norte",
+		"mcode": 103518,
+		"city": false
+	},
+	{
+		"name": "Sapad",
+		"province": "Lanao Del Norte",
+		"mcode": 103519,
+		"city": false
+	},
+	{
+		"name": "Sultan Naga Dimaporo",
+		"province": "Lanao Del Norte",
+		"mcode": 103506,
+		"city": false
+	},
+	{
+		"name": "Tagoloan",
+		"province": "Lanao Del Norte",
+		"mcode": 103520,
+		"city": false
+	},
+	{
+		"name": "Tangcal",
+		"province": "Lanao Del Norte",
+		"mcode": 103521,
+		"city": false
+	},
+	{
+		"name": "Tubod",
+		"province": "Lanao Del Norte",
+		"mcode": 103522,
+		"city": false
+	},
+
+	{
+		"name": "Aloran",
+		"province": "Misamis Occidental",
+		"mcode": 104201,
+		"city": false
+	},
+	{
+		"name": "Baliangao",
+		"province": "Misamis Occidental",
+		"mcode": 104202,
+		"city": false
+	},
+	{
+		"name": "Bonifacio",
+		"province": "Misamis Occidental",
+		"mcode": 104203,
+		"city": false
+	},
+	{
+		"name": "Calamba",
+		"province": "Misamis Occidental",
+		"mcode": 104204,
+		"city": false
+	},
+	{
+		"name": "Clarin",
+		"province": "Misamis Occidental",
+		"mcode": 104205,
+		"city": false
+	},
+	{
+		"name": "Concepcion",
+		"province": "Misamis Occidental",
+		"mcode": 104206,
+		"city": false
+	},
+	{
+		"name": "Don Victoriano Chiongbian",
+		"province": "Misamis Occidental",
+		"mcode": 104217,
+		"city": false
+	},
+	{
+		"name": "Jimenez",
+		"province": "Misamis Occidental",
+		"mcode": 104207,
+		"city": false
+	},
+	{
+		"name": "Lopez Jaena",
+		"province": "Misamis Occidental",
+		"mcode": 104208,
+		"city": false
+	},
+	{
+		"name": "Oroquieta",
+		"province": "Misamis Occidental",
+		"mcode": 104209,
+		"city": true
+	},
+	{
+		"name": "Ozamiz",
+		"province": "Misamis Occidental",
+		"mcode": 104210,
+		"city": true
+	},
+	{
+		"name": "Panaon",
+		"province": "Misamis Occidental",
+		"mcode": 104211,
+		"city": false
+	},
+	{
+		"name": "Plaridel",
+		"province": "Misamis Occidental",
+		"mcode": 104212,
+		"city": false
+	},
+	{
+		"name": "Sapang Dalaga",
+		"province": "Misamis Occidental",
+		"mcode": 104213,
+		"city": false
+	},
+	{
+		"name": "Sinacaban",
+		"province": "Misamis Occidental",
+		"mcode": 104214,
+		"city": false
+	},
+	{
+		"name": "Tangub",
+		"province": "Misamis Occidental",
+		"mcode": 104215,
+		"city": true
+	},
+	{
+		"name": "Tudela",
+		"province": "Misamis Occidental",
+		"mcode": 104216,
+		"city": false
+	},
+	{
+		"name": "Alubijid",
+		"province": "Misamis Oriental",
+		"mcode": 104301,
+		"city": false
+	},
+	{
+		"name": "Balingasag",
+		"province": "Misamis Oriental",
+		"mcode": 104302,
+		"city": false
+	},
+	{
+		"name": "Balingoan",
+		"province": "Misamis Oriental",
+		"mcode": 104303,
+		"city": false
+	},
+	{
+		"name": "Binuangan",
+		"province": "Misamis Oriental",
+		"mcode": 104304,
+		"city": false
+	},
+	{
+		"name": "Cagayan de Oro",
+		"province": "Misamis Oriental",
+		"mcode": 104305,
+		"city": true
+	},
+	{
+		"name": "Claveria",
+		"province": "Misamis Oriental",
+		"mcode": 104306,
+		"city": false
+	},
+	{
+		"name": "El Salvador",
+		"province": "Misamis Oriental",
+		"mcode": 104307,
+		"city": true
+	},
+	{
+		"name": "Gingoog",
+		"province": "Misamis Oriental",
+		"mcode": 104308,
+		"city": true
+	},
+	{
+		"name": "Gitagum",
+		"province": "Misamis Oriental",
+		"mcode": 104309,
+		"city": false
+	},
+	{
+		"name": "Initao",
+		"province": "Misamis Oriental",
+		"mcode": 104310,
+		"city": false
+	},
+	{
+		"name": "Jasaan",
+		"province": "Misamis Oriental",
+		"mcode": 104311,
+		"city": false
+	},
+	{
+		"name": "Kinoguitan",
+		"province": "Misamis Oriental",
+		"mcode": 104312,
+		"city": false
+	},
+	{
+		"name": "Lagonglong",
+		"province": "Misamis Oriental",
+		"mcode": 104313,
+		"city": false
+	},
+	{
+		"name": "Laguindingan",
+		"province": "Misamis Oriental",
+		"mcode": 104314,
+		"city": false
+	},
+	{
+		"name": "Libertad",
+		"province": "Misamis Oriental",
+		"mcode": 104315,
+		"city": false
+	},
+	{
+		"name": "Lugait",
+		"province": "Misamis Oriental",
+		"mcode": 104316,
+		"city": false
+	},
+	{
+		"name": "Magsaysay",
+		"province": "Misamis Oriental",
+		"mcode": 104317,
+		"city": false
+	},
+	{
+		"name": "Manticao",
+		"province": "Misamis Oriental",
+		"mcode": 104318,
+		"city": false
+	},
+	{
+		"name": "Medina",
+		"province": "Misamis Oriental",
+		"mcode": 104319,
+		"city": false
+	},
+	{
+		"name": "Naawan",
+		"province": "Misamis Oriental",
+		"mcode": 104320,
+		"city": false
+	},
+	{
+		"name": "Opol",
+		"province": "Misamis Oriental",
+		"mcode": 104321,
+		"city": false
+	},
+	{
+		"name": "Salay",
+		"province": "Misamis Oriental",
+		"mcode": 104322,
+		"city": false
+	},
+	{
+		"name": "Sugbongcogon",
+		"province": "Misamis Oriental",
+		"mcode": 104323,
+		"city": false
+	},
+	{
+		"name": "Tagoloan",
+		"province": "Misamis Oriental",
+		"mcode": 104324,
+		"city": false
+	},
+	{
+		"name": "Talisayan",
+		"province": "Misamis Oriental",
+		"mcode": 104325,
+		"city": false
+	},
+	{
+		"name": "Villanueva",
+		"province": "Misamis Oriental",
+		"mcode": 104326,
+		"city": false
+	}
+]

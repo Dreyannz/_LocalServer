@@ -1,0 +1,8089 @@
+[{
+    "code": 101301001,
+    "name": "Balintad",
+    "citymun": "Baungon"
+}, {
+    "code": 101301002,
+    "name": "Buenavista",
+    "citymun": "Baungon"
+}, {
+    "code": 101301003,
+    "name": "Danatag",
+    "citymun": "Baungon"
+}, {
+    "code": 101301004,
+    "name": "Kalilangan",
+    "citymun": "Baungon"
+}, {
+    "code": 101301005,
+    "name": "Lacolac",
+    "citymun": "Baungon"
+}, {
+    "code": 101301006,
+    "name": "Langaon",
+    "citymun": "Baungon"
+}, {
+    "code": 101301007,
+    "name": "Liboran",
+    "citymun": "Baungon"
+}, {
+    "code": 101301008,
+    "name": "Lingating",
+    "citymun": "Baungon"
+}, {
+    "code": 101301009,
+    "name": "Mabuhay",
+    "citymun": "Baungon"
+}, {
+    "code": 101301010,
+    "name": "Mabunga",
+    "citymun": "Baungon"
+}, {
+    "code": 101301011,
+    "name": "Nicdao",
+    "citymun": "Baungon"
+}, {
+    "code": 101301012,
+    "name": "Imbatug (Pob.)",
+    "citymun": "Baungon"
+}, {
+    "code": 101301013,
+    "name": "Pualas",
+    "citymun": "Baungon"
+}, {
+    "code": 101301014,
+    "name": "Salimbalan",
+    "citymun": "Baungon"
+}, {
+    "code": 101301015,
+    "name": "San Vicente",
+    "citymun": "Baungon"
+}, {
+    "code": 101301016,
+    "name": "San Miguel",
+    "citymun": "Baungon"
+}, {
+    "code": 101302001,
+    "name": "Aludas",
+    "citymun": "Damulog"
+}, {
+    "code": 101302002,
+    "name": "Angga-an",
+    "citymun": "Damulog"
+}, {
+    "code": 101302003,
+    "name": "Tangkulan (Jose Rizal)",
+    "citymun": "Damulog"
+}, {
+    "code": 101302004,
+    "name": "Kinapat",
+    "citymun": "Damulog"
+}, {
+    "code": 101302005,
+    "name": "Kiraon",
+    "citymun": "Damulog"
+}, {
+    "code": 101302006,
+    "name": "Kitingting",
+    "citymun": "Damulog"
+}, {
+    "code": 101302007,
+    "name": "Lagandang",
+    "citymun": "Damulog"
+}, {
+    "code": 101302008,
+    "name": "Macapari",
+    "citymun": "Damulog"
+}, {
+    "code": 101302009,
+    "name": "Maican",
+    "citymun": "Damulog"
+}, {
+    "code": 101302010,
+    "name": "Migcawayan",
+    "citymun": "Damulog"
+}, {
+    "code": 101302011,
+    "name": "New Compostela",
+    "citymun": "Damulog"
+}, {
+    "code": 101302013,
+    "name": "Old Damulog",
+    "citymun": "Damulog"
+}, {
+    "code": 101302014,
+    "name": "Omonay",
+    "citymun": "Damulog"
+}, {
+    "code": 101302015,
+    "name": "Poblacion (New Damulog)",
+    "citymun": "Damulog"
+}, {
+    "code": 101302016,
+    "name": "Pocopoco",
+    "citymun": "Damulog"
+}, {
+    "code": 101302017,
+    "name": "Sampagar",
+    "citymun": "Damulog"
+}, {
+    "code": 101302019,
+    "name": "San Isidro",
+    "citymun": "Damulog"
+}, {
+    "code": 101303001,
+    "name": "Barongcot",
+    "citymun": "Dangcagan"
+}, {
+    "code": 101303002,
+    "name": "Bugwak",
+    "citymun": "Dangcagan"
+}, {
+    "code": 101303003,
+    "name": "Dolorosa",
+    "citymun": "Dangcagan"
+}, {
+    "code": 101303004,
+    "name": "Kapalaran",
+    "citymun": "Dangcagan"
+}, {
+    "code": 101303005,
+    "name": "Kianggat",
+    "citymun": "Dangcagan"
+}, {
+    "code": 101303006,
+    "name": "Lourdes",
+    "citymun": "Dangcagan"
+}, {
+    "code": 101303007,
+    "name": "Macarthur",
+    "citymun": "Dangcagan"
+}, {
+    "code": 101303008,
+    "name": "Miaray",
+    "citymun": "Dangcagan"
+}, {
+    "code": 101303009,
+    "name": "Migcuya",
+    "citymun": "Dangcagan"
+}, {
+    "code": 101303010,
+    "name": "New Visayas",
+    "citymun": "Dangcagan"
+}, {
+    "code": 101303011,
+    "name": "Osmeña",
+    "citymun": "Dangcagan"
+}, {
+    "code": 101303012,
+    "name": "Poblacion",
+    "citymun": "Dangcagan"
+}, {
+    "code": 101303013,
+    "name": "Sagbayan",
+    "citymun": "Dangcagan"
+}, {
+    "code": 101303014,
+    "name": "San Vicente",
+    "citymun": "Dangcagan"
+}, {
+    "code": 101304001,
+    "name": "Cabadiangan",
+    "citymun": "Don Carlos"
+}, {
+    "code": 101304002,
+    "name": "Bocboc",
+    "citymun": "Don Carlos"
+}, {
+    "code": 101304003,
+    "name": "Buyot",
+    "citymun": "Don Carlos"
+}, {
+    "code": 101304004,
+    "name": "Calaocalao",
+    "citymun": "Don Carlos"
+}, {
+    "code": 101304005,
+    "name": "Don Carlos Norte",
+    "citymun": "Don Carlos"
+}, {
+    "code": 101304006,
+    "name": "Embayao",
+    "citymun": "Don Carlos"
+}, {
+    "code": 101304008,
+    "name": "Kalubihon",
+    "citymun": "Don Carlos"
+}, {
+    "code": 101304009,
+    "name": "Kasigkot",
+    "citymun": "Don Carlos"
+}, {
+    "code": 101304010,
+    "name": "Kawilihan",
+    "citymun": "Don Carlos"
+}, {
+    "code": 101304011,
+    "name": "Kiara",
+    "citymun": "Don Carlos"
+}, {
+    "code": 101304012,
+    "name": "Kibatang",
+    "citymun": "Don Carlos"
+}, {
+    "code": 101304013,
+    "name": "Mahayahay",
+    "citymun": "Don Carlos"
+}, {
+    "code": 101304014,
+    "name": "Manlamonay",
+    "citymun": "Don Carlos"
+}, {
+    "code": 101304015,
+    "name": "Maraymaray",
+    "citymun": "Don Carlos"
+}, {
+    "code": 101304016,
+    "name": "Mauswagon",
+    "citymun": "Don Carlos"
+}, {
+    "code": 101304017,
+    "name": "Minsalagan",
+    "citymun": "Don Carlos"
+}, {
+    "code": 101304018,
+    "name": "New Nongnongan (Masimag)",
+    "citymun": "Don Carlos"
+}, {
+    "code": 101304019,
+    "name": "New Visayas",
+    "citymun": "Don Carlos"
+}, {
+    "code": 101304020,
+    "name": "Old Nongnongan",
+    "citymun": "Don Carlos"
+}, {
+    "code": 101304021,
+    "name": "Pinamaloy",
+    "citymun": "Don Carlos"
+}, {
+    "code": 101304022,
+    "name": "Don Carlos Sur (Pob.)",
+    "citymun": "Don Carlos"
+}, {
+    "code": 101304023,
+    "name": "Pualas",
+    "citymun": "Don Carlos"
+}, {
+    "code": 101304024,
+    "name": "San Antonio East",
+    "citymun": "Don Carlos"
+}, {
+    "code": 101304025,
+    "name": "San Antonio West",
+    "citymun": "Don Carlos"
+}, {
+    "code": 101304026,
+    "name": "San Francisco",
+    "citymun": "Don Carlos"
+}, {
+    "code": 101304027,
+    "name": "San Nicolas (Banban)",
+    "citymun": "Don Carlos"
+}, {
+    "code": 101304028,
+    "name": "San Roque",
+    "citymun": "Don Carlos"
+}, {
+    "code": 101304029,
+    "name": "Sinangguyan",
+    "citymun": "Don Carlos"
+}, {
+    "code": 101304030,
+    "name": "Bismartz",
+    "citymun": "Don Carlos"
+}, {
+    "code": 101305001,
+    "name": "Bontongon",
+    "citymun": "Impasug Ong"
+}, {
+    "code": 101305002,
+    "name": "Bulonay",
+    "citymun": "Impasug Ong"
+}, {
+    "code": 101305003,
+    "name": "Capitan Bayong",
+    "citymun": "Impasug Ong"
+}, {
+    "code": 101305004,
+    "name": "Cawayan",
+    "citymun": "Impasug Ong"
+}, {
+    "code": 101305005,
+    "name": "Dumalaguing",
+    "citymun": "Impasug Ong"
+}, {
+    "code": 101305006,
+    "name": "Guihean",
+    "citymun": "Impasug Ong"
+}, {
+    "code": 101305007,
+    "name": "Hagpa",
+    "citymun": "Impasug Ong"
+}, {
+    "code": 101305008,
+    "name": "Impalutao",
+    "citymun": "Impasug Ong"
+}, {
+    "code": 101305010,
+    "name": "Kalabugao",
+    "citymun": "Impasug Ong"
+}, {
+    "code": 101305011,
+    "name": "Kibenton",
+    "citymun": "Impasug Ong"
+}, {
+    "code": 101305012,
+    "name": "La Fortuna",
+    "citymun": "Impasug Ong"
+}, {
+    "code": 101305013,
+    "name": "Poblacion",
+    "citymun": "Impasug Ong"
+}, {
+    "code": 101305015,
+    "name": "Sayawan",
+    "citymun": "Impasug Ong"
+}, {
+    "code": 101306001,
+    "name": "Bagongbayan",
+    "citymun": "Kadingilan"
+}, {
+    "code": 101306002,
+    "name": "Bagor",
+    "citymun": "Kadingilan"
+}, {
+    "code": 101306003,
+    "name": "Balaoro",
+    "citymun": "Kadingilan"
+}, {
+    "code": 101306004,
+    "name": "Baroy",
+    "citymun": "Kadingilan"
+}, {
+    "code": 101306005,
+    "name": "Cabadiangan",
+    "citymun": "Kadingilan"
+}, {
+    "code": 101306006,
+    "name": "Husayan",
+    "citymun": "Kadingilan"
+}, {
+    "code": 101306007,
+    "name": "Kibalagon",
+    "citymun": "Kadingilan"
+}, {
+    "code": 101306008,
+    "name": "Mabuhay",
+    "citymun": "Kadingilan"
+}, {
+    "code": 101306009,
+    "name": "Malinao",
+    "citymun": "Kadingilan"
+}, {
+    "code": 101306010,
+    "name": "Matampay",
+    "citymun": "Kadingilan"
+}, {
+    "code": 101306011,
+    "name": "Sibonga",
+    "citymun": "Kadingilan"
+}, {
+    "code": 101306012,
+    "name": "Pay-as",
+    "citymun": "Kadingilan"
+}, {
+    "code": 101306013,
+    "name": "Pinamanguhan",
+    "citymun": "Kadingilan"
+}, {
+    "code": 101306014,
+    "name": "Poblacion",
+    "citymun": "Kadingilan"
+}, {
+    "code": 101306015,
+    "name": "Salvacion",
+    "citymun": "Kadingilan"
+}, {
+    "code": 101306016,
+    "name": "San Andres",
+    "citymun": "Kadingilan"
+}, {
+    "code": 101306017,
+    "name": "Kibogtok",
+    "citymun": "Kadingilan"
+}, {
+    "code": 101307001,
+    "name": "Bangbang",
+    "citymun": "Kalilangan"
+}, {
+    "code": 101307002,
+    "name": "Baborawon",
+    "citymun": "Kalilangan"
+}, {
+    "code": 101307003,
+    "name": "Canituan",
+    "citymun": "Kalilangan"
+}, {
+    "code": 101307004,
+    "name": "Kibaning",
+    "citymun": "Kalilangan"
+}, {
+    "code": 101307005,
+    "name": "Kinura",
+    "citymun": "Kalilangan"
+}, {
+    "code": 101307006,
+    "name": "Lampanusan",
+    "citymun": "Kalilangan"
+}, {
+    "code": 101307007,
+    "name": "Maca-opao",
+    "citymun": "Kalilangan"
+}, {
+    "code": 101307008,
+    "name": "Malinao",
+    "citymun": "Kalilangan"
+}, {
+    "code": 101307009,
+    "name": "Pamotolon (Pamotdon)",
+    "citymun": "Kalilangan"
+}, {
+    "code": 101307010,
+    "name": "Poblacion",
+    "citymun": "Kalilangan"
+}, {
+    "code": 101307012,
+    "name": "Public",
+    "citymun": "Kalilangan"
+}, {
+    "code": 101307013,
+    "name": "Ninoy Aquino",
+    "citymun": "Kalilangan"
+}, {
+    "code": 101307014,
+    "name": "San Vicente Ferrer",
+    "citymun": "Kalilangan"
+}, {
+    "code": 101307015,
+    "name": "West Poblacion",
+    "citymun": "Kalilangan"
+}, {
+    "code": 101308003,
+    "name": "Balintawak",
+    "citymun": "Kibawe"
+}, {
+    "code": 101308006,
+    "name": "Cagawasan",
+    "citymun": "Kibawe"
+}, {
+    "code": 101308007,
+    "name": "East Kibawe (Pob.)",
+    "citymun": "Kibawe"
+}, {
+    "code": 101308008,
+    "name": "Gutapol",
+    "citymun": "Kibawe"
+}, {
+    "code": 101308011,
+    "name": "Pinamula",
+    "citymun": "Kibawe"
+}, {
+    "code": 101308013,
+    "name": "Kiorao",
+    "citymun": "Kibawe"
+}, {
+    "code": 101308014,
+    "name": "Kisawa",
+    "citymun": "Kibawe"
+}, {
+    "code": 101308015,
+    "name": "Labuagon",
+    "citymun": "Kibawe"
+}, {
+    "code": 101308016,
+    "name": "Magsaysay",
+    "citymun": "Kibawe"
+}, {
+    "code": 101308018,
+    "name": "Marapangi",
+    "citymun": "Kibawe"
+}, {
+    "code": 101308019,
+    "name": "Mascariñas",
+    "citymun": "Kibawe"
+}, {
+    "code": 101308020,
+    "name": "Natulongan",
+    "citymun": "Kibawe"
+}, {
+    "code": 101308021,
+    "name": "New Kidapawan",
+    "citymun": "Kibawe"
+}, {
+    "code": 101308023,
+    "name": "Old Kibawe",
+    "citymun": "Kibawe"
+}, {
+    "code": 101308028,
+    "name": "Romagooc",
+    "citymun": "Kibawe"
+}, {
+    "code": 101308030,
+    "name": "Sampaguita",
+    "citymun": "Kibawe"
+}, {
+    "code": 101308031,
+    "name": "Sanipon",
+    "citymun": "Kibawe"
+}, {
+    "code": 101308032,
+    "name": "Spring",
+    "citymun": "Kibawe"
+}, {
+    "code": 101308033,
+    "name": "Talahiron",
+    "citymun": "Kibawe"
+}, {
+    "code": 101308034,
+    "name": "Tumaras",
+    "citymun": "Kibawe"
+}, {
+    "code": 101308035,
+    "name": "West Kibawe (Pob.)",
+    "citymun": "Kibawe"
+}, {
+    "code": 101308036,
+    "name": "Bukang Liwayway",
+    "citymun": "Kibawe"
+}, {
+    "code": 101308037,
+    "name": "Palma",
+    "citymun": "Kibawe"
+}, {
+    "code": 101309001,
+    "name": "Balangigay",
+    "citymun": "Kitaotao"
+}, {
+    "code": 101309002,
+    "name": "Balukbukan",
+    "citymun": "Kitaotao"
+}, {
+    "code": 101309003,
+    "name": "Bershiba",
+    "citymun": "Kitaotao"
+}, {
+    "code": 101309004,
+    "name": "Bobong",
+    "citymun": "Kitaotao"
+}, {
+    "code": 101309005,
+    "name": "Bolocaon",
+    "citymun": "Kitaotao"
+}, {
+    "code": 101309006,
+    "name": "Cabalantian",
+    "citymun": "Kitaotao"
+}, {
+    "code": 101309007,
+    "name": "Calapaton",
+    "citymun": "Kitaotao"
+}, {
+    "code": 101309009,
+    "name": "Sinaysayan (Dalurong)",
+    "citymun": "Kitaotao"
+}, {
+    "code": 101309010,
+    "name": "Kahusayan",
+    "citymun": "Kitaotao"
+}, {
+    "code": 101309011,
+    "name": "Kalumihan",
+    "citymun": "Kitaotao"
+}, {
+    "code": 101309012,
+    "name": "Kauyonan",
+    "citymun": "Kitaotao"
+}, {
+    "code": 101309013,
+    "name": "Kimolong",
+    "citymun": "Kitaotao"
+}, {
+    "code": 101309014,
+    "name": "Kitaihon",
+    "citymun": "Kitaotao"
+}, {
+    "code": 101309015,
+    "name": "Kitobo",
+    "citymun": "Kitaotao"
+}, {
+    "code": 101309019,
+    "name": "Magsaysay",
+    "citymun": "Kitaotao"
+}, {
+    "code": 101309020,
+    "name": "Malobalo",
+    "citymun": "Kitaotao"
+}, {
+    "code": 101309021,
+    "name": "Metebagao",
+    "citymun": "Kitaotao"
+}, {
+    "code": 101309022,
+    "name": "Sagundanon",
+    "citymun": "Kitaotao"
+}, {
+    "code": 101309023,
+    "name": "Pagan",
+    "citymun": "Kitaotao"
+}, {
+    "code": 101309025,
+    "name": "Panganan",
+    "citymun": "Kitaotao"
+}, {
+    "code": 101309026,
+    "name": "Poblacion",
+    "citymun": "Kitaotao"
+}, {
+    "code": 101309028,
+    "name": "San Isidro",
+    "citymun": "Kitaotao"
+}, {
+    "code": 101309029,
+    "name": "San Lorenzo",
+    "citymun": "Kitaotao"
+}, {
+    "code": 101309030,
+    "name": "Santo Rosario",
+    "citymun": "Kitaotao"
+}, {
+    "code": 101309031,
+    "name": "Sinuda (Simod)",
+    "citymun": "Kitaotao"
+}, {
+    "code": 101309032,
+    "name": "Tandong",
+    "citymun": "Kitaotao"
+}, {
+    "code": 101309033,
+    "name": "Tawas",
+    "citymun": "Kitaotao"
+}, {
+    "code": 101309034,
+    "name": "White Kulaman",
+    "citymun": "Kitaotao"
+}, {
+    "code": 101309035,
+    "name": "Napalico",
+    "citymun": "Kitaotao"
+}, {
+    "code": 101309037,
+    "name": "Digongan",
+    "citymun": "Kitaotao"
+}, {
+    "code": 101309038,
+    "name": "Kiulom",
+    "citymun": "Kitaotao"
+}, {
+    "code": 101309039,
+    "name": "Binoongan",
+    "citymun": "Kitaotao"
+}, {
+    "code": 101309040,
+    "name": "Kipilas",
+    "citymun": "Kitaotao"
+}, {
+    "code": 101309041,
+    "name": "East Dalurong",
+    "citymun": "Kitaotao"
+}, {
+    "code": 101309042,
+    "name": "West Dalurong",
+    "citymun": "Kitaotao"
+}, {
+    "code": 101310001,
+    "name": "Alanib",
+    "citymun": "Lantapan"
+}, {
+    "code": 101310002,
+    "name": "Baclayon",
+    "citymun": "Lantapan"
+}, {
+    "code": 101310003,
+    "name": "Balila",
+    "citymun": "Lantapan"
+}, {
+    "code": 101310004,
+    "name": "Bantuanon",
+    "citymun": "Lantapan"
+}, {
+    "code": 101310005,
+    "name": "Basak",
+    "citymun": "Lantapan"
+}, {
+    "code": 101310006,
+    "name": "Bugcaon",
+    "citymun": "Lantapan"
+}, {
+    "code": 101310007,
+    "name": "Ka-atoan (Kaatuan)",
+    "citymun": "Lantapan"
+}, {
+    "code": 101310008,
+    "name": "Capitan Juan",
+    "citymun": "Lantapan"
+}, {
+    "code": 101310009,
+    "name": "Cawayan",
+    "citymun": "Lantapan"
+}, {
+    "code": 101310010,
+    "name": "Kulasihan",
+    "citymun": "Lantapan"
+}, {
+    "code": 101310011,
+    "name": "Kibangay",
+    "citymun": "Lantapan"
+}, {
+    "code": 101310012,
+    "name": "Poblacion",
+    "citymun": "Lantapan"
+}, {
+    "code": 101310013,
+    "name": "Songco",
+    "citymun": "Lantapan"
+}, {
+    "code": 101310014,
+    "name": "Victory",
+    "citymun": "Lantapan"
+}, {
+    "code": 101311001,
+    "name": "Capihan",
+    "citymun": "Libona"
+}, {
+    "code": 101311002,
+    "name": "Crossing",
+    "citymun": "Libona"
+}, {
+    "code": 101311003,
+    "name": "Gango",
+    "citymun": "Libona"
+}, {
+    "code": 101311004,
+    "name": "Kiliog",
+    "citymun": "Libona"
+}, {
+    "code": 101311005,
+    "name": "Kinawe",
+    "citymun": "Libona"
+}, {
+    "code": 101311006,
+    "name": "Laturan",
+    "citymun": "Libona"
+}, {
+    "code": 101311007,
+    "name": "Maambong",
+    "citymun": "Libona"
+}, {
+    "code": 101311008,
+    "name": "Nangka",
+    "citymun": "Libona"
+}, {
+    "code": 101311009,
+    "name": "Palabucan",
+    "citymun": "Libona"
+}, {
+    "code": 101311010,
+    "name": "Poblacion",
+    "citymun": "Libona"
+}, {
+    "code": 101311011,
+    "name": "Pongol",
+    "citymun": "Libona"
+}, {
+    "code": 101311012,
+    "name": "San Jose",
+    "citymun": "Libona"
+}, {
+    "code": 101311013,
+    "name": "Santa Fe",
+    "citymun": "Libona"
+}, {
+    "code": 101311014,
+    "name": "Sil-ipon",
+    "citymun": "Libona"
+}, {
+    "code": 101312001,
+    "name": "Aglayan",
+    "citymun": "City Of Malaybalay Capital"
+}, {
+    "code": 101312002,
+    "name": "Bangcud",
+    "citymun": "City Of Malaybalay Capital"
+}, {
+    "code": 101312003,
+    "name": "Busdi",
+    "citymun": "City Of Malaybalay Capital"
+}, {
+    "code": 101312004,
+    "name": "Cabangahan",
+    "citymun": "City Of Malaybalay Capital"
+}, {
+    "code": 101312007,
+    "name": "Caburacanan",
+    "citymun": "City Of Malaybalay Capital"
+}, {
+    "code": 101312009,
+    "name": "Canayan",
+    "citymun": "City Of Malaybalay Capital"
+}, {
+    "code": 101312010,
+    "name": "Capitan Angel",
+    "citymun": "City Of Malaybalay Capital"
+}, {
+    "code": 101312012,
+    "name": "Casisang",
+    "citymun": "City Of Malaybalay Capital"
+}, {
+    "code": 101312014,
+    "name": "Dalwangan",
+    "citymun": "City Of Malaybalay Capital"
+}, {
+    "code": 101312017,
+    "name": "Imbayao",
+    "citymun": "City Of Malaybalay Capital"
+}, {
+    "code": 101312018,
+    "name": "Indalaza",
+    "citymun": "City Of Malaybalay Capital"
+}, {
+    "code": 101312019,
+    "name": "Kalasungay",
+    "citymun": "City Of Malaybalay Capital"
+}, {
+    "code": 101312021,
+    "name": "Kabalabag",
+    "citymun": "City Of Malaybalay Capital"
+}, {
+    "code": 101312022,
+    "name": "Kulaman",
+    "citymun": "City Of Malaybalay Capital"
+}, {
+    "code": 101312023,
+    "name": "Laguitas",
+    "citymun": "City Of Malaybalay Capital"
+}, {
+    "code": 101312025,
+    "name": "Patpat (Lapu-lapu)",
+    "citymun": "City Of Malaybalay Capital"
+}, {
+    "code": 101312026,
+    "name": "Linabo",
+    "citymun": "City Of Malaybalay Capital"
+}, {
+    "code": 101312027,
+    "name": "Apo Macote",
+    "citymun": "City Of Malaybalay Capital"
+}, {
+    "code": 101312028,
+    "name": "Miglamin",
+    "citymun": "City Of Malaybalay Capital"
+}, {
+    "code": 101312029,
+    "name": "Magsaysay",
+    "citymun": "City Of Malaybalay Capital"
+}, {
+    "code": 101312030,
+    "name": "Maligaya",
+    "citymun": "City Of Malaybalay Capital"
+}, {
+    "code": 101312031,
+    "name": "Managok",
+    "citymun": "City Of Malaybalay Capital"
+}, {
+    "code": 101312032,
+    "name": "Manalog",
+    "citymun": "City Of Malaybalay Capital"
+}, {
+    "code": 101312034,
+    "name": "Mapayag",
+    "citymun": "City Of Malaybalay Capital"
+}, {
+    "code": 101312035,
+    "name": "Mapulo",
+    "citymun": "City Of Malaybalay Capital"
+}, {
+    "code": 101312038,
+    "name": "Barangay 1 (Pob.)",
+    "citymun": "City Of Malaybalay Capital"
+}, {
+    "code": 101312045,
+    "name": "Barangay 2 (Pob.)",
+    "citymun": "City Of Malaybalay Capital"
+}, {
+    "code": 101312046,
+    "name": "Barangay 3 (Pob.)",
+    "citymun": "City Of Malaybalay Capital"
+}, {
+    "code": 101312047,
+    "name": "Barangay 4 (Pob.)",
+    "citymun": "City Of Malaybalay Capital"
+}, {
+    "code": 101312048,
+    "name": "Barangay 5 (Pob.)",
+    "citymun": "City Of Malaybalay Capital"
+}, {
+    "code": 101312049,
+    "name": "Barangay 6 (Pob.)",
+    "citymun": "City Of Malaybalay Capital"
+}, {
+    "code": 101312050,
+    "name": "Barangay 7 (Pob.)",
+    "citymun": "City Of Malaybalay Capital"
+}, {
+    "code": 101312051,
+    "name": "Barangay 8 (Pob.)",
+    "citymun": "City Of Malaybalay Capital"
+}, {
+    "code": 101312052,
+    "name": "Barangay 9 (Pob.)",
+    "citymun": "City Of Malaybalay Capital"
+}, {
+    "code": 101312053,
+    "name": "Barangay 10 (Pob.)",
+    "citymun": "City Of Malaybalay Capital"
+}, {
+    "code": 101312054,
+    "name": "Barangay 11 (Pob.)",
+    "citymun": "City Of Malaybalay Capital"
+}, {
+    "code": 101312058,
+    "name": "Saint Peter",
+    "citymun": "City Of Malaybalay Capital"
+}, {
+    "code": 101312059,
+    "name": "San Jose",
+    "citymun": "City Of Malaybalay Capital"
+}, {
+    "code": 101312060,
+    "name": "San Martin",
+    "citymun": "City Of Malaybalay Capital"
+}, {
+    "code": 101312061,
+    "name": "Santo Niño",
+    "citymun": "City Of Malaybalay Capital"
+}, {
+    "code": 101312062,
+    "name": "Silae",
+    "citymun": "City Of Malaybalay Capital"
+}, {
+    "code": 101312063,
+    "name": "Simaya",
+    "citymun": "City Of Malaybalay Capital"
+}, {
+    "code": 101312064,
+    "name": "Sinanglanan",
+    "citymun": "City Of Malaybalay Capital"
+}, {
+    "code": 101312065,
+    "name": "Sumpong",
+    "citymun": "City Of Malaybalay Capital"
+}, {
+    "code": 101312066,
+    "name": "Violeta",
+    "citymun": "City Of Malaybalay Capital"
+}, {
+    "code": 101312067,
+    "name": "Zamboanguita",
+    "citymun": "City Of Malaybalay Capital"
+}, {
+    "code": 101313001,
+    "name": "Kalingking",
+    "citymun": "Malitbog"
+}, {
+    "code": 101313002,
+    "name": "Kiabo",
+    "citymun": "Malitbog"
+}, {
+    "code": 101313003,
+    "name": "Mindagat",
+    "citymun": "Malitbog"
+}, {
+    "code": 101313004,
+    "name": "Omagling",
+    "citymun": "Malitbog"
+}, {
+    "code": 101313005,
+    "name": "Patpat",
+    "citymun": "Malitbog"
+}, {
+    "code": 101313006,
+    "name": "Poblacion",
+    "citymun": "Malitbog"
+}, {
+    "code": 101313007,
+    "name": "Sampiano",
+    "citymun": "Malitbog"
+}, {
+    "code": 101313008,
+    "name": "San Luis",
+    "citymun": "Malitbog"
+}, {
+    "code": 101313009,
+    "name": "Santa Ines",
+    "citymun": "Malitbog"
+}, {
+    "code": 101313010,
+    "name": "Silo-o",
+    "citymun": "Malitbog"
+}, {
+    "code": 101313011,
+    "name": "Sumalsag",
+    "citymun": "Malitbog"
+}, {
+    "code": 101314001,
+    "name": "Agusan Canyon",
+    "citymun": "Manolo Fortich"
+}, {
+    "code": 101314002,
+    "name": "Alae",
+    "citymun": "Manolo Fortich"
+}, {
+    "code": 101314003,
+    "name": "Dahilayan",
+    "citymun": "Manolo Fortich"
+}, {
+    "code": 101314004,
+    "name": "Dalirig",
+    "citymun": "Manolo Fortich"
+}, {
+    "code": 101314005,
+    "name": "Damilag",
+    "citymun": "Manolo Fortich"
+}, {
+    "code": 101314006,
+    "name": "Diclum",
+    "citymun": "Manolo Fortich"
+}, {
+    "code": 101314007,
+    "name": "Guilang-guilang",
+    "citymun": "Manolo Fortich"
+}, {
+    "code": 101314008,
+    "name": "Kalugmanan",
+    "citymun": "Manolo Fortich"
+}, {
+    "code": 101314009,
+    "name": "Lindaban",
+    "citymun": "Manolo Fortich"
+}, {
+    "code": 101314010,
+    "name": "Lingion",
+    "citymun": "Manolo Fortich"
+}, {
+    "code": 101314011,
+    "name": "Lunocan",
+    "citymun": "Manolo Fortich"
+}, {
+    "code": 101314012,
+    "name": "Maluko",
+    "citymun": "Manolo Fortich"
+}, {
+    "code": 101314013,
+    "name": "Mambatangan",
+    "citymun": "Manolo Fortich"
+}, {
+    "code": 101314014,
+    "name": "Mampayag",
+    "citymun": "Manolo Fortich"
+}, {
+    "code": 101314015,
+    "name": "Minsuro",
+    "citymun": "Manolo Fortich"
+}, {
+    "code": 101314016,
+    "name": "Mantibugao",
+    "citymun": "Manolo Fortich"
+}, {
+    "code": 101314017,
+    "name": "Tankulan (Pob.)",
+    "citymun": "Manolo Fortich"
+}, {
+    "code": 101314018,
+    "name": "San Miguel",
+    "citymun": "Manolo Fortich"
+}, {
+    "code": 101314019,
+    "name": "Sankanan",
+    "citymun": "Manolo Fortich"
+}, {
+    "code": 101314020,
+    "name": "Santiago",
+    "citymun": "Manolo Fortich"
+}, {
+    "code": 101314021,
+    "name": "Santo Niño",
+    "citymun": "Manolo Fortich"
+}, {
+    "code": 101314023,
+    "name": "Ticala",
+    "citymun": "Manolo Fortich"
+}, {
+    "code": 101315001,
+    "name": "Anahawon",
+    "citymun": "Maramag"
+}, {
+    "code": 101315002,
+    "name": "Base Camp",
+    "citymun": "Maramag"
+}, {
+    "code": 101315003,
+    "name": "Bayabason (Spring)",
+    "citymun": "Maramag"
+}, {
+    "code": 101315004,
+    "name": "Camp I",
+    "citymun": "Maramag"
+}, {
+    "code": 101315005,
+    "name": "Colambugan",
+    "citymun": "Maramag"
+}, {
+    "code": 101315006,
+    "name": "Dagumba-an",
+    "citymun": "Maramag"
+}, {
+    "code": 101315007,
+    "name": "Danggawan",
+    "citymun": "Maramag"
+}, {
+    "code": 101315008,
+    "name": "Dologon",
+    "citymun": "Maramag"
+}, {
+    "code": 101315009,
+    "name": "Kisanday",
+    "citymun": "Maramag"
+}, {
+    "code": 101315010,
+    "name": "Kuya",
+    "citymun": "Maramag"
+}, {
+    "code": 101315011,
+    "name": "La Roxas",
+    "citymun": "Maramag"
+}, {
+    "code": 101315012,
+    "name": "Panadtalan",
+    "citymun": "Maramag"
+}, {
+    "code": 101315013,
+    "name": "Panalsalan",
+    "citymun": "Maramag"
+}, {
+    "code": 101315014,
+    "name": "North Poblacion",
+    "citymun": "Maramag"
+}, {
+    "code": 101315015,
+    "name": "South Poblacion",
+    "citymun": "Maramag"
+}, {
+    "code": 101315016,
+    "name": "San Miguel",
+    "citymun": "Maramag"
+}, {
+    "code": 101315017,
+    "name": "San Roque",
+    "citymun": "Maramag"
+}, {
+    "code": 101315018,
+    "name": "Tubigon",
+    "citymun": "Maramag"
+}, {
+    "code": 101315019,
+    "name": "Bagongsilang",
+    "citymun": "Maramag"
+}, {
+    "code": 101315020,
+    "name": "Kiharong",
+    "citymun": "Maramag"
+}, {
+    "code": 101316001,
+    "name": "Adtuyon",
+    "citymun": "Pangantucan"
+}, {
+    "code": 101316002,
+    "name": "Bacusanon",
+    "citymun": "Pangantucan"
+}, {
+    "code": 101316003,
+    "name": "Bangahan",
+    "citymun": "Pangantucan"
+}, {
+    "code": 101316004,
+    "name": "Barandias",
+    "citymun": "Pangantucan"
+}, {
+    "code": 101316005,
+    "name": "Concepcion",
+    "citymun": "Pangantucan"
+}, {
+    "code": 101316006,
+    "name": "Gandingan",
+    "citymun": "Pangantucan"
+}, {
+    "code": 101316007,
+    "name": "Kimanait",
+    "citymun": "Pangantucan"
+}, {
+    "code": 101316008,
+    "name": "Kipadukan",
+    "citymun": "Pangantucan"
+}, {
+    "code": 101316009,
+    "name": "Langcataon",
+    "citymun": "Pangantucan"
+}, {
+    "code": 101316010,
+    "name": "Lantay",
+    "citymun": "Pangantucan"
+}, {
+    "code": 101316011,
+    "name": "Madaya",
+    "citymun": "Pangantucan"
+}, {
+    "code": 101316012,
+    "name": "Malipayon",
+    "citymun": "Pangantucan"
+}, {
+    "code": 101316013,
+    "name": "Mendis",
+    "citymun": "Pangantucan"
+}, {
+    "code": 101316014,
+    "name": "Nabaliwa",
+    "citymun": "Pangantucan"
+}, {
+    "code": 101316015,
+    "name": "New Eden",
+    "citymun": "Pangantucan"
+}, {
+    "code": 101316016,
+    "name": "Payad",
+    "citymun": "Pangantucan"
+}, {
+    "code": 101316017,
+    "name": "Pigtauranan",
+    "citymun": "Pangantucan"
+}, {
+    "code": 101316018,
+    "name": "Poblacion",
+    "citymun": "Pangantucan"
+}, {
+    "code": 101316019,
+    "name": "Portulin",
+    "citymun": "Pangantucan"
+}, {
+    "code": 101317001,
+    "name": "Butong",
+    "citymun": "Quezon"
+}, {
+    "code": 101317002,
+    "name": "Cebole",
+    "citymun": "Quezon"
+}, {
+    "code": 101317003,
+    "name": "Delapa",
+    "citymun": "Quezon"
+}, {
+    "code": 101317004,
+    "name": "Dumalama",
+    "citymun": "Quezon"
+}, {
+    "code": 101317006,
+    "name": "C-Handumanan",
+    "citymun": "Quezon"
+}, {
+    "code": 101317007,
+    "name": "Cawayan",
+    "citymun": "Quezon"
+}, {
+    "code": 101317008,
+    "name": "Kiburiao",
+    "citymun": "Quezon"
+}, {
+    "code": 101317009,
+    "name": "Kipaypayon",
+    "citymun": "Quezon"
+}, {
+    "code": 101317010,
+    "name": "Libertad",
+    "citymun": "Quezon"
+}, {
+    "code": 101317012,
+    "name": "Linabo",
+    "citymun": "Quezon"
+}, {
+    "code": 101317013,
+    "name": "Lipa",
+    "citymun": "Quezon"
+}, {
+    "code": 101317014,
+    "name": "Lumintao",
+    "citymun": "Quezon"
+}, {
+    "code": 101317016,
+    "name": "Magsaysay",
+    "citymun": "Quezon"
+}, {
+    "code": 101317017,
+    "name": "Mahayag",
+    "citymun": "Quezon"
+}, {
+    "code": 101317018,
+    "name": "Manuto",
+    "citymun": "Quezon"
+}, {
+    "code": 101317019,
+    "name": "Merangerang",
+    "citymun": "Quezon"
+}, {
+    "code": 101317020,
+    "name": "Mibantang",
+    "citymun": "Quezon"
+}, {
+    "code": 101317021,
+    "name": "Minongan",
+    "citymun": "Quezon"
+}, {
+    "code": 101317022,
+    "name": "Minsamongan",
+    "citymun": "Quezon"
+}, {
+    "code": 101317025,
+    "name": "Paitan",
+    "citymun": "Quezon"
+}, {
+    "code": 101317026,
+    "name": "Palacapao",
+    "citymun": "Quezon"
+}, {
+    "code": 101317027,
+    "name": "Pinilayan",
+    "citymun": "Quezon"
+}, {
+    "code": 101317028,
+    "name": "Poblacion (Kiokong)",
+    "citymun": "Quezon"
+}, {
+    "code": 101317029,
+    "name": "Puntian",
+    "citymun": "Quezon"
+}, {
+    "code": 101317030,
+    "name": "Salawagan",
+    "citymun": "Quezon"
+}, {
+    "code": 101317031,
+    "name": "San Isidro",
+    "citymun": "Quezon"
+}, {
+    "code": 101317032,
+    "name": "San Jose",
+    "citymun": "Quezon"
+}, {
+    "code": 101317033,
+    "name": "San Roque",
+    "citymun": "Quezon"
+}, {
+    "code": 101317034,
+    "name": "Santa Cruz",
+    "citymun": "Quezon"
+}, {
+    "code": 101317035,
+    "name": "Santa Filomena",
+    "citymun": "Quezon"
+}, {
+    "code": 101317036,
+    "name": "Minsalirak",
+    "citymun": "Quezon"
+}, {
+    "code": 101318001,
+    "name": "Bonacao",
+    "citymun": "San Fernando"
+}, {
+    "code": 101318002,
+    "name": "Cabuling",
+    "citymun": "San Fernando"
+}, {
+    "code": 101318003,
+    "name": "Kawayan",
+    "citymun": "San Fernando"
+}, {
+    "code": 101318004,
+    "name": "Cayaga",
+    "citymun": "San Fernando"
+}, {
+    "code": 101318005,
+    "name": "Dao",
+    "citymun": "San Fernando"
+}, {
+    "code": 101318007,
+    "name": "Durian",
+    "citymun": "San Fernando"
+}, {
+    "code": 101318009,
+    "name": "Iglugsad",
+    "citymun": "San Fernando"
+}, {
+    "code": 101318010,
+    "name": "Kalagangan",
+    "citymun": "San Fernando"
+}, {
+    "code": 101318014,
+    "name": "Kibongcog",
+    "citymun": "San Fernando"
+}, {
+    "code": 101318016,
+    "name": "Little Baguio",
+    "citymun": "San Fernando"
+}, {
+    "code": 101318019,
+    "name": "Nacabuklad",
+    "citymun": "San Fernando"
+}, {
+    "code": 101318020,
+    "name": "Namnam",
+    "citymun": "San Fernando"
+}, {
+    "code": 101318021,
+    "name": "Palacpacan",
+    "citymun": "San Fernando"
+}, {
+    "code": 101318022,
+    "name": "Halapitan (Pob.)",
+    "citymun": "San Fernando"
+}, {
+    "code": 101318023,
+    "name": "San Jose",
+    "citymun": "San Fernando"
+}, {
+    "code": 101318024,
+    "name": "Santo Domingo",
+    "citymun": "San Fernando"
+}, {
+    "code": 101318025,
+    "name": "Tugop",
+    "citymun": "San Fernando"
+}, {
+    "code": 101318026,
+    "name": "Matupe",
+    "citymun": "San Fernando"
+}, {
+    "code": 101318027,
+    "name": "Bulalang",
+    "citymun": "San Fernando"
+}, {
+    "code": 101318028,
+    "name": "Candelaria",
+    "citymun": "San Fernando"
+}, {
+    "code": 101318029,
+    "name": "Mabuhay",
+    "citymun": "San Fernando"
+}, {
+    "code": 101318030,
+    "name": "Magkalungay",
+    "citymun": "San Fernando"
+}, {
+    "code": 101318031,
+    "name": "Malayanan",
+    "citymun": "San Fernando"
+}, {
+    "code": 101318032,
+    "name": "Sacramento Valley",
+    "citymun": "San Fernando"
+}, {
+    "code": 101319001,
+    "name": "Kisolon",
+    "citymun": "Sumilao"
+}, {
+    "code": 101319002,
+    "name": "Culasi",
+    "citymun": "Sumilao"
+}, {
+    "code": 101319003,
+    "name": "Licoan",
+    "citymun": "Sumilao"
+}, {
+    "code": 101319004,
+    "name": "Lupiagan",
+    "citymun": "Sumilao"
+}, {
+    "code": 101319005,
+    "name": "Ocasion",
+    "citymun": "Sumilao"
+}, {
+    "code": 101319006,
+    "name": "Puntian",
+    "citymun": "Sumilao"
+}, {
+    "code": 101319007,
+    "name": "San Roque",
+    "citymun": "Sumilao"
+}, {
+    "code": 101319008,
+    "name": "San Vicente",
+    "citymun": "Sumilao"
+}, {
+    "code": 101319009,
+    "name": "Poblacion",
+    "citymun": "Sumilao"
+}, {
+    "code": 101319010,
+    "name": "Vista Villa",
+    "citymun": "Sumilao"
+}, {
+    "code": 101320001,
+    "name": "Basak",
+    "citymun": "Talakag"
+}, {
+    "code": 101320002,
+    "name": "Baylanan",
+    "citymun": "Talakag"
+}, {
+    "code": 101320003,
+    "name": "Cacaon",
+    "citymun": "Talakag"
+}, {
+    "code": 101320004,
+    "name": "Colawingon",
+    "citymun": "Talakag"
+}, {
+    "code": 101320005,
+    "name": "Cosina",
+    "citymun": "Talakag"
+}, {
+    "code": 101320006,
+    "name": "Dagumbaan",
+    "citymun": "Talakag"
+}, {
+    "code": 101320007,
+    "name": "Dagundalahon",
+    "citymun": "Talakag"
+}, {
+    "code": 101320008,
+    "name": "Dominorog",
+    "citymun": "Talakag"
+}, {
+    "code": 101320009,
+    "name": "Lapok",
+    "citymun": "Talakag"
+}, {
+    "code": 101320010,
+    "name": "Indulang",
+    "citymun": "Talakag"
+}, {
+    "code": 101320011,
+    "name": "Lantud",
+    "citymun": "Talakag"
+}, {
+    "code": 101320013,
+    "name": "Liguron",
+    "citymun": "Talakag"
+}, {
+    "code": 101320014,
+    "name": "Lingi-on",
+    "citymun": "Talakag"
+}, {
+    "code": 101320015,
+    "name": "Lirongan",
+    "citymun": "Talakag"
+}, {
+    "code": 101320016,
+    "name": "Santo Niño (Lumbayawa)",
+    "citymun": "Talakag"
+}, {
+    "code": 101320018,
+    "name": "Miarayon",
+    "citymun": "Talakag"
+}, {
+    "code": 101320019,
+    "name": "Barangay 1 (Pob.)",
+    "citymun": "Talakag"
+}, {
+    "code": 101320020,
+    "name": "Barangay 2 (Pob.)",
+    "citymun": "Talakag"
+}, {
+    "code": 101320021,
+    "name": "Barangay 3 (Pob.)",
+    "citymun": "Talakag"
+}, {
+    "code": 101320022,
+    "name": "Barangay 4 (Pob.)",
+    "citymun": "Talakag"
+}, {
+    "code": 101320023,
+    "name": "Barangay 5 (Pob.)",
+    "citymun": "Talakag"
+}, {
+    "code": 101320024,
+    "name": "Sagaran",
+    "citymun": "Talakag"
+}, {
+    "code": 101320025,
+    "name": "Salucot",
+    "citymun": "Talakag"
+}, {
+    "code": 101320026,
+    "name": "San Antonio",
+    "citymun": "Talakag"
+}, {
+    "code": 101320027,
+    "name": "San Isidro",
+    "citymun": "Talakag"
+}, {
+    "code": 101320028,
+    "name": "San Miguel",
+    "citymun": "Talakag"
+}, {
+    "code": 101320029,
+    "name": "San Rafael",
+    "citymun": "Talakag"
+}, {
+    "code": 101320030,
+    "name": "Tagbak",
+    "citymun": "Talakag"
+}, {
+    "code": 101320031,
+    "name": "Tikalaan",
+    "citymun": "Talakag"
+}, {
+    "code": 101321001,
+    "name": "Bagontaas",
+    "citymun": "City Of Valencia"
+}, {
+    "code": 101321002,
+    "name": "Banlag",
+    "citymun": "City Of Valencia"
+}, {
+    "code": 101321003,
+    "name": "Barobo",
+    "citymun": "City Of Valencia"
+}, {
+    "code": 101321004,
+    "name": "Batangan",
+    "citymun": "City Of Valencia"
+}, {
+    "code": 101321005,
+    "name": "Catumbalon",
+    "citymun": "City Of Valencia"
+}, {
+    "code": 101321006,
+    "name": "Colonia",
+    "citymun": "City Of Valencia"
+}, {
+    "code": 101321007,
+    "name": "Concepcion",
+    "citymun": "City Of Valencia"
+}, {
+    "code": 101321008,
+    "name": "Dagat-Kidavao",
+    "citymun": "City Of Valencia"
+}, {
+    "code": 101321010,
+    "name": "Guinoyuran",
+    "citymun": "City Of Valencia"
+}, {
+    "code": 101321011,
+    "name": "Kahapunan",
+    "citymun": "City Of Valencia"
+}, {
+    "code": 101321012,
+    "name": "Laligan",
+    "citymun": "City Of Valencia"
+}, {
+    "code": 101321013,
+    "name": "Lilingayon",
+    "citymun": "City Of Valencia"
+}, {
+    "code": 101321014,
+    "name": "Lourdes",
+    "citymun": "City Of Valencia"
+}, {
+    "code": 101321015,
+    "name": "Lumbayao",
+    "citymun": "City Of Valencia"
+}, {
+    "code": 101321016,
+    "name": "Lumbo",
+    "citymun": "City Of Valencia"
+}, {
+    "code": 101321017,
+    "name": "Lurogan",
+    "citymun": "City Of Valencia"
+}, {
+    "code": 101321018,
+    "name": "Maapag",
+    "citymun": "City Of Valencia"
+}, {
+    "code": 101321019,
+    "name": "Mabuhay",
+    "citymun": "City Of Valencia"
+}, {
+    "code": 101321020,
+    "name": "Mailag",
+    "citymun": "City Of Valencia"
+}, {
+    "code": 101321021,
+    "name": "Mt. Nebo",
+    "citymun": "City Of Valencia"
+}, {
+    "code": 101321022,
+    "name": "Nabago",
+    "citymun": "City Of Valencia"
+}, {
+    "code": 101321023,
+    "name": "Pinatilan",
+    "citymun": "City Of Valencia"
+}, {
+    "code": 101321024,
+    "name": "Poblacion",
+    "citymun": "City Of Valencia"
+}, {
+    "code": 101321025,
+    "name": "San Carlos",
+    "citymun": "City Of Valencia"
+}, {
+    "code": 101321026,
+    "name": "San Isidro",
+    "citymun": "City Of Valencia"
+}, {
+    "code": 101321028,
+    "name": "Sinabuagan",
+    "citymun": "City Of Valencia"
+}, {
+    "code": 101321029,
+    "name": "Sinayawan",
+    "citymun": "City Of Valencia"
+}, {
+    "code": 101321030,
+    "name": "Sugod",
+    "citymun": "City Of Valencia"
+}, {
+    "code": 101321033,
+    "name": "Tongantongan",
+    "citymun": "City Of Valencia"
+}, {
+    "code": 101321034,
+    "name": "Tugaya",
+    "citymun": "City Of Valencia"
+}, {
+    "code": 101321035,
+    "name": "Vintar",
+    "citymun": "City Of Valencia"
+}, {
+    "code": 101322001,
+    "name": "Cabulohan",
+    "citymun": "Cabanglasan"
+}, {
+    "code": 101322002,
+    "name": "Canangaan",
+    "citymun": "Cabanglasan"
+}, {
+    "code": 101322003,
+    "name": "Iba",
+    "citymun": "Cabanglasan"
+}, {
+    "code": 101322004,
+    "name": "Imbatug",
+    "citymun": "Cabanglasan"
+}, {
+    "code": 101322005,
+    "name": "Lambangan",
+    "citymun": "Cabanglasan"
+}, {
+    "code": 101322006,
+    "name": "Mandaing",
+    "citymun": "Cabanglasan"
+}, {
+    "code": 101322007,
+    "name": "Paradise",
+    "citymun": "Cabanglasan"
+}, {
+    "code": 101322008,
+    "name": "Poblacion",
+    "citymun": "Cabanglasan"
+}, {
+    "code": 101322009,
+    "name": "Anlogan",
+    "citymun": "Cabanglasan"
+}, {
+    "code": 101322010,
+    "name": "Capinonan",
+    "citymun": "Cabanglasan"
+}, {
+    "code": 101322011,
+    "name": "Dalacutan",
+    "citymun": "Cabanglasan"
+}, {
+    "code": 101322012,
+    "name": "Freedom",
+    "citymun": "Cabanglasan"
+}, {
+    "code": 101322013,
+    "name": "Mandahikan",
+    "citymun": "Cabanglasan"
+}, {
+    "code": 101322014,
+    "name": "Mauswagon",
+    "citymun": "Cabanglasan"
+}, {
+    "code": 101322015,
+    "name": "Jasaan",
+    "citymun": "Cabanglasan"
+}, {
+    "code": 101801001,
+    "name": "Alga",
+    "citymun": "Catarman"
+}, {
+    "code": 101801002,
+    "name": "Bonbon",
+    "citymun": "Catarman"
+}, {
+    "code": 101801003,
+    "name": "Bura",
+    "citymun": "Catarman"
+}, {
+    "code": 101801004,
+    "name": "Catibac",
+    "citymun": "Catarman"
+}, {
+    "code": 101801005,
+    "name": "Compol",
+    "citymun": "Catarman"
+}, {
+    "code": 101801006,
+    "name": "Lawigan",
+    "citymun": "Catarman"
+}, {
+    "code": 101801007,
+    "name": "Liloan",
+    "citymun": "Catarman"
+}, {
+    "code": 101801008,
+    "name": "Looc",
+    "citymun": "Catarman"
+}, {
+    "code": 101801009,
+    "name": "Mainit",
+    "citymun": "Catarman"
+}, {
+    "code": 101801010,
+    "name": "Manduao",
+    "citymun": "Catarman"
+}, {
+    "code": 101801011,
+    "name": "Panghiawan",
+    "citymun": "Catarman"
+}, {
+    "code": 101801012,
+    "name": "Poblacion",
+    "citymun": "Catarman"
+}, {
+    "code": 101801013,
+    "name": "Santo Niño",
+    "citymun": "Catarman"
+}, {
+    "code": 101801014,
+    "name": "Tangaro",
+    "citymun": "Catarman"
+}, {
+    "code": 101802001,
+    "name": "Butay",
+    "citymun": "Guinsiliban"
+}, {
+    "code": 101802002,
+    "name": "Cabuan",
+    "citymun": "Guinsiliban"
+}, {
+    "code": 101802003,
+    "name": "Cantaan",
+    "citymun": "Guinsiliban"
+}, {
+    "code": 101802004,
+    "name": "Liong",
+    "citymun": "Guinsiliban"
+}, {
+    "code": 101802005,
+    "name": "Maac",
+    "citymun": "Guinsiliban"
+}, {
+    "code": 101802006,
+    "name": "North Poblacion",
+    "citymun": "Guinsiliban"
+}, {
+    "code": 101802007,
+    "name": "South Poblacion",
+    "citymun": "Guinsiliban"
+}, {
+    "code": 101803001,
+    "name": "Benoni",
+    "citymun": "Mahinog"
+}, {
+    "code": 101803002,
+    "name": "Binatubo (Binaliwan)",
+    "citymun": "Mahinog"
+}, {
+    "code": 101803004,
+    "name": "Catohugan",
+    "citymun": "Mahinog"
+}, {
+    "code": 101803005,
+    "name": "Hubangon",
+    "citymun": "Mahinog"
+}, {
+    "code": 101803006,
+    "name": "Owakan",
+    "citymun": "Mahinog"
+}, {
+    "code": 101803007,
+    "name": "Poblacion",
+    "citymun": "Mahinog"
+}, {
+    "code": 101803008,
+    "name": "Puntod",
+    "citymun": "Mahinog"
+}, {
+    "code": 101803009,
+    "name": "San Isidro",
+    "citymun": "Mahinog"
+}, {
+    "code": 101803010,
+    "name": "San Jose",
+    "citymun": "Mahinog"
+}, {
+    "code": 101803011,
+    "name": "San Miguel",
+    "citymun": "Mahinog"
+}, {
+    "code": 101803012,
+    "name": "San Roque",
+    "citymun": "Mahinog"
+}, {
+    "code": 101803013,
+    "name": "Tubod",
+    "citymun": "Mahinog"
+}, {
+    "code": 101803014,
+    "name": "Tupsan Pequeño",
+    "citymun": "Mahinog"
+}, {
+    "code": 101804001,
+    "name": "Agoho",
+    "citymun": "Mambajao Capital"
+}, {
+    "code": 101804002,
+    "name": "Anito",
+    "citymun": "Mambajao Capital"
+}, {
+    "code": 101804003,
+    "name": "Balbagon",
+    "citymun": "Mambajao Capital"
+}, {
+    "code": 101804004,
+    "name": "Baylao",
+    "citymun": "Mambajao Capital"
+}, {
+    "code": 101804005,
+    "name": "Benhaan",
+    "citymun": "Mambajao Capital"
+}, {
+    "code": 101804006,
+    "name": "Bug-ong",
+    "citymun": "Mambajao Capital"
+}, {
+    "code": 101804007,
+    "name": "Kuguita",
+    "citymun": "Mambajao Capital"
+}, {
+    "code": 101804008,
+    "name": "Magting",
+    "citymun": "Mambajao Capital"
+}, {
+    "code": 101804009,
+    "name": "Naasag",
+    "citymun": "Mambajao Capital"
+}, {
+    "code": 101804010,
+    "name": "Pandan",
+    "citymun": "Mambajao Capital"
+}, {
+    "code": 101804011,
+    "name": "Poblacion",
+    "citymun": "Mambajao Capital"
+}, {
+    "code": 101804015,
+    "name": "Soro-soro",
+    "citymun": "Mambajao Capital"
+}, {
+    "code": 101804016,
+    "name": "Tagdo",
+    "citymun": "Mambajao Capital"
+}, {
+    "code": 101804017,
+    "name": "Tupsan",
+    "citymun": "Mambajao Capital"
+}, {
+    "code": 101804018,
+    "name": "Yumbing",
+    "citymun": "Mambajao Capital"
+}, {
+    "code": 101805001,
+    "name": "Alangilan",
+    "citymun": "Sagay"
+}, {
+    "code": 101805002,
+    "name": "Bacnit",
+    "citymun": "Sagay"
+}, {
+    "code": 101805003,
+    "name": "Balite",
+    "citymun": "Sagay"
+}, {
+    "code": 101805004,
+    "name": "Bonbon",
+    "citymun": "Sagay"
+}, {
+    "code": 101805005,
+    "name": "Bugang",
+    "citymun": "Sagay"
+}, {
+    "code": 101805006,
+    "name": "Cuna",
+    "citymun": "Sagay"
+}, {
+    "code": 101805007,
+    "name": "Manuyog",
+    "citymun": "Sagay"
+}, {
+    "code": 101805008,
+    "name": "Mayana",
+    "citymun": "Sagay"
+}, {
+    "code": 101805009,
+    "name": "Poblacion",
+    "citymun": "Sagay"
+}, {
+    "code": 103501001,
+    "name": "Alegria",
+    "citymun": "Bacolod"
+}, {
+    "code": 103501002,
+    "name": "Babalaya",
+    "citymun": "Bacolod"
+}, {
+    "code": 103501003,
+    "name": "Babalayan Townsite",
+    "citymun": "Bacolod"
+}, {
+    "code": 103501005,
+    "name": "Binuni",
+    "citymun": "Bacolod"
+}, {
+    "code": 103501006,
+    "name": "Demologan",
+    "citymun": "Bacolod"
+}, {
+    "code": 103501007,
+    "name": "Dimarao",
+    "citymun": "Bacolod"
+}, {
+    "code": 103501008,
+    "name": "Esperanza",
+    "citymun": "Bacolod"
+}, {
+    "code": 103501009,
+    "name": "Kahayag",
+    "citymun": "Bacolod"
+}, {
+    "code": 103501010,
+    "name": "Liangan East",
+    "citymun": "Bacolod"
+}, {
+    "code": 103501012,
+    "name": "Punod (Maliwanag)",
+    "citymun": "Bacolod"
+}, {
+    "code": 103501013,
+    "name": "Mati",
+    "citymun": "Bacolod"
+}, {
+    "code": 103501016,
+    "name": "Minaulon",
+    "citymun": "Bacolod"
+}, {
+    "code": 103501017,
+    "name": "Pagayawan",
+    "citymun": "Bacolod"
+}, {
+    "code": 103501018,
+    "name": "Poblacion Bacolod",
+    "citymun": "Bacolod"
+}, {
+    "code": 103501019,
+    "name": "Rupagan",
+    "citymun": "Bacolod"
+}, {
+    "code": 103501020,
+    "name": "Delabayan West",
+    "citymun": "Bacolod"
+}, {
+    "code": 103502001,
+    "name": "Abaga",
+    "citymun": "Baloi"
+}, {
+    "code": 103502002,
+    "name": "Adapun-Ali (Dariat)",
+    "citymun": "Baloi"
+}, {
+    "code": 103502003,
+    "name": "Angandog (Bulao)",
+    "citymun": "Baloi"
+}, {
+    "code": 103502004,
+    "name": "Angayen (Balut)",
+    "citymun": "Baloi"
+}, {
+    "code": 103502005,
+    "name": "Bangko",
+    "citymun": "Baloi"
+}, {
+    "code": 103502006,
+    "name": "Batolacongan (Basagad)",
+    "citymun": "Baloi"
+}, {
+    "code": 103502007,
+    "name": "Buenavista",
+    "citymun": "Baloi"
+}, {
+    "code": 103502009,
+    "name": "Cadayonan",
+    "citymun": "Baloi"
+}, {
+    "code": 103502012,
+    "name": "Landa (Gadongan)",
+    "citymun": "Baloi"
+}, {
+    "code": 103502013,
+    "name": "Lumbac",
+    "citymun": "Baloi"
+}, {
+    "code": 103502014,
+    "name": "Mamaanun",
+    "citymun": "Baloi"
+}, {
+    "code": 103502015,
+    "name": "Maria-Cristina",
+    "citymun": "Baloi"
+}, {
+    "code": 103502016,
+    "name": "Matampay",
+    "citymun": "Baloi"
+}, {
+    "code": 103502017,
+    "name": "Nangka",
+    "citymun": "Baloi"
+}, {
+    "code": 103502019,
+    "name": "Pacalundo",
+    "citymun": "Baloi"
+}, {
+    "code": 103502022,
+    "name": "Poblacion East",
+    "citymun": "Baloi"
+}, {
+    "code": 103502023,
+    "name": "Poblacion West",
+    "citymun": "Baloi"
+}, {
+    "code": 103502025,
+    "name": "Sandor (Daduan)",
+    "citymun": "Baloi"
+}, {
+    "code": 103502026,
+    "name": "Sangcad (Cormatan )",
+    "citymun": "Baloi"
+}, {
+    "code": 103502027,
+    "name": "Sarip-Alawi (Payawan)",
+    "citymun": "Baloi"
+}, {
+    "code": 103502028,
+    "name": "Sigayan",
+    "citymun": "Baloi"
+}, {
+    "code": 103503001,
+    "name": "Andil",
+    "citymun": "Baroy"
+}, {
+    "code": 103503002,
+    "name": "Bagong Dawis",
+    "citymun": "Baroy"
+}, {
+    "code": 103503003,
+    "name": "Baroy Daku",
+    "citymun": "Baroy"
+}, {
+    "code": 103503004,
+    "name": "Bato",
+    "citymun": "Baroy"
+}, {
+    "code": 103503005,
+    "name": "Cabasagan",
+    "citymun": "Baroy"
+}, {
+    "code": 103503006,
+    "name": "Dalama",
+    "citymun": "Baroy"
+}, {
+    "code": 103503007,
+    "name": "Libertad",
+    "citymun": "Baroy"
+}, {
+    "code": 103503008,
+    "name": "Limwag",
+    "citymun": "Baroy"
+}, {
+    "code": 103503009,
+    "name": "Lindongan",
+    "citymun": "Baroy"
+}, {
+    "code": 103503011,
+    "name": "Maliwanag",
+    "citymun": "Baroy"
+}, {
+    "code": 103503012,
+    "name": "Manan-ao",
+    "citymun": "Baroy"
+}, {
+    "code": 103503013,
+    "name": "Pange",
+    "citymun": "Baroy"
+}, {
+    "code": 103503014,
+    "name": "Pindolonan",
+    "citymun": "Baroy"
+}, {
+    "code": 103503015,
+    "name": "Poblacion",
+    "citymun": "Baroy"
+}, {
+    "code": 103503016,
+    "name": "Princesa",
+    "citymun": "Baroy"
+}, {
+    "code": 103503017,
+    "name": "Rawan Point",
+    "citymun": "Baroy"
+}, {
+    "code": 103503018,
+    "name": "Riverside",
+    "citymun": "Baroy"
+}, {
+    "code": 103503019,
+    "name": "Sagadan (Sagadan Lower)",
+    "citymun": "Baroy"
+}, {
+    "code": 103503020,
+    "name": "Salong",
+    "citymun": "Baroy"
+}, {
+    "code": 103503021,
+    "name": "Tinubdan",
+    "citymun": "Baroy"
+}, {
+    "code": 103503022,
+    "name": "Sagadan Upper",
+    "citymun": "Baroy"
+}, {
+    "code": 103503023,
+    "name": "San Juan",
+    "citymun": "Baroy"
+}, {
+    "code": 103503024,
+    "name": "Village",
+    "citymun": "Baroy"
+}, {
+    "code": 103504001,
+    "name": "Abuno",
+    "citymun": "Iligan City"
+}, {
+    "code": 103504002,
+    "name": "Bonbonon",
+    "citymun": "Iligan City"
+}, {
+    "code": 103504003,
+    "name": "Bunawan",
+    "citymun": "Iligan City"
+}, {
+    "code": 103504005,
+    "name": "Buru-un",
+    "citymun": "Iligan City"
+}, {
+    "code": 103504006,
+    "name": "Dalipuga",
+    "citymun": "Iligan City"
+}, {
+    "code": 103504007,
+    "name": "Digkilaan",
+    "citymun": "Iligan City"
+}, {
+    "code": 103504008,
+    "name": "Hinaplanon",
+    "citymun": "Iligan City"
+}, {
+    "code": 103504010,
+    "name": "Kabacsanan",
+    "citymun": "Iligan City"
+}, {
+    "code": 103504011,
+    "name": "Kiwalan",
+    "citymun": "Iligan City"
+}, {
+    "code": 103504012,
+    "name": "Mahayhay",
+    "citymun": "Iligan City"
+}, {
+    "code": 103504013,
+    "name": "Mainit",
+    "citymun": "Iligan City"
+}, {
+    "code": 103504014,
+    "name": "Mandulog",
+    "citymun": "Iligan City"
+}, {
+    "code": 103504015,
+    "name": "Maria Cristina",
+    "citymun": "Iligan City"
+}, {
+    "code": 103504016,
+    "name": "Palao",
+    "citymun": "Iligan City"
+}, {
+    "code": 103504017,
+    "name": "Poblacion",
+    "citymun": "Iligan City"
+}, {
+    "code": 103504018,
+    "name": "Puga-an",
+    "citymun": "Iligan City"
+}, {
+    "code": 103504019,
+    "name": "Rogongon",
+    "citymun": "Iligan City"
+}, {
+    "code": 103504021,
+    "name": "Santa Elena",
+    "citymun": "Iligan City"
+}, {
+    "code": 103504022,
+    "name": "Santa Filomena",
+    "citymun": "Iligan City"
+}, {
+    "code": 103504024,
+    "name": "Suarez",
+    "citymun": "Iligan City"
+}, {
+    "code": 103504025,
+    "name": "Tambacan",
+    "citymun": "Iligan City"
+}, {
+    "code": 103504026,
+    "name": "Saray-Tibanga",
+    "citymun": "Iligan City"
+}, {
+    "code": 103504027,
+    "name": "Tipanoy",
+    "citymun": "Iligan City"
+}, {
+    "code": 103504028,
+    "name": "Tominobo Proper",
+    "citymun": "Iligan City"
+}, {
+    "code": 103504029,
+    "name": "Tominobo Upper",
+    "citymun": "Iligan City"
+}, {
+    "code": 103504030,
+    "name": "Tubod",
+    "citymun": "Iligan City"
+}, {
+    "code": 103504031,
+    "name": "Bagong Silang",
+    "citymun": "Iligan City"
+}, {
+    "code": 103504032,
+    "name": "Del Carmen",
+    "citymun": "Iligan City"
+}, {
+    "code": 103504033,
+    "name": "Dulag",
+    "citymun": "Iligan City"
+}, {
+    "code": 103504034,
+    "name": "San Miguel",
+    "citymun": "Iligan City"
+}, {
+    "code": 103504035,
+    "name": "Santiago",
+    "citymun": "Iligan City"
+}, {
+    "code": 103504036,
+    "name": "Santo Rosario",
+    "citymun": "Iligan City"
+}, {
+    "code": 103504037,
+    "name": "Tibanga",
+    "citymun": "Iligan City"
+}, {
+    "code": 103504038,
+    "name": "Acmac",
+    "citymun": "Iligan City"
+}, {
+    "code": 103504039,
+    "name": "Ditucalan",
+    "citymun": "Iligan City"
+}, {
+    "code": 103504040,
+    "name": "Hindang",
+    "citymun": "Iligan City"
+}, {
+    "code": 103504041,
+    "name": "Kalilangan",
+    "citymun": "Iligan City"
+}, {
+    "code": 103504042,
+    "name": "Lanipao",
+    "citymun": "Iligan City"
+}, {
+    "code": 103504043,
+    "name": "Luinab",
+    "citymun": "Iligan City"
+}, {
+    "code": 103504044,
+    "name": "Panoroganan",
+    "citymun": "Iligan City"
+}, {
+    "code": 103504045,
+    "name": "San Roque",
+    "citymun": "Iligan City"
+}, {
+    "code": 103504046,
+    "name": "Ubaldo Laya",
+    "citymun": "Iligan City"
+}, {
+    "code": 103504047,
+    "name": "Upper Hinaplanon",
+    "citymun": "Iligan City"
+}, {
+    "code": 103504048,
+    "name": "Villa Verde",
+    "citymun": "Iligan City"
+}, {
+    "code": 103505001,
+    "name": "Bagong Badian",
+    "citymun": "Kapatagan"
+}, {
+    "code": 103505003,
+    "name": "Bagong Silang",
+    "citymun": "Kapatagan"
+}, {
+    "code": 103505004,
+    "name": "Balili",
+    "citymun": "Kapatagan"
+}, {
+    "code": 103505005,
+    "name": "Bansarvil",
+    "citymun": "Kapatagan"
+}, {
+    "code": 103505007,
+    "name": "Belis",
+    "citymun": "Kapatagan"
+}, {
+    "code": 103505008,
+    "name": "Buenavista",
+    "citymun": "Kapatagan"
+}, {
+    "code": 103505010,
+    "name": "Butadon",
+    "citymun": "Kapatagan"
+}, {
+    "code": 103505012,
+    "name": "Cathedral Falls",
+    "citymun": "Kapatagan"
+}, {
+    "code": 103505014,
+    "name": "Concepcion",
+    "citymun": "Kapatagan"
+}, {
+    "code": 103505015,
+    "name": "Curvada",
+    "citymun": "Kapatagan"
+}, {
+    "code": 103505016,
+    "name": "De Asis",
+    "citymun": "Kapatagan"
+}, {
+    "code": 103505018,
+    "name": "Donggoan",
+    "citymun": "Kapatagan"
+}, {
+    "code": 103505019,
+    "name": "Durano",
+    "citymun": "Kapatagan"
+}, {
+    "code": 103505021,
+    "name": "Kahayagan",
+    "citymun": "Kapatagan"
+}, {
+    "code": 103505026,
+    "name": "Kidalos",
+    "citymun": "Kapatagan"
+}, {
+    "code": 103505027,
+    "name": "La Libertad",
+    "citymun": "Kapatagan"
+}, {
+    "code": 103505028,
+    "name": "Lapinig",
+    "citymun": "Kapatagan"
+}, {
+    "code": 103505030,
+    "name": "Mahayahay",
+    "citymun": "Kapatagan"
+}, {
+    "code": 103505031,
+    "name": "Malinas",
+    "citymun": "Kapatagan"
+}, {
+    "code": 103505033,
+    "name": "Maranding",
+    "citymun": "Kapatagan"
+}, {
+    "code": 103505034,
+    "name": "Margos",
+    "citymun": "Kapatagan"
+}, {
+    "code": 103505036,
+    "name": "Poblacion",
+    "citymun": "Kapatagan"
+}, {
+    "code": 103505038,
+    "name": "Pulang Yuta",
+    "citymun": "Kapatagan"
+}, {
+    "code": 103505039,
+    "name": "San Isidro",
+    "citymun": "Kapatagan"
+}, {
+    "code": 103505040,
+    "name": "San Vicente",
+    "citymun": "Kapatagan"
+}, {
+    "code": 103505041,
+    "name": "Santa Cruz",
+    "citymun": "Kapatagan"
+}, {
+    "code": 103505042,
+    "name": "Santo Tomas",
+    "citymun": "Kapatagan"
+}, {
+    "code": 103505043,
+    "name": "Suso",
+    "citymun": "Kapatagan"
+}, {
+    "code": 103505046,
+    "name": "Taguitic",
+    "citymun": "Kapatagan"
+}, {
+    "code": 103505047,
+    "name": "Tiacongan",
+    "citymun": "Kapatagan"
+}, {
+    "code": 103505048,
+    "name": "Tipolo",
+    "citymun": "Kapatagan"
+}, {
+    "code": 103505049,
+    "name": "Tulatulahan",
+    "citymun": "Kapatagan"
+}, {
+    "code": 103505050,
+    "name": "Waterfalls",
+    "citymun": "Kapatagan"
+}, {
+    "code": 103506001,
+    "name": "Bangaan",
+    "citymun": "Sultan Naga Dimaporo Karomatan"
+}, {
+    "code": 103506002,
+    "name": "Bangco",
+    "citymun": "Sultan Naga Dimaporo Karomatan"
+}, {
+    "code": 103506003,
+    "name": "Bansarvil II",
+    "citymun": "Sultan Naga Dimaporo Karomatan"
+}, {
+    "code": 103506004,
+    "name": "Bauyan",
+    "citymun": "Sultan Naga Dimaporo Karomatan"
+}, {
+    "code": 103506005,
+    "name": "Cabongbongan",
+    "citymun": "Sultan Naga Dimaporo Karomatan"
+}, {
+    "code": 103506006,
+    "name": "Calibao",
+    "citymun": "Sultan Naga Dimaporo Karomatan"
+}, {
+    "code": 103506007,
+    "name": "Calipapa",
+    "citymun": "Sultan Naga Dimaporo Karomatan"
+}, {
+    "code": 103506008,
+    "name": "Calube",
+    "citymun": "Sultan Naga Dimaporo Karomatan"
+}, {
+    "code": 103506009,
+    "name": "Campo Islam",
+    "citymun": "Sultan Naga Dimaporo Karomatan"
+}, {
+    "code": 103506010,
+    "name": "Capocao",
+    "citymun": "Sultan Naga Dimaporo Karomatan"
+}, {
+    "code": 103506011,
+    "name": "Dabliston",
+    "citymun": "Sultan Naga Dimaporo Karomatan"
+}, {
+    "code": 103506012,
+    "name": "Dangulaan",
+    "citymun": "Sultan Naga Dimaporo Karomatan"
+}, {
+    "code": 103506013,
+    "name": "Ditago",
+    "citymun": "Sultan Naga Dimaporo Karomatan"
+}, {
+    "code": 103506014,
+    "name": "Ilian",
+    "citymun": "Sultan Naga Dimaporo Karomatan"
+}, {
+    "code": 103506015,
+    "name": "Kauswagan",
+    "citymun": "Sultan Naga Dimaporo Karomatan"
+}, {
+    "code": 103506016,
+    "name": "Kirapan",
+    "citymun": "Sultan Naga Dimaporo Karomatan"
+}, {
+    "code": 103506017,
+    "name": "Koreo",
+    "citymun": "Sultan Naga Dimaporo Karomatan"
+}, {
+    "code": 103506018,
+    "name": "Lantawan",
+    "citymun": "Sultan Naga Dimaporo Karomatan"
+}, {
+    "code": 103506019,
+    "name": "Mabuhay",
+    "citymun": "Sultan Naga Dimaporo Karomatan"
+}, {
+    "code": 103506020,
+    "name": "Maguindanao",
+    "citymun": "Sultan Naga Dimaporo Karomatan"
+}, {
+    "code": 103506021,
+    "name": "Mahayahay",
+    "citymun": "Sultan Naga Dimaporo Karomatan"
+}, {
+    "code": 103506022,
+    "name": "Mamagum",
+    "citymun": "Sultan Naga Dimaporo Karomatan"
+}, {
+    "code": 103506023,
+    "name": "Pandanan",
+    "citymun": "Sultan Naga Dimaporo Karomatan"
+}, {
+    "code": 103506024,
+    "name": "Payong",
+    "citymun": "Sultan Naga Dimaporo Karomatan"
+}, {
+    "code": 103506025,
+    "name": "Piraka",
+    "citymun": "Sultan Naga Dimaporo Karomatan"
+}, {
+    "code": 103506026,
+    "name": "Pikalawag",
+    "citymun": "Sultan Naga Dimaporo Karomatan"
+}, {
+    "code": 103506027,
+    "name": "Pikinit",
+    "citymun": "Sultan Naga Dimaporo Karomatan"
+}, {
+    "code": 103506028,
+    "name": "Poblacion",
+    "citymun": "Sultan Naga Dimaporo Karomatan"
+}, {
+    "code": 103506029,
+    "name": "Ramain",
+    "citymun": "Sultan Naga Dimaporo Karomatan"
+}, {
+    "code": 103506030,
+    "name": "Rebucon",
+    "citymun": "Sultan Naga Dimaporo Karomatan"
+}, {
+    "code": 103506031,
+    "name": "Sigayan",
+    "citymun": "Sultan Naga Dimaporo Karomatan"
+}, {
+    "code": 103506032,
+    "name": "Sugod",
+    "citymun": "Sultan Naga Dimaporo Karomatan"
+}, {
+    "code": 103506033,
+    "name": "Tagulo",
+    "citymun": "Sultan Naga Dimaporo Karomatan"
+}, {
+    "code": 103506034,
+    "name": "Tantaon",
+    "citymun": "Sultan Naga Dimaporo Karomatan"
+}, {
+    "code": 103506035,
+    "name": "Topocon (Capocgo)",
+    "citymun": "Sultan Naga Dimaporo Karomatan"
+}, {
+    "code": 103506036,
+    "name": "Dalama",
+    "citymun": "Sultan Naga Dimaporo Karomatan"
+}, {
+    "code": 103506037,
+    "name": "Mina",
+    "citymun": "Sultan Naga Dimaporo Karomatan"
+}, {
+    "code": 103507001,
+    "name": "Bagumbayan (Pob.)",
+    "citymun": "Kauswagan"
+}, {
+    "code": 103507002,
+    "name": "Bara-ason",
+    "citymun": "Kauswagan"
+}, {
+    "code": 103507003,
+    "name": "Cayontor",
+    "citymun": "Kauswagan"
+}, {
+    "code": 103507004,
+    "name": "Delabayan",
+    "citymun": "Kauswagan"
+}, {
+    "code": 103507005,
+    "name": "Inudaran",
+    "citymun": "Kauswagan"
+}, {
+    "code": 103507006,
+    "name": "Kawit Occidental",
+    "citymun": "Kauswagan"
+}, {
+    "code": 103507007,
+    "name": "Kawit Oriental",
+    "citymun": "Kauswagan"
+}, {
+    "code": 103507008,
+    "name": "Libertad",
+    "citymun": "Kauswagan"
+}, {
+    "code": 103507009,
+    "name": "Paiton",
+    "citymun": "Kauswagan"
+}, {
+    "code": 103507010,
+    "name": "Poblacion",
+    "citymun": "Kauswagan"
+}, {
+    "code": 103507011,
+    "name": "Tacub",
+    "citymun": "Kauswagan"
+}, {
+    "code": 103507012,
+    "name": "Tingintingin",
+    "citymun": "Kauswagan"
+}, {
+    "code": 103507013,
+    "name": "Tugar",
+    "citymun": "Kauswagan"
+}, {
+    "code": 103508001,
+    "name": "Austin Heights",
+    "citymun": "Kolambugan"
+}, {
+    "code": 103508002,
+    "name": "Baybay",
+    "citymun": "Kolambugan"
+}, {
+    "code": 103508004,
+    "name": "Bubong",
+    "citymun": "Kolambugan"
+}, {
+    "code": 103508005,
+    "name": "Caromatan",
+    "citymun": "Kolambugan"
+}, {
+    "code": 103508006,
+    "name": "Inudaran",
+    "citymun": "Kolambugan"
+}, {
+    "code": 103508007,
+    "name": "Kulasihan",
+    "citymun": "Kolambugan"
+}, {
+    "code": 103508009,
+    "name": "Libertad",
+    "citymun": "Kolambugan"
+}, {
+    "code": 103508010,
+    "name": "Lumbac",
+    "citymun": "Kolambugan"
+}, {
+    "code": 103508011,
+    "name": "Manga",
+    "citymun": "Kolambugan"
+}, {
+    "code": 103508012,
+    "name": "Matampay",
+    "citymun": "Kolambugan"
+}, {
+    "code": 103508013,
+    "name": "Mukas",
+    "citymun": "Kolambugan"
+}, {
+    "code": 103508014,
+    "name": "Muntay",
+    "citymun": "Kolambugan"
+}, {
+    "code": 103508016,
+    "name": "Pagalungan",
+    "citymun": "Kolambugan"
+}, {
+    "code": 103508017,
+    "name": "Palao",
+    "citymun": "Kolambugan"
+}, {
+    "code": 103508018,
+    "name": "Pantaon",
+    "citymun": "Kolambugan"
+}, {
+    "code": 103508019,
+    "name": "Pantar",
+    "citymun": "Kolambugan"
+}, {
+    "code": 103508020,
+    "name": "Poblacion",
+    "citymun": "Kolambugan"
+}, {
+    "code": 103508021,
+    "name": "Rebucon",
+    "citymun": "Kolambugan"
+}, {
+    "code": 103508022,
+    "name": "Riverside",
+    "citymun": "Kolambugan"
+}, {
+    "code": 103508023,
+    "name": "San Roque",
+    "citymun": "Kolambugan"
+}, {
+    "code": 103508024,
+    "name": "Santo Niño",
+    "citymun": "Kolambugan"
+}, {
+    "code": 103508025,
+    "name": "Simbuco",
+    "citymun": "Kolambugan"
+}, {
+    "code": 103508026,
+    "name": "Small Banisilan",
+    "citymun": "Kolambugan"
+}, {
+    "code": 103508027,
+    "name": "Sucodan",
+    "citymun": "Kolambugan"
+}, {
+    "code": 103508028,
+    "name": "Tabigue",
+    "citymun": "Kolambugan"
+}, {
+    "code": 103508029,
+    "name": "Titunod",
+    "citymun": "Kolambugan"
+}, {
+    "code": 103509001,
+    "name": "Abaga",
+    "citymun": "Lala"
+}, {
+    "code": 103509002,
+    "name": "Andil",
+    "citymun": "Lala"
+}, {
+    "code": 103509003,
+    "name": "Matampay Bucana",
+    "citymun": "Lala"
+}, {
+    "code": 103509004,
+    "name": "Darumawang Bucana",
+    "citymun": "Lala"
+}, {
+    "code": 103509005,
+    "name": "Cabasagan",
+    "citymun": "Lala"
+}, {
+    "code": 103509006,
+    "name": "Camalan",
+    "citymun": "Lala"
+}, {
+    "code": 103509008,
+    "name": "Darumawang Ilaya",
+    "citymun": "Lala"
+}, {
+    "code": 103509009,
+    "name": "El Salvador",
+    "citymun": "Lala"
+}, {
+    "code": 103509010,
+    "name": "Gumagamot",
+    "citymun": "Lala"
+}, {
+    "code": 103509012,
+    "name": "Lala Proper (Pob.)",
+    "citymun": "Lala"
+}, {
+    "code": 103509013,
+    "name": "Lanipao",
+    "citymun": "Lala"
+}, {
+    "code": 103509014,
+    "name": "Magpatao",
+    "citymun": "Lala"
+}, {
+    "code": 103509015,
+    "name": "Maranding",
+    "citymun": "Lala"
+}, {
+    "code": 103509016,
+    "name": "Matampay Ilaya",
+    "citymun": "Lala"
+}, {
+    "code": 103509017,
+    "name": "Pacita",
+    "citymun": "Lala"
+}, {
+    "code": 103509018,
+    "name": "Pendolonan",
+    "citymun": "Lala"
+}, {
+    "code": 103509019,
+    "name": "Pinoyak",
+    "citymun": "Lala"
+}, {
+    "code": 103509020,
+    "name": "Raw-an",
+    "citymun": "Lala"
+}, {
+    "code": 103509021,
+    "name": "Rebe",
+    "citymun": "Lala"
+}, {
+    "code": 103509022,
+    "name": "San Isidro Lower",
+    "citymun": "Lala"
+}, {
+    "code": 103509023,
+    "name": "San Isidro Upper",
+    "citymun": "Lala"
+}, {
+    "code": 103509024,
+    "name": "San Manuel",
+    "citymun": "Lala"
+}, {
+    "code": 103509025,
+    "name": "Santa Cruz Lower",
+    "citymun": "Lala"
+}, {
+    "code": 103509026,
+    "name": "Santa Cruz Upper",
+    "citymun": "Lala"
+}, {
+    "code": 103509027,
+    "name": "Simpak",
+    "citymun": "Lala"
+}, {
+    "code": 103509028,
+    "name": "Tenazas",
+    "citymun": "Lala"
+}, {
+    "code": 103509029,
+    "name": "Tuna-an",
+    "citymun": "Lala"
+}, {
+    "code": 103510001,
+    "name": "Busque",
+    "citymun": "Linamon"
+}, {
+    "code": 103510002,
+    "name": "Larapan",
+    "citymun": "Linamon"
+}, {
+    "code": 103510003,
+    "name": "Magoong",
+    "citymun": "Linamon"
+}, {
+    "code": 103510004,
+    "name": "Napo",
+    "citymun": "Linamon"
+}, {
+    "code": 103510005,
+    "name": "Poblacion",
+    "citymun": "Linamon"
+}, {
+    "code": 103510006,
+    "name": "Purakan",
+    "citymun": "Linamon"
+}, {
+    "code": 103510007,
+    "name": "Robocon",
+    "citymun": "Linamon"
+}, {
+    "code": 103510008,
+    "name": "Samburon",
+    "citymun": "Linamon"
+}, {
+    "code": 103511001,
+    "name": "Babasalon",
+    "citymun": "Magsaysay"
+}, {
+    "code": 103511002,
+    "name": "Baguiguicon",
+    "citymun": "Magsaysay"
+}, {
+    "code": 103511003,
+    "name": "Daan Campo",
+    "citymun": "Magsaysay"
+}, {
+    "code": 103511004,
+    "name": "Durianon",
+    "citymun": "Magsaysay"
+}, {
+    "code": 103511005,
+    "name": "Ilihan",
+    "citymun": "Magsaysay"
+}, {
+    "code": 103511006,
+    "name": "Lamigadato",
+    "citymun": "Magsaysay"
+}, {
+    "code": 103511007,
+    "name": "Lemoncret",
+    "citymun": "Magsaysay"
+}, {
+    "code": 103511008,
+    "name": "Lubo",
+    "citymun": "Magsaysay"
+}, {
+    "code": 103511009,
+    "name": "Lumbac",
+    "citymun": "Magsaysay"
+}, {
+    "code": 103511010,
+    "name": "Malabaogan",
+    "citymun": "Magsaysay"
+}, {
+    "code": 103511011,
+    "name": "Mapantao",
+    "citymun": "Magsaysay"
+}, {
+    "code": 103511012,
+    "name": "Olango",
+    "citymun": "Magsaysay"
+}, {
+    "code": 103511013,
+    "name": "Pangao",
+    "citymun": "Magsaysay"
+}, {
+    "code": 103511014,
+    "name": "Pelingkingan",
+    "citymun": "Magsaysay"
+}, {
+    "code": 103511015,
+    "name": "Lower Caningag (Perimbangan)",
+    "citymun": "Magsaysay"
+}, {
+    "code": 103511016,
+    "name": "Poblacion (Bago-A-Ingud)",
+    "citymun": "Magsaysay"
+}, {
+    "code": 103511017,
+    "name": "Rarab",
+    "citymun": "Magsaysay"
+}, {
+    "code": 103511018,
+    "name": "Somiorang",
+    "citymun": "Magsaysay"
+}, {
+    "code": 103511019,
+    "name": "Upper Caningag (Taguitingan)",
+    "citymun": "Magsaysay"
+}, {
+    "code": 103511020,
+    "name": "Talambo",
+    "citymun": "Magsaysay"
+}, {
+    "code": 103511021,
+    "name": "Tambacon",
+    "citymun": "Magsaysay"
+}, {
+    "code": 103511022,
+    "name": "Tawinian",
+    "citymun": "Magsaysay"
+}, {
+    "code": 103511023,
+    "name": "Tipaan",
+    "citymun": "Magsaysay"
+}, {
+    "code": 103511024,
+    "name": "Tombador",
+    "citymun": "Magsaysay"
+}, {
+    "code": 103512001,
+    "name": "Balagatasa",
+    "citymun": "Maigo"
+}, {
+    "code": 103512002,
+    "name": "Camp 1",
+    "citymun": "Maigo"
+}, {
+    "code": 103512003,
+    "name": "Claro M. Recto",
+    "citymun": "Maigo"
+}, {
+    "code": 103512004,
+    "name": "Inoma",
+    "citymun": "Maigo"
+}, {
+    "code": 103512005,
+    "name": "Labuay",
+    "citymun": "Maigo"
+}, {
+    "code": 103512006,
+    "name": "Liangan West",
+    "citymun": "Maigo"
+}, {
+    "code": 103512007,
+    "name": "Mahayahay",
+    "citymun": "Maigo"
+}, {
+    "code": 103512008,
+    "name": "Maliwanag",
+    "citymun": "Maigo"
+}, {
+    "code": 103512009,
+    "name": "Mentring",
+    "citymun": "Maigo"
+}, {
+    "code": 103512010,
+    "name": "Poblacion",
+    "citymun": "Maigo"
+}, {
+    "code": 103512011,
+    "name": "Santa Cruz",
+    "citymun": "Maigo"
+}, {
+    "code": 103512012,
+    "name": "Segapod",
+    "citymun": "Maigo"
+}, {
+    "code": 103512013,
+    "name": "Kulasihan (Villanueva)",
+    "citymun": "Maigo"
+}, {
+    "code": 103513001,
+    "name": "Bubong Radapan",
+    "citymun": "Matungao"
+}, {
+    "code": 103513002,
+    "name": "Bangco",
+    "citymun": "Matungao"
+}, {
+    "code": 103513003,
+    "name": "Batal",
+    "citymun": "Matungao"
+}, {
+    "code": 103513004,
+    "name": "Batangan",
+    "citymun": "Matungao"
+}, {
+    "code": 103513005,
+    "name": "Cadayonan",
+    "citymun": "Matungao"
+}, {
+    "code": 103513013,
+    "name": "Matampay",
+    "citymun": "Matungao"
+}, {
+    "code": 103513015,
+    "name": "Pangi",
+    "citymun": "Matungao"
+}, {
+    "code": 103513016,
+    "name": "Pasayanon",
+    "citymun": "Matungao"
+}, {
+    "code": 103513018,
+    "name": "Poblacion (Matungao)",
+    "citymun": "Matungao"
+}, {
+    "code": 103513019,
+    "name": "Puntod",
+    "citymun": "Matungao"
+}, {
+    "code": 103513020,
+    "name": "Santa Cruz",
+    "citymun": "Matungao"
+}, {
+    "code": 103513021,
+    "name": "Somiorang",
+    "citymun": "Matungao"
+}, {
+    "code": 103514001,
+    "name": "Bacayawan",
+    "citymun": "Munai"
+}, {
+    "code": 103514002,
+    "name": "Balabacun",
+    "citymun": "Munai"
+}, {
+    "code": 103514003,
+    "name": "Balintad",
+    "citymun": "Munai"
+}, {
+    "code": 103514005,
+    "name": "Kadayonan",
+    "citymun": "Munai"
+}, {
+    "code": 103514008,
+    "name": "Dalama",
+    "citymun": "Munai"
+}, {
+    "code": 103514011,
+    "name": "Lindongan",
+    "citymun": "Munai"
+}, {
+    "code": 103514012,
+    "name": "Lingco-an",
+    "citymun": "Munai"
+}, {
+    "code": 103514013,
+    "name": "Lininding",
+    "citymun": "Munai"
+}, {
+    "code": 103514014,
+    "name": "Lumba-Bayabao",
+    "citymun": "Munai"
+}, {
+    "code": 103514015,
+    "name": "Madaya",
+    "citymun": "Munai"
+}, {
+    "code": 103514016,
+    "name": "Maganding",
+    "citymun": "Munai"
+}, {
+    "code": 103514019,
+    "name": "Matampay",
+    "citymun": "Munai"
+}, {
+    "code": 103514020,
+    "name": "Old Poblacion",
+    "citymun": "Munai"
+}, {
+    "code": 103514021,
+    "name": "North Cadulawan",
+    "citymun": "Munai"
+}, {
+    "code": 103514022,
+    "name": "Panggao",
+    "citymun": "Munai"
+}, {
+    "code": 103514023,
+    "name": "Pantao",
+    "citymun": "Munai"
+}, {
+    "code": 103514024,
+    "name": "Pantao-A-Munai",
+    "citymun": "Munai"
+}, {
+    "code": 103514025,
+    "name": "Pantaon",
+    "citymun": "Munai"
+}, {
+    "code": 103514026,
+    "name": "Pindolonan",
+    "citymun": "Munai"
+}, {
+    "code": 103514027,
+    "name": "Punong",
+    "citymun": "Munai"
+}, {
+    "code": 103514028,
+    "name": "Ramain",
+    "citymun": "Munai"
+}, {
+    "code": 103514029,
+    "name": "Sandigamunai",
+    "citymun": "Munai"
+}, {
+    "code": 103514031,
+    "name": "Tagoranao",
+    "citymun": "Munai"
+}, {
+    "code": 103514032,
+    "name": "Tambo",
+    "citymun": "Munai"
+}, {
+    "code": 103514033,
+    "name": "Tamparan (Mandaya)",
+    "citymun": "Munai"
+}, {
+    "code": 103514034,
+    "name": "Taporog",
+    "citymun": "Munai"
+}, {
+    "code": 103515001,
+    "name": "Abaga",
+    "citymun": "Nunungan"
+}, {
+    "code": 103515002,
+    "name": "Bangco",
+    "citymun": "Nunungan"
+}, {
+    "code": 103515003,
+    "name": "Canibongan",
+    "citymun": "Nunungan"
+}, {
+    "code": 103515004,
+    "name": "Karcum",
+    "citymun": "Nunungan"
+}, {
+    "code": 103515005,
+    "name": "Dimayon",
+    "citymun": "Nunungan"
+}, {
+    "code": 103515006,
+    "name": "Inayawan",
+    "citymun": "Nunungan"
+}, {
+    "code": 103515008,
+    "name": "Kaludan",
+    "citymun": "Nunungan"
+}, {
+    "code": 103515010,
+    "name": "Katubuan",
+    "citymun": "Nunungan"
+}, {
+    "code": 103515011,
+    "name": "Cabasaran (Laya)",
+    "citymun": "Nunungan"
+}, {
+    "code": 103515012,
+    "name": "Liangan",
+    "citymun": "Nunungan"
+}, {
+    "code": 103515013,
+    "name": "Lupitan",
+    "citymun": "Nunungan"
+}, {
+    "code": 103515014,
+    "name": "Mangan",
+    "citymun": "Nunungan"
+}, {
+    "code": 103515015,
+    "name": "Malaig",
+    "citymun": "Nunungan"
+}, {
+    "code": 103515016,
+    "name": "Masibay",
+    "citymun": "Nunungan"
+}, {
+    "code": 103515017,
+    "name": "Poblacion (Nunungan Proper)",
+    "citymun": "Nunungan"
+}, {
+    "code": 103515018,
+    "name": "Notongan",
+    "citymun": "Nunungan"
+}, {
+    "code": 103515019,
+    "name": "Petadun",
+    "citymun": "Nunungan"
+}, {
+    "code": 103515020,
+    "name": "Panganapan",
+    "citymun": "Nunungan"
+}, {
+    "code": 103515021,
+    "name": "Pantar",
+    "citymun": "Nunungan"
+}, {
+    "code": 103515022,
+    "name": "Paridi",
+    "citymun": "Nunungan"
+}, {
+    "code": 103515023,
+    "name": "Rarab",
+    "citymun": "Nunungan"
+}, {
+    "code": 103515024,
+    "name": "Raraban",
+    "citymun": "Nunungan"
+}, {
+    "code": 103515025,
+    "name": "Rebucon",
+    "citymun": "Nunungan"
+}, {
+    "code": 103515026,
+    "name": "Songgod",
+    "citymun": "Nunungan"
+}, {
+    "code": 103515027,
+    "name": "Taraka",
+    "citymun": "Nunungan"
+}, {
+    "code": 103516001,
+    "name": "Aloon",
+    "citymun": "Pantao Ragat"
+}, {
+    "code": 103516003,
+    "name": "Banday",
+    "citymun": "Pantao Ragat"
+}, {
+    "code": 103516004,
+    "name": "Bobonga Pantao Ragat",
+    "citymun": "Pantao Ragat"
+}, {
+    "code": 103516005,
+    "name": "Bobonga Radapan",
+    "citymun": "Pantao Ragat"
+}, {
+    "code": 103516006,
+    "name": "Cabasagan",
+    "citymun": "Pantao Ragat"
+}, {
+    "code": 103516008,
+    "name": "Calawe",
+    "citymun": "Pantao Ragat"
+}, {
+    "code": 103516009,
+    "name": "Culubun",
+    "citymun": "Pantao Ragat"
+}, {
+    "code": 103516010,
+    "name": "Dilimbayan",
+    "citymun": "Pantao Ragat"
+}, {
+    "code": 103516011,
+    "name": "Dimayon",
+    "citymun": "Pantao Ragat"
+}, {
+    "code": 103516012,
+    "name": "Poblacion East",
+    "citymun": "Pantao Ragat"
+}, {
+    "code": 103516013,
+    "name": "Lomidong",
+    "citymun": "Pantao Ragat"
+}, {
+    "code": 103516015,
+    "name": "Madaya",
+    "citymun": "Pantao Ragat"
+}, {
+    "code": 103516016,
+    "name": "Maliwanag",
+    "citymun": "Pantao Ragat"
+}, {
+    "code": 103516017,
+    "name": "Matampay",
+    "citymun": "Pantao Ragat"
+}, {
+    "code": 103516018,
+    "name": "Natangcopan",
+    "citymun": "Pantao Ragat"
+}, {
+    "code": 103516019,
+    "name": "Pansor",
+    "citymun": "Pantao Ragat"
+}, {
+    "code": 103516021,
+    "name": "Pantao Marug",
+    "citymun": "Pantao Ragat"
+}, {
+    "code": 103516022,
+    "name": "Tangcal",
+    "citymun": "Pantao Ragat"
+}, {
+    "code": 103516023,
+    "name": "Tongcopan",
+    "citymun": "Pantao Ragat"
+}, {
+    "code": 103516024,
+    "name": "Poblacion West",
+    "citymun": "Pantao Ragat"
+}, {
+    "code": 103517001,
+    "name": "Alowin",
+    "citymun": "Poona Piagapo"
+}, {
+    "code": 103517002,
+    "name": "Bubong-Dinaig",
+    "citymun": "Poona Piagapo"
+}, {
+    "code": 103517003,
+    "name": "Caromatan",
+    "citymun": "Poona Piagapo"
+}, {
+    "code": 103517004,
+    "name": "Daramba",
+    "citymun": "Poona Piagapo"
+}, {
+    "code": 103517005,
+    "name": "Dinaig",
+    "citymun": "Poona Piagapo"
+}, {
+    "code": 103517007,
+    "name": "Cabasaran",
+    "citymun": "Poona Piagapo"
+}, {
+    "code": 103517008,
+    "name": "Kablangan",
+    "citymun": "Poona Piagapo"
+}, {
+    "code": 103517009,
+    "name": "Cadayonan",
+    "citymun": "Poona Piagapo"
+}, {
+    "code": 103517010,
+    "name": "Linindingan",
+    "citymun": "Poona Piagapo"
+}, {
+    "code": 103517012,
+    "name": "Lumbatan",
+    "citymun": "Poona Piagapo"
+}, {
+    "code": 103517013,
+    "name": "Lupitan",
+    "citymun": "Poona Piagapo"
+}, {
+    "code": 103517014,
+    "name": "Madamba",
+    "citymun": "Poona Piagapo"
+}, {
+    "code": 103517015,
+    "name": "Madaya",
+    "citymun": "Poona Piagapo"
+}, {
+    "code": 103517016,
+    "name": "Maliwanag",
+    "citymun": "Poona Piagapo"
+}, {
+    "code": 103517017,
+    "name": "Nunang",
+    "citymun": "Poona Piagapo"
+}, {
+    "code": 103517018,
+    "name": "Nunungan",
+    "citymun": "Poona Piagapo"
+}, {
+    "code": 103517019,
+    "name": "Pantao Raya",
+    "citymun": "Poona Piagapo"
+}, {
+    "code": 103517020,
+    "name": "Pantaon",
+    "citymun": "Poona Piagapo"
+}, {
+    "code": 103517021,
+    "name": "Pened",
+    "citymun": "Poona Piagapo"
+}, {
+    "code": 103517022,
+    "name": "Piangamangaan",
+    "citymun": "Poona Piagapo"
+}, {
+    "code": 103517023,
+    "name": "Pendolonan",
+    "citymun": "Poona Piagapo"
+}, {
+    "code": 103517024,
+    "name": "Poblacion (Lumbacaingud)",
+    "citymun": "Poona Piagapo"
+}, {
+    "code": 103517025,
+    "name": "Sulo",
+    "citymun": "Poona Piagapo"
+}, {
+    "code": 103517026,
+    "name": "Tagoranao",
+    "citymun": "Poona Piagapo"
+}, {
+    "code": 103517027,
+    "name": "Tangclao",
+    "citymun": "Poona Piagapo"
+}, {
+    "code": 103517028,
+    "name": "Timbangalan",
+    "citymun": "Poona Piagapo"
+}, {
+    "code": 103518001,
+    "name": "Barandia",
+    "citymun": "Salvador"
+}, {
+    "code": 103518002,
+    "name": "Bulacon",
+    "citymun": "Salvador"
+}, {
+    "code": 103518003,
+    "name": "Buntong",
+    "citymun": "Salvador"
+}, {
+    "code": 103518004,
+    "name": "Calimodan",
+    "citymun": "Salvador"
+}, {
+    "code": 103518005,
+    "name": "Camp III",
+    "citymun": "Salvador"
+}, {
+    "code": 103518006,
+    "name": "Curva-Miagao",
+    "citymun": "Salvador"
+}, {
+    "code": 103518007,
+    "name": "Daligdigan",
+    "citymun": "Salvador"
+}, {
+    "code": 103518008,
+    "name": "Kilala",
+    "citymun": "Salvador"
+}, {
+    "code": 103518009,
+    "name": "Mabatao",
+    "citymun": "Salvador"
+}, {
+    "code": 103518010,
+    "name": "Madaya",
+    "citymun": "Salvador"
+}, {
+    "code": 103518011,
+    "name": "Mamaanon",
+    "citymun": "Salvador"
+}, {
+    "code": 103518012,
+    "name": "Mapantao",
+    "citymun": "Salvador"
+}, {
+    "code": 103518013,
+    "name": "Mindalano",
+    "citymun": "Salvador"
+}, {
+    "code": 103518014,
+    "name": "Padianan",
+    "citymun": "Salvador"
+}, {
+    "code": 103518015,
+    "name": "Pagalongan",
+    "citymun": "Salvador"
+}, {
+    "code": 103518016,
+    "name": "Pagayawan",
+    "citymun": "Salvador"
+}, {
+    "code": 103518017,
+    "name": "Panaliwad-on",
+    "citymun": "Salvador"
+}, {
+    "code": 103518018,
+    "name": "Pangantapan",
+    "citymun": "Salvador"
+}, {
+    "code": 103518019,
+    "name": "Pansor",
+    "citymun": "Salvador"
+}, {
+    "code": 103518020,
+    "name": "Patidon",
+    "citymun": "Salvador"
+}, {
+    "code": 103518021,
+    "name": "Pawak",
+    "citymun": "Salvador"
+}, {
+    "code": 103518022,
+    "name": "Poblacion",
+    "citymun": "Salvador"
+}, {
+    "code": 103518023,
+    "name": "Saumay",
+    "citymun": "Salvador"
+}, {
+    "code": 103518024,
+    "name": "Sudlon",
+    "citymun": "Salvador"
+}, {
+    "code": 103518025,
+    "name": "Inasagan",
+    "citymun": "Salvador"
+}, {
+    "code": 103519001,
+    "name": "Baning",
+    "citymun": "Sapad"
+}, {
+    "code": 103519002,
+    "name": "Buriasan (Pob.)",
+    "citymun": "Sapad"
+}, {
+    "code": 103519004,
+    "name": "Dansalan",
+    "citymun": "Sapad"
+}, {
+    "code": 103519005,
+    "name": "Gamal",
+    "citymun": "Sapad"
+}, {
+    "code": 103519006,
+    "name": "Inudaran I",
+    "citymun": "Sapad"
+}, {
+    "code": 103519007,
+    "name": "Inudaran II",
+    "citymun": "Sapad"
+}, {
+    "code": 103519008,
+    "name": "Karkum",
+    "citymun": "Sapad"
+}, {
+    "code": 103519009,
+    "name": "Katipunan",
+    "citymun": "Sapad"
+}, {
+    "code": 103519010,
+    "name": "Mabugnao",
+    "citymun": "Sapad"
+}, {
+    "code": 103519011,
+    "name": "Maito Salug",
+    "citymun": "Sapad"
+}, {
+    "code": 103519012,
+    "name": "Mala Salug",
+    "citymun": "Sapad"
+}, {
+    "code": 103519013,
+    "name": "Mama-anon",
+    "citymun": "Sapad"
+}, {
+    "code": 103519014,
+    "name": "Mapurog",
+    "citymun": "Sapad"
+}, {
+    "code": 103519016,
+    "name": "Pancilan",
+    "citymun": "Sapad"
+}, {
+    "code": 103519017,
+    "name": "Panoloon",
+    "citymun": "Sapad"
+}, {
+    "code": 103519018,
+    "name": "Pili",
+    "citymun": "Sapad"
+}, {
+    "code": 103519019,
+    "name": "Sapad",
+    "citymun": "Sapad"
+}, {
+    "code": 103520001,
+    "name": "Dalamas",
+    "citymun": "Tagoloan"
+}, {
+    "code": 103520002,
+    "name": "Darimbang",
+    "citymun": "Tagoloan"
+}, {
+    "code": 103520003,
+    "name": "Dimayon",
+    "citymun": "Tagoloan"
+}, {
+    "code": 103520004,
+    "name": "Inagongan",
+    "citymun": "Tagoloan"
+}, {
+    "code": 103520005,
+    "name": "Kiazar (Pob.)",
+    "citymun": "Tagoloan"
+}, {
+    "code": 103520006,
+    "name": "Malimbato",
+    "citymun": "Tagoloan"
+}, {
+    "code": 103520007,
+    "name": "Panalawan",
+    "citymun": "Tagoloan"
+}, {
+    "code": 103521001,
+    "name": "Small Banisilon",
+    "citymun": "Tangcal"
+}, {
+    "code": 103521003,
+    "name": "Bayabao",
+    "citymun": "Tangcal"
+}, {
+    "code": 103521004,
+    "name": "Berwar",
+    "citymun": "Tangcal"
+}, {
+    "code": 103521005,
+    "name": "Big Banisilon",
+    "citymun": "Tangcal"
+}, {
+    "code": 103521006,
+    "name": "Big Meladoc",
+    "citymun": "Tangcal"
+}, {
+    "code": 103521007,
+    "name": "Bubong",
+    "citymun": "Tangcal"
+}, {
+    "code": 103521008,
+    "name": "Lamaosa",
+    "citymun": "Tangcal"
+}, {
+    "code": 103521009,
+    "name": "Linao",
+    "citymun": "Tangcal"
+}, {
+    "code": 103521010,
+    "name": "Lindongan",
+    "citymun": "Tangcal"
+}, {
+    "code": 103521011,
+    "name": "Lingco-an",
+    "citymun": "Tangcal"
+}, {
+    "code": 103521013,
+    "name": "Small Meladoc",
+    "citymun": "Tangcal"
+}, {
+    "code": 103521014,
+    "name": "Papan",
+    "citymun": "Tangcal"
+}, {
+    "code": 103521016,
+    "name": "Pelingkingan",
+    "citymun": "Tangcal"
+}, {
+    "code": 103521017,
+    "name": "Poblacion",
+    "citymun": "Tangcal"
+}, {
+    "code": 103521018,
+    "name": "Poona Kapatagan",
+    "citymun": "Tangcal"
+}, {
+    "code": 103521019,
+    "name": "Punod",
+    "citymun": "Tangcal"
+}, {
+    "code": 103521021,
+    "name": "Somiorang",
+    "citymun": "Tangcal"
+}, {
+    "code": 103521024,
+    "name": "Tangcal Proper",
+    "citymun": "Tangcal"
+}, {
+    "code": 103522001,
+    "name": "Barakanas",
+    "citymun": "Tubod Capital"
+}, {
+    "code": 103522002,
+    "name": "Baris (Lumangculob)",
+    "citymun": "Tubod Capital"
+}, {
+    "code": 103522003,
+    "name": "Bualan",
+    "citymun": "Tubod Capital"
+}, {
+    "code": 103522004,
+    "name": "Bulod",
+    "citymun": "Tubod Capital"
+}, {
+    "code": 103522005,
+    "name": "Camp V",
+    "citymun": "Tubod Capital"
+}, {
+    "code": 103522006,
+    "name": "Candis",
+    "citymun": "Tubod Capital"
+}, {
+    "code": 103522007,
+    "name": "Caniogan",
+    "citymun": "Tubod Capital"
+}, {
+    "code": 103522008,
+    "name": "Dalama",
+    "citymun": "Tubod Capital"
+}, {
+    "code": 103522010,
+    "name": "Kakai Renabor",
+    "citymun": "Tubod Capital"
+}, {
+    "code": 103522011,
+    "name": "Kalilangan",
+    "citymun": "Tubod Capital"
+}, {
+    "code": 103522012,
+    "name": "Licapao",
+    "citymun": "Tubod Capital"
+}, {
+    "code": 103522014,
+    "name": "Malingao",
+    "citymun": "Tubod Capital"
+}, {
+    "code": 103522015,
+    "name": "Palao",
+    "citymun": "Tubod Capital"
+}, {
+    "code": 103522016,
+    "name": "Patudan",
+    "citymun": "Tubod Capital"
+}, {
+    "code": 103522017,
+    "name": "Pigcarangan",
+    "citymun": "Tubod Capital"
+}, {
+    "code": 103522018,
+    "name": "Pinpin",
+    "citymun": "Tubod Capital"
+}, {
+    "code": 103522019,
+    "name": "Poblacion",
+    "citymun": "Tubod Capital"
+}, {
+    "code": 103522020,
+    "name": "Pualas",
+    "citymun": "Tubod Capital"
+}, {
+    "code": 103522021,
+    "name": "San Antonio",
+    "citymun": "Tubod Capital"
+}, {
+    "code": 103522022,
+    "name": "Santo Niño",
+    "citymun": "Tubod Capital"
+}, {
+    "code": 103522023,
+    "name": "Taden",
+    "citymun": "Tubod Capital"
+}, {
+    "code": 103522024,
+    "name": "Tangueguiron",
+    "citymun": "Tubod Capital"
+}, {
+    "code": 103522025,
+    "name": "Taguranao",
+    "citymun": "Tubod Capital"
+}, {
+    "code": 103522026,
+    "name": "Tubaran",
+    "citymun": "Tubod Capital"
+}, {
+    "code": 103523001,
+    "name": "Bangcal",
+    "citymun": "Pantar"
+}, {
+    "code": 103523003,
+    "name": "Bubong Madaya",
+    "citymun": "Pantar"
+}, {
+    "code": 103523005,
+    "name": "Bowi",
+    "citymun": "Pantar"
+}, {
+    "code": 103523006,
+    "name": "Cabasaran",
+    "citymun": "Pantar"
+}, {
+    "code": 103523007,
+    "name": "Cadayonan",
+    "citymun": "Pantar"
+}, {
+    "code": 103523008,
+    "name": "Campong",
+    "citymun": "Pantar"
+}, {
+    "code": 103523010,
+    "name": "Dibarosan",
+    "citymun": "Pantar"
+}, {
+    "code": 103523012,
+    "name": "Kalanganan East",
+    "citymun": "Pantar"
+}, {
+    "code": 103523013,
+    "name": "Kalanganan Lower",
+    "citymun": "Pantar"
+}, {
+    "code": 103523014,
+    "name": "Kalilangan",
+    "citymun": "Pantar"
+}, {
+    "code": 103523016,
+    "name": "Pantao-Marug",
+    "citymun": "Pantar"
+}, {
+    "code": 103523017,
+    "name": "Pantao-Ranao",
+    "citymun": "Pantar"
+}, {
+    "code": 103523018,
+    "name": "Pantar East",
+    "citymun": "Pantar"
+}, {
+    "code": 103523019,
+    "name": "Poblacion",
+    "citymun": "Pantar"
+}, {
+    "code": 103523021,
+    "name": "Pitubo",
+    "citymun": "Pantar"
+}, {
+    "code": 103523022,
+    "name": "Poona-Punod",
+    "citymun": "Pantar"
+}, {
+    "code": 103523023,
+    "name": "Punod",
+    "citymun": "Pantar"
+}, {
+    "code": 103523026,
+    "name": "Sundiga-Punod",
+    "citymun": "Pantar"
+}, {
+    "code": 103523029,
+    "name": "Tawanan",
+    "citymun": "Pantar"
+}, {
+    "code": 103523030,
+    "name": "West Pantar",
+    "citymun": "Pantar"
+}, {
+    "code": 103523031,
+    "name": "Lumba-Punod",
+    "citymun": "Pantar"
+}, {
+    "code": 104201001,
+    "name": "Balintonga",
+    "citymun": "Aloran"
+}, {
+    "code": 104201002,
+    "name": "Banisilon",
+    "citymun": "Aloran"
+}, {
+    "code": 104201003,
+    "name": "Burgos",
+    "citymun": "Aloran"
+}, {
+    "code": 104201004,
+    "name": "Calube",
+    "citymun": "Aloran"
+}, {
+    "code": 104201005,
+    "name": "Caputol",
+    "citymun": "Aloran"
+}, {
+    "code": 104201006,
+    "name": "Casusan",
+    "citymun": "Aloran"
+}, {
+    "code": 104201007,
+    "name": "Conat",
+    "citymun": "Aloran"
+}, {
+    "code": 104201008,
+    "name": "Culpan",
+    "citymun": "Aloran"
+}, {
+    "code": 104201009,
+    "name": "Dalisay",
+    "citymun": "Aloran"
+}, {
+    "code": 104201010,
+    "name": "Dullan",
+    "citymun": "Aloran"
+}, {
+    "code": 104201011,
+    "name": "Ibabao",
+    "citymun": "Aloran"
+}, {
+    "code": 104201012,
+    "name": "Tubod (Juan Bacayo)",
+    "citymun": "Aloran"
+}, {
+    "code": 104201013,
+    "name": "Labo",
+    "citymun": "Aloran"
+}, {
+    "code": 104201014,
+    "name": "Lawa-an",
+    "citymun": "Aloran"
+}, {
+    "code": 104201015,
+    "name": "Lobogon",
+    "citymun": "Aloran"
+}, {
+    "code": 104201016,
+    "name": "Lumbayao",
+    "citymun": "Aloran"
+}, {
+    "code": 104201017,
+    "name": "Makawa",
+    "citymun": "Aloran"
+}, {
+    "code": 104201018,
+    "name": "Manamong",
+    "citymun": "Aloran"
+}, {
+    "code": 104201019,
+    "name": "Matipaz",
+    "citymun": "Aloran"
+}, {
+    "code": 104201020,
+    "name": "Maular",
+    "citymun": "Aloran"
+}, {
+    "code": 104201021,
+    "name": "Mitazan",
+    "citymun": "Aloran"
+}, {
+    "code": 104201022,
+    "name": "Mohon",
+    "citymun": "Aloran"
+}, {
+    "code": 104201023,
+    "name": "Monterico",
+    "citymun": "Aloran"
+}, {
+    "code": 104201024,
+    "name": "Nabuna",
+    "citymun": "Aloran"
+}, {
+    "code": 104201025,
+    "name": "Palayan",
+    "citymun": "Aloran"
+}, {
+    "code": 104201026,
+    "name": "Pelong",
+    "citymun": "Aloran"
+}, {
+    "code": 104201027,
+    "name": "Ospital (Pob.)",
+    "citymun": "Aloran"
+}, {
+    "code": 104201028,
+    "name": "Roxas",
+    "citymun": "Aloran"
+}, {
+    "code": 104201029,
+    "name": "San Pedro",
+    "citymun": "Aloran"
+}, {
+    "code": 104201030,
+    "name": "Santa Ana",
+    "citymun": "Aloran"
+}, {
+    "code": 104201031,
+    "name": "Sinampongan",
+    "citymun": "Aloran"
+}, {
+    "code": 104201032,
+    "name": "Taguanao",
+    "citymun": "Aloran"
+}, {
+    "code": 104201033,
+    "name": "Tawi-tawi",
+    "citymun": "Aloran"
+}, {
+    "code": 104201034,
+    "name": "Toril",
+    "citymun": "Aloran"
+}, {
+    "code": 104201035,
+    "name": "Tuburan",
+    "citymun": "Aloran"
+}, {
+    "code": 104201036,
+    "name": "Zamora",
+    "citymun": "Aloran"
+}, {
+    "code": 104201037,
+    "name": "Macubon (Sina-ad)",
+    "citymun": "Aloran"
+}, {
+    "code": 104201038,
+    "name": "Tugaya",
+    "citymun": "Aloran"
+}, {
+    "code": 104202001,
+    "name": "Del Pilar",
+    "citymun": "Baliangao"
+}, {
+    "code": 104202002,
+    "name": "Landing",
+    "citymun": "Baliangao"
+}, {
+    "code": 104202003,
+    "name": "Lumipac",
+    "citymun": "Baliangao"
+}, {
+    "code": 104202004,
+    "name": "Lusot",
+    "citymun": "Baliangao"
+}, {
+    "code": 104202005,
+    "name": "Mabini",
+    "citymun": "Baliangao"
+}, {
+    "code": 104202006,
+    "name": "Magsaysay",
+    "citymun": "Baliangao"
+}, {
+    "code": 104202007,
+    "name": "Misom",
+    "citymun": "Baliangao"
+}, {
+    "code": 104202008,
+    "name": "Mitacas",
+    "citymun": "Baliangao"
+}, {
+    "code": 104202009,
+    "name": "Naburos",
+    "citymun": "Baliangao"
+}, {
+    "code": 104202010,
+    "name": "Northern Poblacion",
+    "citymun": "Baliangao"
+}, {
+    "code": 104202011,
+    "name": "Punta Miray",
+    "citymun": "Baliangao"
+}, {
+    "code": 104202012,
+    "name": "Punta Sulong",
+    "citymun": "Baliangao"
+}, {
+    "code": 104202013,
+    "name": "Sinian",
+    "citymun": "Baliangao"
+}, {
+    "code": 104202014,
+    "name": "Southern Poblacion",
+    "citymun": "Baliangao"
+}, {
+    "code": 104202015,
+    "name": "Tugas",
+    "citymun": "Baliangao"
+}, {
+    "code": 104203002,
+    "name": "Bag-ong Anonang",
+    "citymun": "Bonifacio"
+}, {
+    "code": 104203003,
+    "name": "Bagumbang",
+    "citymun": "Bonifacio"
+}, {
+    "code": 104203004,
+    "name": "Baybay",
+    "citymun": "Bonifacio"
+}, {
+    "code": 104203005,
+    "name": "Bolinsong",
+    "citymun": "Bonifacio"
+}, {
+    "code": 104203006,
+    "name": "Buenavista",
+    "citymun": "Bonifacio"
+}, {
+    "code": 104203007,
+    "name": "Buracan",
+    "citymun": "Bonifacio"
+}, {
+    "code": 104203009,
+    "name": "Calolot",
+    "citymun": "Bonifacio"
+}, {
+    "code": 104203010,
+    "name": "Dimalco",
+    "citymun": "Bonifacio"
+}, {
+    "code": 104203011,
+    "name": "Dullan",
+    "citymun": "Bonifacio"
+}, {
+    "code": 104203012,
+    "name": "Kanaokanao",
+    "citymun": "Bonifacio"
+}, {
+    "code": 104203013,
+    "name": "Liloan",
+    "citymun": "Bonifacio"
+}, {
+    "code": 104203014,
+    "name": "Linconan",
+    "citymun": "Bonifacio"
+}, {
+    "code": 104203015,
+    "name": "Lodiong",
+    "citymun": "Bonifacio"
+}, {
+    "code": 104203016,
+    "name": "Lower Usugan",
+    "citymun": "Bonifacio"
+}, {
+    "code": 104203017,
+    "name": "Mapurog (Migsale)",
+    "citymun": "Bonifacio"
+}, {
+    "code": 104203019,
+    "name": "Migpange",
+    "citymun": "Bonifacio"
+}, {
+    "code": 104203020,
+    "name": "Montol",
+    "citymun": "Bonifacio"
+}, {
+    "code": 104203023,
+    "name": "Pisa-an",
+    "citymun": "Bonifacio"
+}, {
+    "code": 104203024,
+    "name": "Poblacion (Centro)",
+    "citymun": "Bonifacio"
+}, {
+    "code": 104203025,
+    "name": "Remedios",
+    "citymun": "Bonifacio"
+}, {
+    "code": 104203026,
+    "name": "Rufino Lumapas",
+    "citymun": "Bonifacio"
+}, {
+    "code": 104203027,
+    "name": "Sibuyon",
+    "citymun": "Bonifacio"
+}, {
+    "code": 104203028,
+    "name": "Tangab",
+    "citymun": "Bonifacio"
+}, {
+    "code": 104203029,
+    "name": "Tiaman",
+    "citymun": "Bonifacio"
+}, {
+    "code": 104203030,
+    "name": "Tusik",
+    "citymun": "Bonifacio"
+}, {
+    "code": 104203031,
+    "name": "Upper Usogan",
+    "citymun": "Bonifacio"
+}, {
+    "code": 104203032,
+    "name": "Demetrio Fernan",
+    "citymun": "Bonifacio"
+}, {
+    "code": 104203033,
+    "name": "Digson",
+    "citymun": "Bonifacio"
+}, {
+    "code": 104204001,
+    "name": "Bonifacio",
+    "citymun": "Calamba"
+}, {
+    "code": 104204002,
+    "name": "Bunawan",
+    "citymun": "Calamba"
+}, {
+    "code": 104204003,
+    "name": "Calaran",
+    "citymun": "Calamba"
+}, {
+    "code": 104204004,
+    "name": "Dapacan Alto",
+    "citymun": "Calamba"
+}, {
+    "code": 104204005,
+    "name": "Dapacan Bajo",
+    "citymun": "Calamba"
+}, {
+    "code": 104204006,
+    "name": "Langub",
+    "citymun": "Calamba"
+}, {
+    "code": 104204007,
+    "name": "Libertad",
+    "citymun": "Calamba"
+}, {
+    "code": 104204008,
+    "name": "Magcamiguing",
+    "citymun": "Calamba"
+}, {
+    "code": 104204009,
+    "name": "Mamalad",
+    "citymun": "Calamba"
+}, {
+    "code": 104204010,
+    "name": "Mauswagon",
+    "citymun": "Calamba"
+}, {
+    "code": 104204011,
+    "name": "Northern Poblacion",
+    "citymun": "Calamba"
+}, {
+    "code": 104204012,
+    "name": "Salvador",
+    "citymun": "Calamba"
+}, {
+    "code": 104204013,
+    "name": "San Isidro (San Isidro-San Pedro)",
+    "citymun": "Calamba"
+}, {
+    "code": 104204014,
+    "name": "Siloy",
+    "citymun": "Calamba"
+}, {
+    "code": 104204015,
+    "name": "Singalat",
+    "citymun": "Calamba"
+}, {
+    "code": 104204016,
+    "name": "Solinog",
+    "citymun": "Calamba"
+}, {
+    "code": 104204017,
+    "name": "Southwestern Poblacion",
+    "citymun": "Calamba"
+}, {
+    "code": 104204018,
+    "name": "Sulipat",
+    "citymun": "Calamba"
+}, {
+    "code": 104204019,
+    "name": "Don Bernardo Nery Pob. (Tres de Mayo)",
+    "citymun": "Calamba"
+}, {
+    "code": 104205002,
+    "name": "Bernad",
+    "citymun": "Clarin"
+}, {
+    "code": 104205003,
+    "name": "Bito-on",
+    "citymun": "Clarin"
+}, {
+    "code": 104205004,
+    "name": "Cabunga-an",
+    "citymun": "Clarin"
+}, {
+    "code": 104205005,
+    "name": "Canibungan Daku",
+    "citymun": "Clarin"
+}, {
+    "code": 104205006,
+    "name": "Canibungan Putol",
+    "citymun": "Clarin"
+}, {
+    "code": 104205007,
+    "name": "Canipacan",
+    "citymun": "Clarin"
+}, {
+    "code": 104205008,
+    "name": "Dalingap",
+    "citymun": "Clarin"
+}, {
+    "code": 104205009,
+    "name": "Dela Paz",
+    "citymun": "Clarin"
+}, {
+    "code": 104205010,
+    "name": "Dolores",
+    "citymun": "Clarin"
+}, {
+    "code": 104205011,
+    "name": "Gata Daku",
+    "citymun": "Clarin"
+}, {
+    "code": 104205012,
+    "name": "Gata Diot",
+    "citymun": "Clarin"
+}, {
+    "code": 104205013,
+    "name": "Guba (Ozamis)",
+    "citymun": "Clarin"
+}, {
+    "code": 104205014,
+    "name": "Kinangay Norte",
+    "citymun": "Clarin"
+}, {
+    "code": 104205015,
+    "name": "Kinangay Sur",
+    "citymun": "Clarin"
+}, {
+    "code": 104205016,
+    "name": "Lapasan",
+    "citymun": "Clarin"
+}, {
+    "code": 104205017,
+    "name": "Lupagan",
+    "citymun": "Clarin"
+}, {
+    "code": 104205018,
+    "name": "Malibangcao",
+    "citymun": "Clarin"
+}, {
+    "code": 104205019,
+    "name": "Masabud",
+    "citymun": "Clarin"
+}, {
+    "code": 104205020,
+    "name": "Mialen",
+    "citymun": "Clarin"
+}, {
+    "code": 104205021,
+    "name": "Pan-ay",
+    "citymun": "Clarin"
+}, {
+    "code": 104205022,
+    "name": "Penacio",
+    "citymun": "Clarin"
+}, {
+    "code": 104205023,
+    "name": "Poblacion I",
+    "citymun": "Clarin"
+}, {
+    "code": 104205024,
+    "name": "Segatic Daku",
+    "citymun": "Clarin"
+}, {
+    "code": 104205025,
+    "name": "Segatic Diot",
+    "citymun": "Clarin"
+}, {
+    "code": 104205026,
+    "name": "Sebasi",
+    "citymun": "Clarin"
+}, {
+    "code": 104205027,
+    "name": "Tinacla-an",
+    "citymun": "Clarin"
+}, {
+    "code": 104205028,
+    "name": "Poblacion II",
+    "citymun": "Clarin"
+}, {
+    "code": 104205029,
+    "name": "Poblacion III",
+    "citymun": "Clarin"
+}, {
+    "code": 104205030,
+    "name": "Poblacion IV",
+    "citymun": "Clarin"
+}, {
+    "code": 104206001,
+    "name": "Bagong Nayon",
+    "citymun": "Concepcion"
+}, {
+    "code": 104206002,
+    "name": "Capule",
+    "citymun": "Concepcion"
+}, {
+    "code": 104206003,
+    "name": "New Casul",
+    "citymun": "Concepcion"
+}, {
+    "code": 104206004,
+    "name": "Guiban",
+    "citymun": "Concepcion"
+}, {
+    "code": 104206005,
+    "name": "Laya-an",
+    "citymun": "Concepcion"
+}, {
+    "code": 104206006,
+    "name": "Lingatongan",
+    "citymun": "Concepcion"
+}, {
+    "code": 104206007,
+    "name": "Maligubaan",
+    "citymun": "Concepcion"
+}, {
+    "code": 104206008,
+    "name": "Mantukoy",
+    "citymun": "Concepcion"
+}, {
+    "code": 104206009,
+    "name": "Marugang",
+    "citymun": "Concepcion"
+}, {
+    "code": 104206011,
+    "name": "Poblacion",
+    "citymun": "Concepcion"
+}, {
+    "code": 104206012,
+    "name": "Pogan",
+    "citymun": "Concepcion"
+}, {
+    "code": 104206013,
+    "name": "Small Potongan",
+    "citymun": "Concepcion"
+}, {
+    "code": 104206014,
+    "name": "Soso-on",
+    "citymun": "Concepcion"
+}, {
+    "code": 104206015,
+    "name": "Upper Dapitan",
+    "citymun": "Concepcion"
+}, {
+    "code": 104206016,
+    "name": "Upper Dioyo",
+    "citymun": "Concepcion"
+}, {
+    "code": 104206017,
+    "name": "Upper Potongan",
+    "citymun": "Concepcion"
+}, {
+    "code": 104206018,
+    "name": "Upper Salimpono",
+    "citymun": "Concepcion"
+}, {
+    "code": 104206019,
+    "name": "Virayan",
+    "citymun": "Concepcion"
+}, {
+    "code": 104207001,
+    "name": "Adorable",
+    "citymun": "Jimenez"
+}, {
+    "code": 104207002,
+    "name": "Butuay",
+    "citymun": "Jimenez"
+}, {
+    "code": 104207003,
+    "name": "Carmen",
+    "citymun": "Jimenez"
+}, {
+    "code": 104207004,
+    "name": "Corrales",
+    "citymun": "Jimenez"
+}, {
+    "code": 104207005,
+    "name": "Dicoloc",
+    "citymun": "Jimenez"
+}, {
+    "code": 104207006,
+    "name": "Gata",
+    "citymun": "Jimenez"
+}, {
+    "code": 104207007,
+    "name": "Guintomoyan",
+    "citymun": "Jimenez"
+}, {
+    "code": 104207008,
+    "name": "Malibacsan",
+    "citymun": "Jimenez"
+}, {
+    "code": 104207009,
+    "name": "Macabayao",
+    "citymun": "Jimenez"
+}, {
+    "code": 104207010,
+    "name": "Matugas Alto",
+    "citymun": "Jimenez"
+}, {
+    "code": 104207011,
+    "name": "Matugas Bajo",
+    "citymun": "Jimenez"
+}, {
+    "code": 104207012,
+    "name": "Mialem",
+    "citymun": "Jimenez"
+}, {
+    "code": 104207014,
+    "name": "Naga (Pob.)",
+    "citymun": "Jimenez"
+}, {
+    "code": 104207015,
+    "name": "Palilan",
+    "citymun": "Jimenez"
+}, {
+    "code": 104207016,
+    "name": "Nacional (Pob.)",
+    "citymun": "Jimenez"
+}, {
+    "code": 104207017,
+    "name": "Rizal (Pob.)",
+    "citymun": "Jimenez"
+}, {
+    "code": 104207018,
+    "name": "San Isidro",
+    "citymun": "Jimenez"
+}, {
+    "code": 104207019,
+    "name": "Santa Cruz (Pob.)",
+    "citymun": "Jimenez"
+}, {
+    "code": 104207020,
+    "name": "Sibaroc",
+    "citymun": "Jimenez"
+}, {
+    "code": 104207021,
+    "name": "Sinara Alto",
+    "citymun": "Jimenez"
+}, {
+    "code": 104207022,
+    "name": "Sinara Bajo",
+    "citymun": "Jimenez"
+}, {
+    "code": 104207023,
+    "name": "Seti",
+    "citymun": "Jimenez"
+}, {
+    "code": 104207024,
+    "name": "Tabo-o",
+    "citymun": "Jimenez"
+}, {
+    "code": 104207025,
+    "name": "Taraka (Pob.)",
+    "citymun": "Jimenez"
+}, {
+    "code": 104208001,
+    "name": "Alegria",
+    "citymun": "Lopez Jaena"
+}, {
+    "code": 104208002,
+    "name": "Bagong Silang",
+    "citymun": "Lopez Jaena"
+}, {
+    "code": 104208003,
+    "name": "Biasong",
+    "citymun": "Lopez Jaena"
+}, {
+    "code": 104208004,
+    "name": "Bonifacio",
+    "citymun": "Lopez Jaena"
+}, {
+    "code": 104208005,
+    "name": "Burgos",
+    "citymun": "Lopez Jaena"
+}, {
+    "code": 104208006,
+    "name": "Dalacon",
+    "citymun": "Lopez Jaena"
+}, {
+    "code": 104208007,
+    "name": "Dampalan",
+    "citymun": "Lopez Jaena"
+}, {
+    "code": 104208008,
+    "name": "Estante",
+    "citymun": "Lopez Jaena"
+}, {
+    "code": 104208010,
+    "name": "Jasa-an",
+    "citymun": "Lopez Jaena"
+}, {
+    "code": 104208011,
+    "name": "Katipa",
+    "citymun": "Lopez Jaena"
+}, {
+    "code": 104208012,
+    "name": "Luzaran",
+    "citymun": "Lopez Jaena"
+}, {
+    "code": 104208013,
+    "name": "Macalibre Alto",
+    "citymun": "Lopez Jaena"
+}, {
+    "code": 104208014,
+    "name": "Macalibre Bajo",
+    "citymun": "Lopez Jaena"
+}, {
+    "code": 104208015,
+    "name": "Mahayahay",
+    "citymun": "Lopez Jaena"
+}, {
+    "code": 104208016,
+    "name": "Manguehan",
+    "citymun": "Lopez Jaena"
+}, {
+    "code": 104208017,
+    "name": "Mansabay Bajo",
+    "citymun": "Lopez Jaena"
+}, {
+    "code": 104208018,
+    "name": "Molatuhan Alto",
+    "citymun": "Lopez Jaena"
+}, {
+    "code": 104208019,
+    "name": "Molatuhan Bajo",
+    "citymun": "Lopez Jaena"
+}, {
+    "code": 104208021,
+    "name": "Peniel",
+    "citymun": "Lopez Jaena"
+}, {
+    "code": 104208022,
+    "name": "Eastern Poblacion",
+    "citymun": "Lopez Jaena"
+}, {
+    "code": 104208023,
+    "name": "Puntod",
+    "citymun": "Lopez Jaena"
+}, {
+    "code": 104208024,
+    "name": "Rizal",
+    "citymun": "Lopez Jaena"
+}, {
+    "code": 104208025,
+    "name": "Sibugon",
+    "citymun": "Lopez Jaena"
+}, {
+    "code": 104208026,
+    "name": "Sibula",
+    "citymun": "Lopez Jaena"
+}, {
+    "code": 104208027,
+    "name": "Don Andres Soriano",
+    "citymun": "Lopez Jaena"
+}, {
+    "code": 104208028,
+    "name": "Mabas",
+    "citymun": "Lopez Jaena"
+}, {
+    "code": 104208029,
+    "name": "Mansabay Alto",
+    "citymun": "Lopez Jaena"
+}, {
+    "code": 104208030,
+    "name": "Western Poblacion",
+    "citymun": "Lopez Jaena"
+}, {
+    "code": 104209001,
+    "name": "Apil",
+    "citymun": "Oroquieta City Capital"
+}, {
+    "code": 104209002,
+    "name": "Binuangan",
+    "citymun": "Oroquieta City Capital"
+}, {
+    "code": 104209003,
+    "name": "Bolibol",
+    "citymun": "Oroquieta City Capital"
+}, {
+    "code": 104209004,
+    "name": "Buenavista",
+    "citymun": "Oroquieta City Capital"
+}, {
+    "code": 104209005,
+    "name": "Bunga",
+    "citymun": "Oroquieta City Capital"
+}, {
+    "code": 104209006,
+    "name": "Buntawan",
+    "citymun": "Oroquieta City Capital"
+}, {
+    "code": 104209007,
+    "name": "Burgos",
+    "citymun": "Oroquieta City Capital"
+}, {
+    "code": 104209008,
+    "name": "Canubay",
+    "citymun": "Oroquieta City Capital"
+}, {
+    "code": 104209009,
+    "name": "Clarin Settlement",
+    "citymun": "Oroquieta City Capital"
+}, {
+    "code": 104209010,
+    "name": "Dolipos Bajo",
+    "citymun": "Oroquieta City Capital"
+}, {
+    "code": 104209011,
+    "name": "Dolipos Alto",
+    "citymun": "Oroquieta City Capital"
+}, {
+    "code": 104209012,
+    "name": "Dulapo",
+    "citymun": "Oroquieta City Capital"
+}, {
+    "code": 104209013,
+    "name": "Dullan Norte",
+    "citymun": "Oroquieta City Capital"
+}, {
+    "code": 104209014,
+    "name": "Dullan Sur",
+    "citymun": "Oroquieta City Capital"
+}, {
+    "code": 104209015,
+    "name": "Lamac Lower",
+    "citymun": "Oroquieta City Capital"
+}, {
+    "code": 104209016,
+    "name": "Lamac Upper",
+    "citymun": "Oroquieta City Capital"
+}, {
+    "code": 104209017,
+    "name": "Langcangan Lower",
+    "citymun": "Oroquieta City Capital"
+}, {
+    "code": 104209018,
+    "name": "Langcangan Proper",
+    "citymun": "Oroquieta City Capital"
+}, {
+    "code": 104209019,
+    "name": "Langcangan Upper",
+    "citymun": "Oroquieta City Capital"
+}, {
+    "code": 104209020,
+    "name": "Layawan",
+    "citymun": "Oroquieta City Capital"
+}, {
+    "code": 104209021,
+    "name": "Loboc Lower",
+    "citymun": "Oroquieta City Capital"
+}, {
+    "code": 104209022,
+    "name": "Loboc Upper",
+    "citymun": "Oroquieta City Capital"
+}, {
+    "code": 104209023,
+    "name": "Rizal Lower",
+    "citymun": "Oroquieta City Capital"
+}, {
+    "code": 104209024,
+    "name": "Malindang",
+    "citymun": "Oroquieta City Capital"
+}, {
+    "code": 104209025,
+    "name": "Mialen",
+    "citymun": "Oroquieta City Capital"
+}, {
+    "code": 104209026,
+    "name": "Mobod",
+    "citymun": "Oroquieta City Capital"
+}, {
+    "code": 104209027,
+    "name": "Ciriaco C. Pastrano (Nilabo)",
+    "citymun": "Oroquieta City Capital"
+}, {
+    "code": 104209028,
+    "name": "Paypayan",
+    "citymun": "Oroquieta City Capital"
+}, {
+    "code": 104209029,
+    "name": "Pines",
+    "citymun": "Oroquieta City Capital"
+}, {
+    "code": 104209030,
+    "name": "Poblacion I",
+    "citymun": "Oroquieta City Capital"
+}, {
+    "code": 104209031,
+    "name": "Poblacion II",
+    "citymun": "Oroquieta City Capital"
+}, {
+    "code": 104209033,
+    "name": "San Vicente Alto",
+    "citymun": "Oroquieta City Capital"
+}, {
+    "code": 104209034,
+    "name": "San Vicente Bajo",
+    "citymun": "Oroquieta City Capital"
+}, {
+    "code": 104209035,
+    "name": "Sebucal",
+    "citymun": "Oroquieta City Capital"
+}, {
+    "code": 104209036,
+    "name": "Senote",
+    "citymun": "Oroquieta City Capital"
+}, {
+    "code": 104209037,
+    "name": "Taboc Norte",
+    "citymun": "Oroquieta City Capital"
+}, {
+    "code": 104209038,
+    "name": "Taboc Sur",
+    "citymun": "Oroquieta City Capital"
+}, {
+    "code": 104209039,
+    "name": "Talairon",
+    "citymun": "Oroquieta City Capital"
+}, {
+    "code": 104209040,
+    "name": "Talic",
+    "citymun": "Oroquieta City Capital"
+}, {
+    "code": 104209041,
+    "name": "Toliyok",
+    "citymun": "Oroquieta City Capital"
+}, {
+    "code": 104209042,
+    "name": "Tipan",
+    "citymun": "Oroquieta City Capital"
+}, {
+    "code": 104209043,
+    "name": "Tuyabang Alto",
+    "citymun": "Oroquieta City Capital"
+}, {
+    "code": 104209044,
+    "name": "Tuyabang Bajo",
+    "citymun": "Oroquieta City Capital"
+}, {
+    "code": 104209045,
+    "name": "Tuyabang Proper",
+    "citymun": "Oroquieta City Capital"
+}, {
+    "code": 104209046,
+    "name": "Rizal Upper",
+    "citymun": "Oroquieta City Capital"
+}, {
+    "code": 104209047,
+    "name": "Victoria",
+    "citymun": "Oroquieta City Capital"
+}, {
+    "code": 104209048,
+    "name": "Villaflor",
+    "citymun": "Oroquieta City Capital"
+}, {
+    "code": 104210001,
+    "name": "Aguada (Pob.)",
+    "citymun": "Ozamiz City"
+}, {
+    "code": 104210002,
+    "name": "Banadero (Pob.)",
+    "citymun": "Ozamiz City"
+}, {
+    "code": 104210003,
+    "name": "Bacolod",
+    "citymun": "Ozamiz City"
+}, {
+    "code": 104210004,
+    "name": "Bagakay",
+    "citymun": "Ozamiz City"
+}, {
+    "code": 104210005,
+    "name": "Balintawak",
+    "citymun": "Ozamiz City"
+}, {
+    "code": 104210006,
+    "name": "Baybay Santa Cruz",
+    "citymun": "Ozamiz City"
+}, {
+    "code": 104210007,
+    "name": "Baybay Triunfo",
+    "citymun": "Ozamiz City"
+}, {
+    "code": 104210008,
+    "name": "Bongbong",
+    "citymun": "Ozamiz City"
+}, {
+    "code": 104210009,
+    "name": "Calabayan",
+    "citymun": "Ozamiz City"
+}, {
+    "code": 104210010,
+    "name": "Capucao C.",
+    "citymun": "Ozamiz City"
+}, {
+    "code": 104210011,
+    "name": "Capucao P.",
+    "citymun": "Ozamiz City"
+}, {
+    "code": 104210012,
+    "name": "Carangan",
+    "citymun": "Ozamiz City"
+}, {
+    "code": 104210013,
+    "name": "Catadman-Manabay",
+    "citymun": "Ozamiz City"
+}, {
+    "code": 104210014,
+    "name": "Cavinte",
+    "citymun": "Ozamiz City"
+}, {
+    "code": 104210015,
+    "name": "Cogon",
+    "citymun": "Ozamiz City"
+}, {
+    "code": 104210016,
+    "name": "Dalapang",
+    "citymun": "Ozamiz City"
+}, {
+    "code": 104210017,
+    "name": "Diguan",
+    "citymun": "Ozamiz City"
+}, {
+    "code": 104210018,
+    "name": "Dimaluna",
+    "citymun": "Ozamiz City"
+}, {
+    "code": 104210019,
+    "name": "Embargo",
+    "citymun": "Ozamiz City"
+}, {
+    "code": 104210020,
+    "name": "Gala",
+    "citymun": "Ozamiz City"
+}, {
+    "code": 104210021,
+    "name": "Gango",
+    "citymun": "Ozamiz City"
+}, {
+    "code": 104210022,
+    "name": "Gotokan Daku",
+    "citymun": "Ozamiz City"
+}, {
+    "code": 104210023,
+    "name": "Gotokan Diot",
+    "citymun": "Ozamiz City"
+}, {
+    "code": 104210024,
+    "name": "Guimad",
+    "citymun": "Ozamiz City"
+}, {
+    "code": 104210025,
+    "name": "Guingona",
+    "citymun": "Ozamiz City"
+}, {
+    "code": 104210026,
+    "name": "Kinuman Norte",
+    "citymun": "Ozamiz City"
+}, {
+    "code": 104210027,
+    "name": "Kinuman Sur",
+    "citymun": "Ozamiz City"
+}, {
+    "code": 104210028,
+    "name": "Labinay",
+    "citymun": "Ozamiz City"
+}, {
+    "code": 104210029,
+    "name": "Labo",
+    "citymun": "Ozamiz City"
+}, {
+    "code": 104210030,
+    "name": "Lam-an",
+    "citymun": "Ozamiz City"
+}, {
+    "code": 104210031,
+    "name": "Liposong",
+    "citymun": "Ozamiz City"
+}, {
+    "code": 104210032,
+    "name": "Litapan",
+    "citymun": "Ozamiz City"
+}, {
+    "code": 104210033,
+    "name": "Malaubang",
+    "citymun": "Ozamiz City"
+}, {
+    "code": 104210034,
+    "name": "Manaka",
+    "citymun": "Ozamiz City"
+}, {
+    "code": 104210035,
+    "name": "Maningcol",
+    "citymun": "Ozamiz City"
+}, {
+    "code": 104210036,
+    "name": "Mentering",
+    "citymun": "Ozamiz City"
+}, {
+    "code": 104210037,
+    "name": "Carmen (Misamis Annex)",
+    "citymun": "Ozamiz City"
+}, {
+    "code": 104210038,
+    "name": "Molicay",
+    "citymun": "Ozamiz City"
+}, {
+    "code": 104210039,
+    "name": "Stimson Abordo (Montol)",
+    "citymun": "Ozamiz City"
+}, {
+    "code": 104210040,
+    "name": "Pantaon",
+    "citymun": "Ozamiz City"
+}, {
+    "code": 104210041,
+    "name": "Pulot",
+    "citymun": "Ozamiz City"
+}, {
+    "code": 104210042,
+    "name": "San Antonio",
+    "citymun": "Ozamiz City"
+}, {
+    "code": 104210043,
+    "name": "Baybay San Roque",
+    "citymun": "Ozamiz City"
+}, {
+    "code": 104210044,
+    "name": "Sangay Daku",
+    "citymun": "Ozamiz City"
+}, {
+    "code": 104210045,
+    "name": "Sangay Diot",
+    "citymun": "Ozamiz City"
+}, {
+    "code": 104210046,
+    "name": "Sinuza",
+    "citymun": "Ozamiz City"
+}, {
+    "code": 104210047,
+    "name": "Tabid",
+    "citymun": "Ozamiz City"
+}, {
+    "code": 104210048,
+    "name": "Tinago",
+    "citymun": "Ozamiz City"
+}, {
+    "code": 104210049,
+    "name": "Trigos",
+    "citymun": "Ozamiz City"
+}, {
+    "code": 104210051,
+    "name": "50th District (Pob.)",
+    "citymun": "Ozamiz City"
+}, {
+    "code": 104210052,
+    "name": "Doña Consuelo",
+    "citymun": "Ozamiz City"
+}, {
+    "code": 104211001,
+    "name": "Baga",
+    "citymun": "Panaon"
+}, {
+    "code": 104211002,
+    "name": "Bangko",
+    "citymun": "Panaon"
+}, {
+    "code": 104211003,
+    "name": "Camanucan",
+    "citymun": "Panaon"
+}, {
+    "code": 104211004,
+    "name": "Dela Paz",
+    "citymun": "Panaon"
+}, {
+    "code": 104211005,
+    "name": "Lutao",
+    "citymun": "Panaon"
+}, {
+    "code": 104211006,
+    "name": "Magsaysay",
+    "citymun": "Panaon"
+}, {
+    "code": 104211007,
+    "name": "Map-an",
+    "citymun": "Panaon"
+}, {
+    "code": 104211008,
+    "name": "Mohon",
+    "citymun": "Panaon"
+}, {
+    "code": 104211009,
+    "name": "Poblacion",
+    "citymun": "Panaon"
+}, {
+    "code": 104211010,
+    "name": "Punta",
+    "citymun": "Panaon"
+}, {
+    "code": 104211011,
+    "name": "Salimpuno",
+    "citymun": "Panaon"
+}, {
+    "code": 104211012,
+    "name": "San Andres",
+    "citymun": "Panaon"
+}, {
+    "code": 104211013,
+    "name": "San Juan",
+    "citymun": "Panaon"
+}, {
+    "code": 104211014,
+    "name": "San Roque",
+    "citymun": "Panaon"
+}, {
+    "code": 104211015,
+    "name": "Sumasap",
+    "citymun": "Panaon"
+}, {
+    "code": 104211016,
+    "name": "Villalin",
+    "citymun": "Panaon"
+}, {
+    "code": 104212001,
+    "name": "Agunod",
+    "citymun": "Plaridel"
+}, {
+    "code": 104212002,
+    "name": "Bato",
+    "citymun": "Plaridel"
+}, {
+    "code": 104212003,
+    "name": "Buena Voluntad",
+    "citymun": "Plaridel"
+}, {
+    "code": 104212004,
+    "name": "Calaca-an",
+    "citymun": "Plaridel"
+}, {
+    "code": 104212005,
+    "name": "Cartagena Proper",
+    "citymun": "Plaridel"
+}, {
+    "code": 104212006,
+    "name": "Catarman",
+    "citymun": "Plaridel"
+}, {
+    "code": 104212007,
+    "name": "Cebulin",
+    "citymun": "Plaridel"
+}, {
+    "code": 104212008,
+    "name": "Clarin",
+    "citymun": "Plaridel"
+}, {
+    "code": 104212009,
+    "name": "Danao",
+    "citymun": "Plaridel"
+}, {
+    "code": 104212010,
+    "name": "Deboloc",
+    "citymun": "Plaridel"
+}, {
+    "code": 104212011,
+    "name": "Divisoria",
+    "citymun": "Plaridel"
+}, {
+    "code": 104212012,
+    "name": "Eastern Looc",
+    "citymun": "Plaridel"
+}, {
+    "code": 104212013,
+    "name": "Ilisan",
+    "citymun": "Plaridel"
+}, {
+    "code": 104212014,
+    "name": "Katipunan",
+    "citymun": "Plaridel"
+}, {
+    "code": 104212015,
+    "name": "Kauswagan",
+    "citymun": "Plaridel"
+}, {
+    "code": 104212016,
+    "name": "Lao Proper",
+    "citymun": "Plaridel"
+}, {
+    "code": 104212017,
+    "name": "Lao Santa Cruz",
+    "citymun": "Plaridel"
+}, {
+    "code": 104212018,
+    "name": "Looc Proper",
+    "citymun": "Plaridel"
+}, {
+    "code": 104212019,
+    "name": "Mamanga Daku",
+    "citymun": "Plaridel"
+}, {
+    "code": 104212020,
+    "name": "Mamanga Gamay",
+    "citymun": "Plaridel"
+}, {
+    "code": 104212021,
+    "name": "Mangidkid",
+    "citymun": "Plaridel"
+}, {
+    "code": 104212022,
+    "name": "New Cartagena",
+    "citymun": "Plaridel"
+}, {
+    "code": 104212023,
+    "name": "New Look",
+    "citymun": "Plaridel"
+}, {
+    "code": 104212024,
+    "name": "Northern Poblacion",
+    "citymun": "Plaridel"
+}, {
+    "code": 104212025,
+    "name": "Panalsalan",
+    "citymun": "Plaridel"
+}, {
+    "code": 104212026,
+    "name": "Puntod",
+    "citymun": "Plaridel"
+}, {
+    "code": 104212027,
+    "name": "Quirino",
+    "citymun": "Plaridel"
+}, {
+    "code": 104212028,
+    "name": "Santa Cruz",
+    "citymun": "Plaridel"
+}, {
+    "code": 104212029,
+    "name": "Southern Looc",
+    "citymun": "Plaridel"
+}, {
+    "code": 104212030,
+    "name": "Southern Poblacion",
+    "citymun": "Plaridel"
+}, {
+    "code": 104212031,
+    "name": "Tipolo",
+    "citymun": "Plaridel"
+}, {
+    "code": 104212032,
+    "name": "Unidos",
+    "citymun": "Plaridel"
+}, {
+    "code": 104212033,
+    "name": "Usocan",
+    "citymun": "Plaridel"
+}, {
+    "code": 104213001,
+    "name": "Bautista",
+    "citymun": "Sapang Dalaga"
+}, {
+    "code": 104213002,
+    "name": "Bitibut",
+    "citymun": "Sapang Dalaga"
+}, {
+    "code": 104213003,
+    "name": "Boundary",
+    "citymun": "Sapang Dalaga"
+}, {
+    "code": 104213004,
+    "name": "Caluya",
+    "citymun": "Sapang Dalaga"
+}, {
+    "code": 104213005,
+    "name": "Capundag",
+    "citymun": "Sapang Dalaga"
+}, {
+    "code": 104213006,
+    "name": "Casul",
+    "citymun": "Sapang Dalaga"
+}, {
+    "code": 104213007,
+    "name": "Dasa",
+    "citymun": "Sapang Dalaga"
+}, {
+    "code": 104213008,
+    "name": "Dioyo",
+    "citymun": "Sapang Dalaga"
+}, {
+    "code": 104213009,
+    "name": "Guinabot",
+    "citymun": "Sapang Dalaga"
+}, {
+    "code": 104213010,
+    "name": "Libertad",
+    "citymun": "Sapang Dalaga"
+}, {
+    "code": 104213011,
+    "name": "Locus",
+    "citymun": "Sapang Dalaga"
+}, {
+    "code": 104213012,
+    "name": "Manla",
+    "citymun": "Sapang Dalaga"
+}, {
+    "code": 104213013,
+    "name": "Masubong",
+    "citymun": "Sapang Dalaga"
+}, {
+    "code": 104213016,
+    "name": "Agapito Yap, Sr. (Napilan)",
+    "citymun": "Sapang Dalaga"
+}, {
+    "code": 104213017,
+    "name": "Poblacion",
+    "citymun": "Sapang Dalaga"
+}, {
+    "code": 104213018,
+    "name": "Salimpuno",
+    "citymun": "Sapang Dalaga"
+}, {
+    "code": 104213019,
+    "name": "San Agustin",
+    "citymun": "Sapang Dalaga"
+}, {
+    "code": 104213020,
+    "name": "Sinaad",
+    "citymun": "Sapang Dalaga"
+}, {
+    "code": 104213021,
+    "name": "Sipac",
+    "citymun": "Sapang Dalaga"
+}, {
+    "code": 104213022,
+    "name": "Sixto Velez, Sr.",
+    "citymun": "Sapang Dalaga"
+}, {
+    "code": 104213023,
+    "name": "Upper Bautista",
+    "citymun": "Sapang Dalaga"
+}, {
+    "code": 104213024,
+    "name": "Ventura",
+    "citymun": "Sapang Dalaga"
+}, {
+    "code": 104213025,
+    "name": "Medallo",
+    "citymun": "Sapang Dalaga"
+}, {
+    "code": 104213026,
+    "name": "Dalumpinas",
+    "citymun": "Sapang Dalaga"
+}, {
+    "code": 104213027,
+    "name": "Disoy",
+    "citymun": "Sapang Dalaga"
+}, {
+    "code": 104213028,
+    "name": "El Paraiso",
+    "citymun": "Sapang Dalaga"
+}, {
+    "code": 104213029,
+    "name": "Macabibo",
+    "citymun": "Sapang Dalaga"
+}, {
+    "code": 104213030,
+    "name": "Sapang Ama",
+    "citymun": "Sapang Dalaga"
+}, {
+    "code": 104214001,
+    "name": "Cagay-anon",
+    "citymun": "Sinacaban"
+}, {
+    "code": 104214002,
+    "name": "Camanse",
+    "citymun": "Sinacaban"
+}, {
+    "code": 104214004,
+    "name": "Colupan Alto",
+    "citymun": "Sinacaban"
+}, {
+    "code": 104214005,
+    "name": "Colupan Bajo",
+    "citymun": "Sinacaban"
+}, {
+    "code": 104214006,
+    "name": "Dinas",
+    "citymun": "Sinacaban"
+}, {
+    "code": 104214007,
+    "name": "Estrella",
+    "citymun": "Sinacaban"
+}, {
+    "code": 104214008,
+    "name": "Katipunan",
+    "citymun": "Sinacaban"
+}, {
+    "code": 104214010,
+    "name": "Libertad Alto",
+    "citymun": "Sinacaban"
+}, {
+    "code": 104214011,
+    "name": "Libertad Bajo",
+    "citymun": "Sinacaban"
+}, {
+    "code": 104214013,
+    "name": "Poblacion",
+    "citymun": "Sinacaban"
+}, {
+    "code": 104214014,
+    "name": "San Isidro Alto",
+    "citymun": "Sinacaban"
+}, {
+    "code": 104214015,
+    "name": "San Isidro Bajo",
+    "citymun": "Sinacaban"
+}, {
+    "code": 104214016,
+    "name": "San Vicente",
+    "citymun": "Sinacaban"
+}, {
+    "code": 104214017,
+    "name": "Señor",
+    "citymun": "Sinacaban"
+}, {
+    "code": 104214018,
+    "name": "Sinonoc",
+    "citymun": "Sinacaban"
+}, {
+    "code": 104214019,
+    "name": "San Lorenzo Ruiz (Sungan)",
+    "citymun": "Sinacaban"
+}, {
+    "code": 104214020,
+    "name": "Tipan",
+    "citymun": "Sinacaban"
+}, {
+    "code": 104215001,
+    "name": "Santa Maria (Baga)",
+    "citymun": "Tangub City"
+}, {
+    "code": 104215002,
+    "name": "Balatacan",
+    "citymun": "Tangub City"
+}, {
+    "code": 104215003,
+    "name": "Banglay",
+    "citymun": "Tangub City"
+}, {
+    "code": 104215004,
+    "name": "Mantic",
+    "citymun": "Tangub City"
+}, {
+    "code": 104215005,
+    "name": "Migcanaway",
+    "citymun": "Tangub City"
+}, {
+    "code": 104215006,
+    "name": "Bintana",
+    "citymun": "Tangub City"
+}, {
+    "code": 104215007,
+    "name": "Bocator",
+    "citymun": "Tangub City"
+}, {
+    "code": 104215008,
+    "name": "Bongabong",
+    "citymun": "Tangub City"
+}, {
+    "code": 104215009,
+    "name": "Caniangan",
+    "citymun": "Tangub City"
+}, {
+    "code": 104215010,
+    "name": "Capalaran",
+    "citymun": "Tangub City"
+}, {
+    "code": 104215011,
+    "name": "Catagan",
+    "citymun": "Tangub City"
+}, {
+    "code": 104215012,
+    "name": "Barangay I - City Hall (Pob.)",
+    "citymun": "Tangub City"
+}, {
+    "code": 104215013,
+    "name": "Barangay II - Marilou Annex (Pob.)",
+    "citymun": "Tangub City"
+}, {
+    "code": 104215014,
+    "name": "Barangay IV - St. Michael (Pob.)",
+    "citymun": "Tangub City"
+}, {
+    "code": 104215015,
+    "name": "Isidro D. Tan (Dimaloc-oc)",
+    "citymun": "Tangub City"
+}, {
+    "code": 104215016,
+    "name": "Garang",
+    "citymun": "Tangub City"
+}, {
+    "code": 104215017,
+    "name": "Guinabot",
+    "citymun": "Tangub City"
+}, {
+    "code": 104215018,
+    "name": "Guinalaban",
+    "citymun": "Tangub City"
+}, {
+    "code": 104215019,
+    "name": "Kauswagan",
+    "citymun": "Tangub City"
+}, {
+    "code": 104215020,
+    "name": "Kimat",
+    "citymun": "Tangub City"
+}, {
+    "code": 104215021,
+    "name": "Labuyo",
+    "citymun": "Tangub City"
+}, {
+    "code": 104215022,
+    "name": "Lorenzo Tan",
+    "citymun": "Tangub City"
+}, {
+    "code": 104215023,
+    "name": "Barangay VI - Lower Polao (Pob.)",
+    "citymun": "Tangub City"
+}, {
+    "code": 104215024,
+    "name": "Lumban",
+    "citymun": "Tangub City"
+}, {
+    "code": 104215025,
+    "name": "Maloro",
+    "citymun": "Tangub City"
+}, {
+    "code": 104215026,
+    "name": "Barangay V - Malubog (Pob.)",
+    "citymun": "Tangub City"
+}, {
+    "code": 104215027,
+    "name": "Manga",
+    "citymun": "Tangub City"
+}, {
+    "code": 104215028,
+    "name": "Maquilao",
+    "citymun": "Tangub City"
+}, {
+    "code": 104215029,
+    "name": "Barangay III- Market Kalubian (Pob.)",
+    "citymun": "Tangub City"
+}, {
+    "code": 104215030,
+    "name": "Minsubong",
+    "citymun": "Tangub City"
+}, {
+    "code": 104215031,
+    "name": "Owayan",
+    "citymun": "Tangub City"
+}, {
+    "code": 104215032,
+    "name": "Paiton",
+    "citymun": "Tangub City"
+}, {
+    "code": 104215033,
+    "name": "Panalsalan",
+    "citymun": "Tangub City"
+}, {
+    "code": 104215034,
+    "name": "Pangabuan",
+    "citymun": "Tangub City"
+}, {
+    "code": 104215035,
+    "name": "Prenza",
+    "citymun": "Tangub City"
+}, {
+    "code": 104215036,
+    "name": "Salimpuno",
+    "citymun": "Tangub City"
+}, {
+    "code": 104215037,
+    "name": "San Antonio",
+    "citymun": "Tangub City"
+}, {
+    "code": 104215038,
+    "name": "San Apolinario",
+    "citymun": "Tangub City"
+}, {
+    "code": 104215039,
+    "name": "San Vicente",
+    "citymun": "Tangub City"
+}, {
+    "code": 104215040,
+    "name": "Santa Cruz",
+    "citymun": "Tangub City"
+}, {
+    "code": 104215041,
+    "name": "Santo Niño",
+    "citymun": "Tangub City"
+}, {
+    "code": 104215042,
+    "name": "Silangit",
+    "citymun": "Tangub City"
+}, {
+    "code": 104215043,
+    "name": "Simasay",
+    "citymun": "Tangub City"
+}, {
+    "code": 104215044,
+    "name": "Sumirap",
+    "citymun": "Tangub City"
+}, {
+    "code": 104215045,
+    "name": "Taguite",
+    "citymun": "Tangub City"
+}, {
+    "code": 104215046,
+    "name": "Tituron",
+    "citymun": "Tangub City"
+}, {
+    "code": 104215047,
+    "name": "Barangay VII - Upper Polao (Pob.)",
+    "citymun": "Tangub City"
+}, {
+    "code": 104215048,
+    "name": "Villaba",
+    "citymun": "Tangub City"
+}, {
+    "code": 104215049,
+    "name": "Silanga",
+    "citymun": "Tangub City"
+}, {
+    "code": 104215050,
+    "name": "Aquino (Marcos)",
+    "citymun": "Tangub City"
+}, {
+    "code": 104215051,
+    "name": "Baluk",
+    "citymun": "Tangub City"
+}, {
+    "code": 104215052,
+    "name": "Huyohoy",
+    "citymun": "Tangub City"
+}, {
+    "code": 104215053,
+    "name": "Matugnaw",
+    "citymun": "Tangub City"
+}, {
+    "code": 104215054,
+    "name": "Sicot",
+    "citymun": "Tangub City"
+}, {
+    "code": 104215055,
+    "name": "Tugas",
+    "citymun": "Tangub City"
+}, {
+    "code": 104216001,
+    "name": "Balon",
+    "citymun": "Tudela"
+}, {
+    "code": 104216002,
+    "name": "Barra",
+    "citymun": "Tudela"
+}, {
+    "code": 104216003,
+    "name": "Basirang",
+    "citymun": "Tudela"
+}, {
+    "code": 104216004,
+    "name": "Bongabong",
+    "citymun": "Tudela"
+}, {
+    "code": 104216005,
+    "name": "Buenavista",
+    "citymun": "Tudela"
+}, {
+    "code": 104216006,
+    "name": "Cabol-anonan",
+    "citymun": "Tudela"
+}, {
+    "code": 104216007,
+    "name": "Cahayag",
+    "citymun": "Tudela"
+}, {
+    "code": 104216008,
+    "name": "Camating",
+    "citymun": "Tudela"
+}, {
+    "code": 104216009,
+    "name": "Canibungan Proper",
+    "citymun": "Tudela"
+}, {
+    "code": 104216010,
+    "name": "Casilak San Agustin",
+    "citymun": "Tudela"
+}, {
+    "code": 104216011,
+    "name": "Centro Hulpa (Pob.)",
+    "citymun": "Tudela"
+}, {
+    "code": 104216012,
+    "name": "Centro Napu (Pob.)",
+    "citymun": "Tudela"
+}, {
+    "code": 104216013,
+    "name": "Centro Upper (Pob.)",
+    "citymun": "Tudela"
+}, {
+    "code": 104216014,
+    "name": "Calambutan Bajo",
+    "citymun": "Tudela"
+}, {
+    "code": 104216015,
+    "name": "Calambutan Settlement",
+    "citymun": "Tudela"
+}, {
+    "code": 104216016,
+    "name": "Duanguican",
+    "citymun": "Tudela"
+}, {
+    "code": 104216017,
+    "name": "Gala",
+    "citymun": "Tudela"
+}, {
+    "code": 104216018,
+    "name": "Gumbil",
+    "citymun": "Tudela"
+}, {
+    "code": 104216021,
+    "name": "Locso-on",
+    "citymun": "Tudela"
+}, {
+    "code": 104216022,
+    "name": "Maikay",
+    "citymun": "Tudela"
+}, {
+    "code": 104216023,
+    "name": "Maribojoc",
+    "citymun": "Tudela"
+}, {
+    "code": 104216024,
+    "name": "Mitugas",
+    "citymun": "Tudela"
+}, {
+    "code": 104216025,
+    "name": "Nailon",
+    "citymun": "Tudela"
+}, {
+    "code": 104216026,
+    "name": "Namut",
+    "citymun": "Tudela"
+}, {
+    "code": 104216027,
+    "name": "Napurog",
+    "citymun": "Tudela"
+}, {
+    "code": 104216028,
+    "name": "Pan-ay Diot",
+    "citymun": "Tudela"
+}, {
+    "code": 104216029,
+    "name": "San Nicolas",
+    "citymun": "Tudela"
+}, {
+    "code": 104216032,
+    "name": "Sebac",
+    "citymun": "Tudela"
+}, {
+    "code": 104216034,
+    "name": "Silongon",
+    "citymun": "Tudela"
+}, {
+    "code": 104216035,
+    "name": "Sinuza",
+    "citymun": "Tudela"
+}, {
+    "code": 104216036,
+    "name": "Taguima",
+    "citymun": "Tudela"
+}, {
+    "code": 104216038,
+    "name": "Tigdok",
+    "citymun": "Tudela"
+}, {
+    "code": 104216039,
+    "name": "Yahong",
+    "citymun": "Tudela"
+}, {
+    "code": 104217001,
+    "name": "Bagong Clarin",
+    "citymun": "Don Victoriano Chiongbian Don Mariano Marcos"
+}, {
+    "code": 104217002,
+    "name": "Gandawan",
+    "citymun": "Don Victoriano Chiongbian Don Mariano Marcos"
+}, {
+    "code": 104217003,
+    "name": "Lake Duminagat",
+    "citymun": "Don Victoriano Chiongbian Don Mariano Marcos"
+}, {
+    "code": 104217004,
+    "name": "Lalud",
+    "citymun": "Don Victoriano Chiongbian Don Mariano Marcos"
+}, {
+    "code": 104217005,
+    "name": "Lampasan",
+    "citymun": "Don Victoriano Chiongbian Don Mariano Marcos"
+}, {
+    "code": 104217006,
+    "name": "Liboron",
+    "citymun": "Don Victoriano Chiongbian Don Mariano Marcos"
+}, {
+    "code": 104217007,
+    "name": "Maramara",
+    "citymun": "Don Victoriano Chiongbian Don Mariano Marcos"
+}, {
+    "code": 104217008,
+    "name": "Napangan",
+    "citymun": "Don Victoriano Chiongbian Don Mariano Marcos"
+}, {
+    "code": 104217009,
+    "name": "Nueva Vista (Masawan)",
+    "citymun": "Don Victoriano Chiongbian Don Mariano Marcos"
+}, {
+    "code": 104217010,
+    "name": "Petianan",
+    "citymun": "Don Victoriano Chiongbian Don Mariano Marcos"
+}, {
+    "code": 104217011,
+    "name": "Tuno",
+    "citymun": "Don Victoriano Chiongbian Don Mariano Marcos"
+}, {
+    "code": 104301001,
+    "name": "Baybay",
+    "citymun": "Alubijid"
+}, {
+    "code": 104301002,
+    "name": "Benigwayan",
+    "citymun": "Alubijid"
+}, {
+    "code": 104301003,
+    "name": "Calatcat",
+    "citymun": "Alubijid"
+}, {
+    "code": 104301004,
+    "name": "Lagtang",
+    "citymun": "Alubijid"
+}, {
+    "code": 104301005,
+    "name": "Lanao",
+    "citymun": "Alubijid"
+}, {
+    "code": 104301006,
+    "name": "Loguilo",
+    "citymun": "Alubijid"
+}, {
+    "code": 104301007,
+    "name": "Lourdes",
+    "citymun": "Alubijid"
+}, {
+    "code": 104301008,
+    "name": "Lumbo",
+    "citymun": "Alubijid"
+}, {
+    "code": 104301009,
+    "name": "Molocboloc",
+    "citymun": "Alubijid"
+}, {
+    "code": 104301010,
+    "name": "Poblacion",
+    "citymun": "Alubijid"
+}, {
+    "code": 104301011,
+    "name": "Sampatulog",
+    "citymun": "Alubijid"
+}, {
+    "code": 104301012,
+    "name": "Sungay",
+    "citymun": "Alubijid"
+}, {
+    "code": 104301013,
+    "name": "Talaba",
+    "citymun": "Alubijid"
+}, {
+    "code": 104301014,
+    "name": "Taparak",
+    "citymun": "Alubijid"
+}, {
+    "code": 104301015,
+    "name": "Tugasnon",
+    "citymun": "Alubijid"
+}, {
+    "code": 104301016,
+    "name": "Tula",
+    "citymun": "Alubijid"
+}, {
+    "code": 104302001,
+    "name": "Balagnan",
+    "citymun": "Balingasag"
+}, {
+    "code": 104302003,
+    "name": "Baliwagan",
+    "citymun": "Balingasag"
+}, {
+    "code": 104302004,
+    "name": "San Francisco",
+    "citymun": "Balingasag"
+}, {
+    "code": 104302005,
+    "name": "Binitinan",
+    "citymun": "Balingasag"
+}, {
+    "code": 104302006,
+    "name": "Blanco",
+    "citymun": "Balingasag"
+}, {
+    "code": 104302008,
+    "name": "Calawag",
+    "citymun": "Balingasag"
+}, {
+    "code": 104302009,
+    "name": "Camuayan",
+    "citymun": "Balingasag"
+}, {
+    "code": 104302010,
+    "name": "Cogon",
+    "citymun": "Balingasag"
+}, {
+    "code": 104302011,
+    "name": "Dansuli",
+    "citymun": "Balingasag"
+}, {
+    "code": 104302012,
+    "name": "Dumarait",
+    "citymun": "Balingasag"
+}, {
+    "code": 104302013,
+    "name": "Hermano",
+    "citymun": "Balingasag"
+}, {
+    "code": 104302014,
+    "name": "Kibanban",
+    "citymun": "Balingasag"
+}, {
+    "code": 104302015,
+    "name": "Linabu",
+    "citymun": "Balingasag"
+}, {
+    "code": 104302016,
+    "name": "Linggangao",
+    "citymun": "Balingasag"
+}, {
+    "code": 104302017,
+    "name": "Mambayaan",
+    "citymun": "Balingasag"
+}, {
+    "code": 104302018,
+    "name": "Mandangoa",
+    "citymun": "Balingasag"
+}, {
+    "code": 104302019,
+    "name": "Napaliran",
+    "citymun": "Balingasag"
+}, {
+    "code": 104302020,
+    "name": "Barangay 1 (Pob.)",
+    "citymun": "Balingasag"
+}, {
+    "code": 104302021,
+    "name": "Barangay 2 (Pob.)",
+    "citymun": "Balingasag"
+}, {
+    "code": 104302022,
+    "name": "Barangay 3 (Pob.)",
+    "citymun": "Balingasag"
+}, {
+    "code": 104302023,
+    "name": "Barangay 4 (Pob.)",
+    "citymun": "Balingasag"
+}, {
+    "code": 104302024,
+    "name": "Barangay 5 (Pob.)",
+    "citymun": "Balingasag"
+}, {
+    "code": 104302025,
+    "name": "Barangay 6 (Pob.)",
+    "citymun": "Balingasag"
+}, {
+    "code": 104302026,
+    "name": "Quezon",
+    "citymun": "Balingasag"
+}, {
+    "code": 104302027,
+    "name": "Rosario",
+    "citymun": "Balingasag"
+}, {
+    "code": 104302028,
+    "name": "Samay",
+    "citymun": "Balingasag"
+}, {
+    "code": 104302029,
+    "name": "San Isidro",
+    "citymun": "Balingasag"
+}, {
+    "code": 104302030,
+    "name": "San Juan",
+    "citymun": "Balingasag"
+}, {
+    "code": 104302031,
+    "name": "Talusan",
+    "citymun": "Balingasag"
+}, {
+    "code": 104302032,
+    "name": "Waterfall",
+    "citymun": "Balingasag"
+}, {
+    "code": 104303002,
+    "name": "Dahilig",
+    "citymun": "Balingoan"
+}, {
+    "code": 104303003,
+    "name": "Baukbauk Pob. (G.E. Antonino)",
+    "citymun": "Balingoan"
+}, {
+    "code": 104303004,
+    "name": "Kabangasan",
+    "citymun": "Balingoan"
+}, {
+    "code": 104303005,
+    "name": "Kabulakan",
+    "citymun": "Balingoan"
+}, {
+    "code": 104303006,
+    "name": "Kauswagan",
+    "citymun": "Balingoan"
+}, {
+    "code": 104303007,
+    "name": "Lapinig (Pob.)",
+    "citymun": "Balingoan"
+}, {
+    "code": 104303008,
+    "name": "Mantangale",
+    "citymun": "Balingoan"
+}, {
+    "code": 104303009,
+    "name": "Mapua",
+    "citymun": "Balingoan"
+}, {
+    "code": 104303010,
+    "name": "San Alonzo",
+    "citymun": "Balingoan"
+}, {
+    "code": 104304001,
+    "name": "Dampias",
+    "citymun": "Binuangan"
+}, {
+    "code": 104304002,
+    "name": "Kitamban",
+    "citymun": "Binuangan"
+}, {
+    "code": 104304003,
+    "name": "Kitambis",
+    "citymun": "Binuangan"
+}, {
+    "code": 104304004,
+    "name": "Mabini",
+    "citymun": "Binuangan"
+}, {
+    "code": 104304005,
+    "name": "Mosangot",
+    "citymun": "Binuangan"
+}, {
+    "code": 104304006,
+    "name": "Nabataan",
+    "citymun": "Binuangan"
+}, {
+    "code": 104304007,
+    "name": "Poblacion",
+    "citymun": "Binuangan"
+}, {
+    "code": 104304008,
+    "name": "Valdeconcha",
+    "citymun": "Binuangan"
+}, {
+    "code": 104305001,
+    "name": "Agusan",
+    "citymun": "Cagayan De Oro City Capital"
+}, {
+    "code": 104305002,
+    "name": "Baikingon",
+    "citymun": "Cagayan De Oro City Capital"
+}, {
+    "code": 104305003,
+    "name": "Bulua",
+    "citymun": "Cagayan De Oro City Capital"
+}, {
+    "code": 104305004,
+    "name": "Balubal",
+    "citymun": "Cagayan De Oro City Capital"
+}, {
+    "code": 104305005,
+    "name": "Balulang",
+    "citymun": "Cagayan De Oro City Capital"
+}, {
+    "code": 104305006,
+    "name": "Barangay 10 (Pob.)",
+    "citymun": "Cagayan De Oro City Capital"
+}, {
+    "code": 104305007,
+    "name": "Barangay 11 (Pob.)",
+    "citymun": "Cagayan De Oro City Capital"
+}, {
+    "code": 104305008,
+    "name": "Barangay 12 (Pob.)",
+    "citymun": "Cagayan De Oro City Capital"
+}, {
+    "code": 104305009,
+    "name": "Barangay 13 (Pob.)",
+    "citymun": "Cagayan De Oro City Capital"
+}, {
+    "code": 104305010,
+    "name": "Barangay 14 (Pob.)",
+    "citymun": "Cagayan De Oro City Capital"
+}, {
+    "code": 104305011,
+    "name": "Barangay 15 (Pob.)",
+    "citymun": "Cagayan De Oro City Capital"
+}, {
+    "code": 104305012,
+    "name": "Barangay 16 (Pob.)",
+    "citymun": "Cagayan De Oro City Capital"
+}, {
+    "code": 104305013,
+    "name": "Barangay 17 (Pob.)",
+    "citymun": "Cagayan De Oro City Capital"
+}, {
+    "code": 104305014,
+    "name": "Barangay 18 (Pob.)",
+    "citymun": "Cagayan De Oro City Capital"
+}, {
+    "code": 104305015,
+    "name": "Barangay 19 (Pob.)",
+    "citymun": "Cagayan De Oro City Capital"
+}, {
+    "code": 104305016,
+    "name": "Barangay 2 (Pob.)",
+    "citymun": "Cagayan De Oro City Capital"
+}, {
+    "code": 104305017,
+    "name": "Barangay 21 (Pob.)",
+    "citymun": "Cagayan De Oro City Capital"
+}, {
+    "code": 104305018,
+    "name": "Barangay 22 (Pob.)",
+    "citymun": "Cagayan De Oro City Capital"
+}, {
+    "code": 104305019,
+    "name": "Barangay 23 (Pob.)",
+    "citymun": "Cagayan De Oro City Capital"
+}, {
+    "code": 104305020,
+    "name": "Barangay 24 (Pob.)",
+    "citymun": "Cagayan De Oro City Capital"
+}, {
+    "code": 104305021,
+    "name": "Barangay 26 (Pob.)",
+    "citymun": "Cagayan De Oro City Capital"
+}, {
+    "code": 104305022,
+    "name": "Barangay 27 (Pob.)",
+    "citymun": "Cagayan De Oro City Capital"
+}, {
+    "code": 104305023,
+    "name": "Barangay 28 (Pob.)",
+    "citymun": "Cagayan De Oro City Capital"
+}, {
+    "code": 104305024,
+    "name": "Barangay 3 (Pob.)",
+    "citymun": "Cagayan De Oro City Capital"
+}, {
+    "code": 104305025,
+    "name": "Barangay 30 (Pob.)",
+    "citymun": "Cagayan De Oro City Capital"
+}, {
+    "code": 104305026,
+    "name": "Barangay 32 (Pob.)",
+    "citymun": "Cagayan De Oro City Capital"
+}, {
+    "code": 104305027,
+    "name": "Barangay 33 (Pob.)",
+    "citymun": "Cagayan De Oro City Capital"
+}, {
+    "code": 104305028,
+    "name": "Barangay 34 (Pob.)",
+    "citymun": "Cagayan De Oro City Capital"
+}, {
+    "code": 104305029,
+    "name": "Barangay 38 (Pob.)",
+    "citymun": "Cagayan De Oro City Capital"
+}, {
+    "code": 104305030,
+    "name": "Barangay 39 (Pob.)",
+    "citymun": "Cagayan De Oro City Capital"
+}, {
+    "code": 104305031,
+    "name": "Barangay 4 (Pob.)",
+    "citymun": "Cagayan De Oro City Capital"
+}, {
+    "code": 104305032,
+    "name": "Barangay 40 (Pob.)",
+    "citymun": "Cagayan De Oro City Capital"
+}, {
+    "code": 104305033,
+    "name": "Barangay 6 (Pob.)",
+    "citymun": "Cagayan De Oro City Capital"
+}, {
+    "code": 104305034,
+    "name": "Barangay 8 (Pob.)",
+    "citymun": "Cagayan De Oro City Capital"
+}, {
+    "code": 104305035,
+    "name": "Barangay 9 (Pob.)",
+    "citymun": "Cagayan De Oro City Capital"
+}, {
+    "code": 104305036,
+    "name": "Barangay 5 (Pob.)",
+    "citymun": "Cagayan De Oro City Capital"
+}, {
+    "code": 104305037,
+    "name": "Bayabas",
+    "citymun": "Cagayan De Oro City Capital"
+}, {
+    "code": 104305038,
+    "name": "Bayanga",
+    "citymun": "Cagayan De Oro City Capital"
+}, {
+    "code": 104305039,
+    "name": "Besigan",
+    "citymun": "Cagayan De Oro City Capital"
+}, {
+    "code": 104305040,
+    "name": "Bonbon",
+    "citymun": "Cagayan De Oro City Capital"
+}, {
+    "code": 104305041,
+    "name": "Bugo",
+    "citymun": "Cagayan De Oro City Capital"
+}, {
+    "code": 104305042,
+    "name": "Camaman-an",
+    "citymun": "Cagayan De Oro City Capital"
+}, {
+    "code": 104305043,
+    "name": "Canito-an",
+    "citymun": "Cagayan De Oro City Capital"
+}, {
+    "code": 104305044,
+    "name": "Carmen",
+    "citymun": "Cagayan De Oro City Capital"
+}, {
+    "code": 104305045,
+    "name": "Consolacion",
+    "citymun": "Cagayan De Oro City Capital"
+}, {
+    "code": 104305046,
+    "name": "Cugman",
+    "citymun": "Cagayan De Oro City Capital"
+}, {
+    "code": 104305047,
+    "name": "Dansolihon",
+    "citymun": "Cagayan De Oro City Capital"
+}, {
+    "code": 104305048,
+    "name": "F. S. Catanico",
+    "citymun": "Cagayan De Oro City Capital"
+}, {
+    "code": 104305049,
+    "name": "Gusa",
+    "citymun": "Cagayan De Oro City Capital"
+}, {
+    "code": 104305050,
+    "name": "Indahag",
+    "citymun": "Cagayan De Oro City Capital"
+}, {
+    "code": 104305051,
+    "name": "Iponan",
+    "citymun": "Cagayan De Oro City Capital"
+}, {
+    "code": 104305052,
+    "name": "Kauswagan",
+    "citymun": "Cagayan De Oro City Capital"
+}, {
+    "code": 104305053,
+    "name": "Lapasan",
+    "citymun": "Cagayan De Oro City Capital"
+}, {
+    "code": 104305054,
+    "name": "Lumbia",
+    "citymun": "Cagayan De Oro City Capital"
+}, {
+    "code": 104305055,
+    "name": "Macabalan",
+    "citymun": "Cagayan De Oro City Capital"
+}, {
+    "code": 104305056,
+    "name": "Macasandig",
+    "citymun": "Cagayan De Oro City Capital"
+}, {
+    "code": 104305057,
+    "name": "Mambuaya",
+    "citymun": "Cagayan De Oro City Capital"
+}, {
+    "code": 104305058,
+    "name": "Nazareth",
+    "citymun": "Cagayan De Oro City Capital"
+}, {
+    "code": 104305059,
+    "name": "Pagalungan",
+    "citymun": "Cagayan De Oro City Capital"
+}, {
+    "code": 104305060,
+    "name": "Pagatpat",
+    "citymun": "Cagayan De Oro City Capital"
+}, {
+    "code": 104305061,
+    "name": "Patag",
+    "citymun": "Cagayan De Oro City Capital"
+}, {
+    "code": 104305062,
+    "name": "Pigsag-an",
+    "citymun": "Cagayan De Oro City Capital"
+}, {
+    "code": 104305063,
+    "name": "Puerto",
+    "citymun": "Cagayan De Oro City Capital"
+}, {
+    "code": 104305064,
+    "name": "Puntod",
+    "citymun": "Cagayan De Oro City Capital"
+}, {
+    "code": 104305065,
+    "name": "San Simon",
+    "citymun": "Cagayan De Oro City Capital"
+}, {
+    "code": 104305067,
+    "name": "Tablon",
+    "citymun": "Cagayan De Oro City Capital"
+}, {
+    "code": 104305068,
+    "name": "Taglimao",
+    "citymun": "Cagayan De Oro City Capital"
+}, {
+    "code": 104305069,
+    "name": "Tagpangi",
+    "citymun": "Cagayan De Oro City Capital"
+}, {
+    "code": 104305070,
+    "name": "Tignapoloan",
+    "citymun": "Cagayan De Oro City Capital"
+}, {
+    "code": 104305071,
+    "name": "Tuburan",
+    "citymun": "Cagayan De Oro City Capital"
+}, {
+    "code": 104305072,
+    "name": "Tumpagon",
+    "citymun": "Cagayan De Oro City Capital"
+}, {
+    "code": 104305073,
+    "name": "Barangay 1 (Pob.)",
+    "citymun": "Cagayan De Oro City Capital"
+}, {
+    "code": 104305074,
+    "name": "Barangay 7 (Pob.)",
+    "citymun": "Cagayan De Oro City Capital"
+}, {
+    "code": 104305075,
+    "name": "Barangay 20 (Pob.)",
+    "citymun": "Cagayan De Oro City Capital"
+}, {
+    "code": 104305076,
+    "name": "Barangay 25 (Pob.)",
+    "citymun": "Cagayan De Oro City Capital"
+}, {
+    "code": 104305077,
+    "name": "Barangay 29 (Pob.)",
+    "citymun": "Cagayan De Oro City Capital"
+}, {
+    "code": 104305078,
+    "name": "Barangay 31 (Pob.)",
+    "citymun": "Cagayan De Oro City Capital"
+}, {
+    "code": 104305079,
+    "name": "Barangay 35 (Pob.)",
+    "citymun": "Cagayan De Oro City Capital"
+}, {
+    "code": 104305080,
+    "name": "Barangay 36 (Pob.)",
+    "citymun": "Cagayan De Oro City Capital"
+}, {
+    "code": 104305081,
+    "name": "Barangay 37 (Pob.)",
+    "citymun": "Cagayan De Oro City Capital"
+}, {
+    "code": 104306001,
+    "name": "Ani-e",
+    "citymun": "Claveria"
+}, {
+    "code": 104306002,
+    "name": "Aposkahoy",
+    "citymun": "Claveria"
+}, {
+    "code": 104306003,
+    "name": "Bulahan",
+    "citymun": "Claveria"
+}, {
+    "code": 104306004,
+    "name": "Cabacungan",
+    "citymun": "Claveria"
+}, {
+    "code": 104306006,
+    "name": "Pelaez (Don Gregorio Pelaez)",
+    "citymun": "Claveria"
+}, {
+    "code": 104306007,
+    "name": "Gumaod",
+    "citymun": "Claveria"
+}, {
+    "code": 104306008,
+    "name": "Hinaplanan",
+    "citymun": "Claveria"
+}, {
+    "code": 104306009,
+    "name": "Kalawitan",
+    "citymun": "Claveria"
+}, {
+    "code": 104306010,
+    "name": "Lanise",
+    "citymun": "Claveria"
+}, {
+    "code": 104306011,
+    "name": "Luna",
+    "citymun": "Claveria"
+}, {
+    "code": 104306012,
+    "name": "Madaguing",
+    "citymun": "Claveria"
+}, {
+    "code": 104306013,
+    "name": "Malagana",
+    "citymun": "Claveria"
+}, {
+    "code": 104306014,
+    "name": "Minalwang",
+    "citymun": "Claveria"
+}, {
+    "code": 104306015,
+    "name": "Mat-i",
+    "citymun": "Claveria"
+}, {
+    "code": 104306016,
+    "name": "Panampawan",
+    "citymun": "Claveria"
+}, {
+    "code": 104306017,
+    "name": "Pambugas",
+    "citymun": "Claveria"
+}, {
+    "code": 104306018,
+    "name": "Patrocenio",
+    "citymun": "Claveria"
+}, {
+    "code": 104306019,
+    "name": "Plaridel",
+    "citymun": "Claveria"
+}, {
+    "code": 104306020,
+    "name": "Poblacion",
+    "citymun": "Claveria"
+}, {
+    "code": 104306021,
+    "name": "Punong",
+    "citymun": "Claveria"
+}, {
+    "code": 104306022,
+    "name": "Rizal",
+    "citymun": "Claveria"
+}, {
+    "code": 104306023,
+    "name": "Santa Cruz",
+    "citymun": "Claveria"
+}, {
+    "code": 104306024,
+    "name": "Tamboboan",
+    "citymun": "Claveria"
+}, {
+    "code": 104306025,
+    "name": "Tipolohon",
+    "citymun": "Claveria"
+}, {
+    "code": 104307001,
+    "name": "Amoros",
+    "citymun": "City Of El Salvador"
+}, {
+    "code": 104307002,
+    "name": "Bolisong",
+    "citymun": "City Of El Salvador"
+}, {
+    "code": 104307003,
+    "name": "Bolobolo",
+    "citymun": "City Of El Salvador"
+}, {
+    "code": 104307004,
+    "name": "Calongonan",
+    "citymun": "City Of El Salvador"
+}, {
+    "code": 104307006,
+    "name": "Cogon",
+    "citymun": "City Of El Salvador"
+}, {
+    "code": 104307007,
+    "name": "Himaya",
+    "citymun": "City Of El Salvador"
+}, {
+    "code": 104307008,
+    "name": "Hinigdaan",
+    "citymun": "City Of El Salvador"
+}, {
+    "code": 104307010,
+    "name": "Kalabaylabay",
+    "citymun": "City Of El Salvador"
+}, {
+    "code": 104307011,
+    "name": "Molugan",
+    "citymun": "City Of El Salvador"
+}, {
+    "code": 104307012,
+    "name": "Poblacion",
+    "citymun": "City Of El Salvador"
+}, {
+    "code": 104307013,
+    "name": "Kibonbon",
+    "citymun": "City Of El Salvador"
+}, {
+    "code": 104307014,
+    "name": "Sambulawan",
+    "citymun": "City Of El Salvador"
+}, {
+    "code": 104307015,
+    "name": "Sinaloc",
+    "citymun": "City Of El Salvador"
+}, {
+    "code": 104307016,
+    "name": "Taytay",
+    "citymun": "City Of El Salvador"
+}, {
+    "code": 104307018,
+    "name": "Ulaliman",
+    "citymun": "City Of El Salvador"
+}, {
+    "code": 104308001,
+    "name": "Agay-ayan",
+    "citymun": "Gingoog City"
+}, {
+    "code": 104308002,
+    "name": "Alagatan",
+    "citymun": "Gingoog City"
+}, {
+    "code": 104308003,
+    "name": "Anakan",
+    "citymun": "Gingoog City"
+}, {
+    "code": 104308004,
+    "name": "Bagubad",
+    "citymun": "Gingoog City"
+}, {
+    "code": 104308005,
+    "name": "Bakidbakid",
+    "citymun": "Gingoog City"
+}, {
+    "code": 104308006,
+    "name": "Bal-ason",
+    "citymun": "Gingoog City"
+}, {
+    "code": 104308007,
+    "name": "Bantaawan",
+    "citymun": "Gingoog City"
+}, {
+    "code": 104308008,
+    "name": "Binakalan",
+    "citymun": "Gingoog City"
+}, {
+    "code": 104308010,
+    "name": "Capitulangan",
+    "citymun": "Gingoog City"
+}, {
+    "code": 104308011,
+    "name": "Daan-Lungsod",
+    "citymun": "Gingoog City"
+}, {
+    "code": 104308012,
+    "name": "Hindangon",
+    "citymun": "Gingoog City"
+}, {
+    "code": 104308013,
+    "name": "Kalagonoy",
+    "citymun": "Gingoog City"
+}, {
+    "code": 104308014,
+    "name": "Kibuging",
+    "citymun": "Gingoog City"
+}, {
+    "code": 104308015,
+    "name": "Kipuntos",
+    "citymun": "Gingoog City"
+}, {
+    "code": 104308016,
+    "name": "Lawaan",
+    "citymun": "Gingoog City"
+}, {
+    "code": 104308017,
+    "name": "Lawit",
+    "citymun": "Gingoog City"
+}, {
+    "code": 104308018,
+    "name": "Libertad",
+    "citymun": "Gingoog City"
+}, {
+    "code": 104308019,
+    "name": "Libon",
+    "citymun": "Gingoog City"
+}, {
+    "code": 104308020,
+    "name": "Lunao",
+    "citymun": "Gingoog City"
+}, {
+    "code": 104308021,
+    "name": "Lunotan",
+    "citymun": "Gingoog City"
+}, {
+    "code": 104308022,
+    "name": "Malibud",
+    "citymun": "Gingoog City"
+}, {
+    "code": 104308023,
+    "name": "Malinao",
+    "citymun": "Gingoog City"
+}, {
+    "code": 104308024,
+    "name": "Maribucao",
+    "citymun": "Gingoog City"
+}, {
+    "code": 104308025,
+    "name": "Mimbuntong",
+    "citymun": "Gingoog City"
+}, {
+    "code": 104308026,
+    "name": "Mimbalagon",
+    "citymun": "Gingoog City"
+}, {
+    "code": 104308027,
+    "name": "Mimbunga",
+    "citymun": "Gingoog City"
+}, {
+    "code": 104308028,
+    "name": "Minsapinit",
+    "citymun": "Gingoog City"
+}, {
+    "code": 104308029,
+    "name": "Murallon",
+    "citymun": "Gingoog City"
+}, {
+    "code": 104308030,
+    "name": "Odiongan",
+    "citymun": "Gingoog City"
+}, {
+    "code": 104308031,
+    "name": "Pangasihan",
+    "citymun": "Gingoog City"
+}, {
+    "code": 104308032,
+    "name": "Pigsaluhan",
+    "citymun": "Gingoog City"
+}, {
+    "code": 104308033,
+    "name": "Barangay 1 (Pob.)",
+    "citymun": "Gingoog City"
+}, {
+    "code": 104308034,
+    "name": "Barangay 10 (Pob.)",
+    "citymun": "Gingoog City"
+}, {
+    "code": 104308035,
+    "name": "Barangay 11 (Pob.)",
+    "citymun": "Gingoog City"
+}, {
+    "code": 104308036,
+    "name": "Barangay 12 (Pob.)",
+    "citymun": "Gingoog City"
+}, {
+    "code": 104308037,
+    "name": "Barangay 13 (Pob.)",
+    "citymun": "Gingoog City"
+}, {
+    "code": 104308038,
+    "name": "Barangay 14 (Pob.)",
+    "citymun": "Gingoog City"
+}, {
+    "code": 104308039,
+    "name": "Barangay 15 (Pob.)",
+    "citymun": "Gingoog City"
+}, {
+    "code": 104308040,
+    "name": "Barangay 16 (Pob.)",
+    "citymun": "Gingoog City"
+}, {
+    "code": 104308041,
+    "name": "Barangay 17 (Pob.)",
+    "citymun": "Gingoog City"
+}, {
+    "code": 104308042,
+    "name": "Barangay 18-A (Pob.)",
+    "citymun": "Gingoog City"
+}, {
+    "code": 104308043,
+    "name": "Barangay 19 (Pob.)",
+    "citymun": "Gingoog City"
+}, {
+    "code": 104308044,
+    "name": "Barangay 2 (Pob.)",
+    "citymun": "Gingoog City"
+}, {
+    "code": 104308045,
+    "name": "Barangay 20 (Pob.)",
+    "citymun": "Gingoog City"
+}, {
+    "code": 104308046,
+    "name": "Barangay 21 (Pob.)",
+    "citymun": "Gingoog City"
+}, {
+    "code": 104308047,
+    "name": "Barangay 22-A (Pob.)",
+    "citymun": "Gingoog City"
+}, {
+    "code": 104308048,
+    "name": "Barangay 23 (Pob.)",
+    "citymun": "Gingoog City"
+}, {
+    "code": 104308049,
+    "name": "Barangay 24 (Pob.)",
+    "citymun": "Gingoog City"
+}, {
+    "code": 104308050,
+    "name": "Barangay 25 (Pob.)",
+    "citymun": "Gingoog City"
+}, {
+    "code": 104308051,
+    "name": "Barangay 26 (Pob.)",
+    "citymun": "Gingoog City"
+}, {
+    "code": 104308055,
+    "name": "Barangay 3 (Pob.)",
+    "citymun": "Gingoog City"
+}, {
+    "code": 104308056,
+    "name": "Barangay 4 (Pob.)",
+    "citymun": "Gingoog City"
+}, {
+    "code": 104308057,
+    "name": "Barangay 5 (Pob.)",
+    "citymun": "Gingoog City"
+}, {
+    "code": 104308058,
+    "name": "Barangay 6 (Pob.)",
+    "citymun": "Gingoog City"
+}, {
+    "code": 104308059,
+    "name": "Barangay 7 (Pob.)",
+    "citymun": "Gingoog City"
+}, {
+    "code": 104308060,
+    "name": "Barangay 8 (Pob.)",
+    "citymun": "Gingoog City"
+}, {
+    "code": 104308061,
+    "name": "Barangay 9 (Pob.)",
+    "citymun": "Gingoog City"
+}, {
+    "code": 104308062,
+    "name": "Punong",
+    "citymun": "Gingoog City"
+}, {
+    "code": 104308063,
+    "name": "Ricoro",
+    "citymun": "Gingoog City"
+}, {
+    "code": 104308064,
+    "name": "Samay",
+    "citymun": "Gingoog City"
+}, {
+    "code": 104308065,
+    "name": "San Juan",
+    "citymun": "Gingoog City"
+}, {
+    "code": 104308066,
+    "name": "San Luis",
+    "citymun": "Gingoog City"
+}, {
+    "code": 104308067,
+    "name": "San Miguel",
+    "citymun": "Gingoog City"
+}, {
+    "code": 104308068,
+    "name": "Santiago",
+    "citymun": "Gingoog City"
+}, {
+    "code": 104308069,
+    "name": "Talisay",
+    "citymun": "Gingoog City"
+}, {
+    "code": 104308070,
+    "name": "Talon",
+    "citymun": "Gingoog City"
+}, {
+    "code": 104308071,
+    "name": "Tinabalan",
+    "citymun": "Gingoog City"
+}, {
+    "code": 104308072,
+    "name": "Tinulongan",
+    "citymun": "Gingoog City"
+}, {
+    "code": 104308073,
+    "name": "Barangay 18 (Pob.)",
+    "citymun": "Gingoog City"
+}, {
+    "code": 104308074,
+    "name": "Barangay 22 (Pob.)",
+    "citymun": "Gingoog City"
+}, {
+    "code": 104308075,
+    "name": "Barangay 24-A (Pob.)",
+    "citymun": "Gingoog City"
+}, {
+    "code": 104308076,
+    "name": "Dinawehan",
+    "citymun": "Gingoog City"
+}, {
+    "code": 104308077,
+    "name": "Eureka",
+    "citymun": "Gingoog City"
+}, {
+    "code": 104308078,
+    "name": "Kalipay",
+    "citymun": "Gingoog City"
+}, {
+    "code": 104308079,
+    "name": "Kamanikan",
+    "citymun": "Gingoog City"
+}, {
+    "code": 104308080,
+    "name": "Kianlagan",
+    "citymun": "Gingoog City"
+}, {
+    "code": 104308081,
+    "name": "San Jose",
+    "citymun": "Gingoog City"
+}, {
+    "code": 104308082,
+    "name": "Sangalan",
+    "citymun": "Gingoog City"
+}, {
+    "code": 104308083,
+    "name": "Tagpako",
+    "citymun": "Gingoog City"
+}, {
+    "code": 104309001,
+    "name": "Burnay",
+    "citymun": "Gitagum"
+}, {
+    "code": 104309002,
+    "name": "Carlos P. Garcia",
+    "citymun": "Gitagum"
+}, {
+    "code": 104309004,
+    "name": "Cogon",
+    "citymun": "Gitagum"
+}, {
+    "code": 104309005,
+    "name": "Gregorio Pelaez (Lagutay)",
+    "citymun": "Gitagum"
+}, {
+    "code": 104309006,
+    "name": "Kilangit",
+    "citymun": "Gitagum"
+}, {
+    "code": 104309007,
+    "name": "Matangad",
+    "citymun": "Gitagum"
+}, {
+    "code": 104309008,
+    "name": "Pangayawan",
+    "citymun": "Gitagum"
+}, {
+    "code": 104309009,
+    "name": "Poblacion",
+    "citymun": "Gitagum"
+}, {
+    "code": 104309010,
+    "name": "Quezon",
+    "citymun": "Gitagum"
+}, {
+    "code": 104309011,
+    "name": "Tala-o",
+    "citymun": "Gitagum"
+}, {
+    "code": 104309012,
+    "name": "Ulab",
+    "citymun": "Gitagum"
+}, {
+    "code": 104310001,
+    "name": "Aluna",
+    "citymun": "Initao"
+}, {
+    "code": 104310002,
+    "name": "Andales",
+    "citymun": "Initao"
+}, {
+    "code": 104310003,
+    "name": "Apas",
+    "citymun": "Initao"
+}, {
+    "code": 104310004,
+    "name": "Calacapan",
+    "citymun": "Initao"
+}, {
+    "code": 104310005,
+    "name": "Gimangpang",
+    "citymun": "Initao"
+}, {
+    "code": 104310006,
+    "name": "Jampason",
+    "citymun": "Initao"
+}, {
+    "code": 104310007,
+    "name": "Kamelon",
+    "citymun": "Initao"
+}, {
+    "code": 104310008,
+    "name": "Kanitoan",
+    "citymun": "Initao"
+}, {
+    "code": 104310009,
+    "name": "Oguis",
+    "citymun": "Initao"
+}, {
+    "code": 104310010,
+    "name": "Pagahan",
+    "citymun": "Initao"
+}, {
+    "code": 104310011,
+    "name": "Poblacion",
+    "citymun": "Initao"
+}, {
+    "code": 104310012,
+    "name": "Pontacon",
+    "citymun": "Initao"
+}, {
+    "code": 104310013,
+    "name": "San Pedro",
+    "citymun": "Initao"
+}, {
+    "code": 104310014,
+    "name": "Sinalac",
+    "citymun": "Initao"
+}, {
+    "code": 104310015,
+    "name": "Tawantawan",
+    "citymun": "Initao"
+}, {
+    "code": 104310016,
+    "name": "Tubigan",
+    "citymun": "Initao"
+}, {
+    "code": 104311001,
+    "name": "Aplaya",
+    "citymun": "Jasaan"
+}, {
+    "code": 104311002,
+    "name": "Bobontugan",
+    "citymun": "Jasaan"
+}, {
+    "code": 104311003,
+    "name": "Corrales",
+    "citymun": "Jasaan"
+}, {
+    "code": 104311004,
+    "name": "Danao",
+    "citymun": "Jasaan"
+}, {
+    "code": 104311005,
+    "name": "Jampason",
+    "citymun": "Jasaan"
+}, {
+    "code": 104311006,
+    "name": "Kimaya",
+    "citymun": "Jasaan"
+}, {
+    "code": 104311007,
+    "name": "Lower Jasaan (Pob.)",
+    "citymun": "Jasaan"
+}, {
+    "code": 104311008,
+    "name": "Luz Banzon",
+    "citymun": "Jasaan"
+}, {
+    "code": 104311009,
+    "name": "Natubo",
+    "citymun": "Jasaan"
+}, {
+    "code": 104311010,
+    "name": "San Antonio",
+    "citymun": "Jasaan"
+}, {
+    "code": 104311011,
+    "name": "San Isidro",
+    "citymun": "Jasaan"
+}, {
+    "code": 104311012,
+    "name": "San Nicolas",
+    "citymun": "Jasaan"
+}, {
+    "code": 104311013,
+    "name": "Solana",
+    "citymun": "Jasaan"
+}, {
+    "code": 104311014,
+    "name": "Upper Jasaan (Pob.)",
+    "citymun": "Jasaan"
+}, {
+    "code": 104311015,
+    "name": "I. S. Cruz",
+    "citymun": "Jasaan"
+}, {
+    "code": 104312001,
+    "name": "Beray",
+    "citymun": "Kinoguitan"
+}, {
+    "code": 104312002,
+    "name": "Bolisong",
+    "citymun": "Kinoguitan"
+}, {
+    "code": 104312003,
+    "name": "Buko",
+    "citymun": "Kinoguitan"
+}, {
+    "code": 104312004,
+    "name": "Kalitian",
+    "citymun": "Kinoguitan"
+}, {
+    "code": 104312005,
+    "name": "Calubo",
+    "citymun": "Kinoguitan"
+}, {
+    "code": 104312006,
+    "name": "Campo",
+    "citymun": "Kinoguitan"
+}, {
+    "code": 104312007,
+    "name": "Esperanza",
+    "citymun": "Kinoguitan"
+}, {
+    "code": 104312008,
+    "name": "Kagumahan",
+    "citymun": "Kinoguitan"
+}, {
+    "code": 104312009,
+    "name": "Kitotok",
+    "citymun": "Kinoguitan"
+}, {
+    "code": 104312010,
+    "name": "Panabol",
+    "citymun": "Kinoguitan"
+}, {
+    "code": 104312011,
+    "name": "Poblacion",
+    "citymun": "Kinoguitan"
+}, {
+    "code": 104312012,
+    "name": "Salicapawan",
+    "citymun": "Kinoguitan"
+}, {
+    "code": 104312013,
+    "name": "Salubsob",
+    "citymun": "Kinoguitan"
+}, {
+    "code": 104312014,
+    "name": "Suarez",
+    "citymun": "Kinoguitan"
+}, {
+    "code": 104312015,
+    "name": "Sumalag",
+    "citymun": "Kinoguitan"
+}, {
+    "code": 104313001,
+    "name": "Banglay",
+    "citymun": "Lagonglong"
+}, {
+    "code": 104313002,
+    "name": "Dampil",
+    "citymun": "Lagonglong"
+}, {
+    "code": 104313003,
+    "name": "Gaston",
+    "citymun": "Lagonglong"
+}, {
+    "code": 104313004,
+    "name": "Kabulawan",
+    "citymun": "Lagonglong"
+}, {
+    "code": 104313005,
+    "name": "Kauswagan",
+    "citymun": "Lagonglong"
+}, {
+    "code": 104313006,
+    "name": "Lumbo",
+    "citymun": "Lagonglong"
+}, {
+    "code": 104313007,
+    "name": "Manaol",
+    "citymun": "Lagonglong"
+}, {
+    "code": 104313008,
+    "name": "Poblacion",
+    "citymun": "Lagonglong"
+}, {
+    "code": 104313009,
+    "name": "Tabok",
+    "citymun": "Lagonglong"
+}, {
+    "code": 104313010,
+    "name": "Umagos",
+    "citymun": "Lagonglong"
+}, {
+    "code": 104314001,
+    "name": "Aromahon",
+    "citymun": "Laguindingan"
+}, {
+    "code": 104314002,
+    "name": "Gasi",
+    "citymun": "Laguindingan"
+}, {
+    "code": 104314003,
+    "name": "Kibaghot",
+    "citymun": "Laguindingan"
+}, {
+    "code": 104314004,
+    "name": "Lapad",
+    "citymun": "Laguindingan"
+}, {
+    "code": 104314005,
+    "name": "Liberty",
+    "citymun": "Laguindingan"
+}, {
+    "code": 104314006,
+    "name": "Mauswagon",
+    "citymun": "Laguindingan"
+}, {
+    "code": 104314007,
+    "name": "Moog",
+    "citymun": "Laguindingan"
+}, {
+    "code": 104314008,
+    "name": "Poblacion",
+    "citymun": "Laguindingan"
+}, {
+    "code": 104314009,
+    "name": "Sambulawan",
+    "citymun": "Laguindingan"
+}, {
+    "code": 104314010,
+    "name": "Sinai",
+    "citymun": "Laguindingan"
+}, {
+    "code": 104314011,
+    "name": "Tubajon",
+    "citymun": "Laguindingan"
+}, {
+    "code": 104315001,
+    "name": "Dulong",
+    "citymun": "Libertad"
+}, {
+    "code": 104315002,
+    "name": "Gimaylan",
+    "citymun": "Libertad"
+}, {
+    "code": 104315003,
+    "name": "Kimalok",
+    "citymun": "Libertad"
+}, {
+    "code": 104315004,
+    "name": "Lubluban",
+    "citymun": "Libertad"
+}, {
+    "code": 104315005,
+    "name": "Poblacion",
+    "citymun": "Libertad"
+}, {
+    "code": 104315006,
+    "name": "Retablo",
+    "citymun": "Libertad"
+}, {
+    "code": 104315007,
+    "name": "Santo Niño",
+    "citymun": "Libertad"
+}, {
+    "code": 104315008,
+    "name": "Tangcub",
+    "citymun": "Libertad"
+}, {
+    "code": 104315009,
+    "name": "Taytayan",
+    "citymun": "Libertad"
+}, {
+    "code": 104316001,
+    "name": "Aya-aya",
+    "citymun": "Lugait"
+}, {
+    "code": 104316002,
+    "name": "Betahon",
+    "citymun": "Lugait"
+}, {
+    "code": 104316003,
+    "name": "Biga",
+    "citymun": "Lugait"
+}, {
+    "code": 104316004,
+    "name": "Calangahan",
+    "citymun": "Lugait"
+}, {
+    "code": 104316005,
+    "name": "Kaluknayan",
+    "citymun": "Lugait"
+}, {
+    "code": 104316006,
+    "name": "Lower Talacogon",
+    "citymun": "Lugait"
+}, {
+    "code": 104316007,
+    "name": "Poblacion",
+    "citymun": "Lugait"
+}, {
+    "code": 104316008,
+    "name": "Upper Talacogon",
+    "citymun": "Lugait"
+}, {
+    "code": 104317001,
+    "name": "Abunda",
+    "citymun": "Magsaysay Linugos"
+}, {
+    "code": 104317002,
+    "name": "Artadi",
+    "citymun": "Magsaysay Linugos"
+}, {
+    "code": 104317003,
+    "name": "Bonifacio Aquino",
+    "citymun": "Magsaysay Linugos"
+}, {
+    "code": 104317004,
+    "name": "Cabalawan",
+    "citymun": "Magsaysay Linugos"
+}, {
+    "code": 104317005,
+    "name": "Cabantian",
+    "citymun": "Magsaysay Linugos"
+}, {
+    "code": 104317006,
+    "name": "Cabubuhan",
+    "citymun": "Magsaysay Linugos"
+}, {
+    "code": 104317007,
+    "name": "Candiis",
+    "citymun": "Magsaysay Linugos"
+}, {
+    "code": 104317008,
+    "name": "Consuelo",
+    "citymun": "Magsaysay Linugos"
+}, {
+    "code": 104317009,
+    "name": "Damayuhan",
+    "citymun": "Magsaysay Linugos"
+}, {
+    "code": 104317010,
+    "name": "Gumabon",
+    "citymun": "Magsaysay Linugos"
+}, {
+    "code": 104317011,
+    "name": "Kauswagan",
+    "citymun": "Magsaysay Linugos"
+}, {
+    "code": 104317012,
+    "name": "Kibungsod",
+    "citymun": "Magsaysay Linugos"
+}, {
+    "code": 104317013,
+    "name": "Mahayahay",
+    "citymun": "Magsaysay Linugos"
+}, {
+    "code": 104317014,
+    "name": "Mindulao",
+    "citymun": "Magsaysay Linugos"
+}, {
+    "code": 104317015,
+    "name": "Pag-asa",
+    "citymun": "Magsaysay Linugos"
+}, {
+    "code": 104317016,
+    "name": "Poblacion",
+    "citymun": "Magsaysay Linugos"
+}, {
+    "code": 104317017,
+    "name": "San Isidro",
+    "citymun": "Magsaysay Linugos"
+}, {
+    "code": 104317018,
+    "name": "San Vicente",
+    "citymun": "Magsaysay Linugos"
+}, {
+    "code": 104317019,
+    "name": "Santa Cruz",
+    "citymun": "Magsaysay Linugos"
+}, {
+    "code": 104317020,
+    "name": "Tibon-tibon",
+    "citymun": "Magsaysay Linugos"
+}, {
+    "code": 104317021,
+    "name": "Tulang (Cadena de Amor)",
+    "citymun": "Magsaysay Linugos"
+}, {
+    "code": 104317022,
+    "name": "Villa Felipa",
+    "citymun": "Magsaysay Linugos"
+}, {
+    "code": 104317023,
+    "name": "Katipunan",
+    "citymun": "Magsaysay Linugos"
+}, {
+    "code": 104317024,
+    "name": "Tama",
+    "citymun": "Magsaysay Linugos"
+}, {
+    "code": 104317025,
+    "name": "Tinaan",
+    "citymun": "Magsaysay Linugos"
+}, {
+    "code": 104318001,
+    "name": "Argayoso",
+    "citymun": "Manticao"
+}, {
+    "code": 104318002,
+    "name": "Balintad",
+    "citymun": "Manticao"
+}, {
+    "code": 104318003,
+    "name": "Cabalantian",
+    "citymun": "Manticao"
+}, {
+    "code": 104318004,
+    "name": "Camanga",
+    "citymun": "Manticao"
+}, {
+    "code": 104318005,
+    "name": "Digkilaan",
+    "citymun": "Manticao"
+}, {
+    "code": 104318006,
+    "name": "Mahayahay",
+    "citymun": "Manticao"
+}, {
+    "code": 104318007,
+    "name": "Pagawan",
+    "citymun": "Manticao"
+}, {
+    "code": 104318008,
+    "name": "Paniangan",
+    "citymun": "Manticao"
+}, {
+    "code": 104318009,
+    "name": "Patag",
+    "citymun": "Manticao"
+}, {
+    "code": 104318010,
+    "name": "Poblacion",
+    "citymun": "Manticao"
+}, {
+    "code": 104318011,
+    "name": "Punta Silum",
+    "citymun": "Manticao"
+}, {
+    "code": 104318012,
+    "name": "Tuod",
+    "citymun": "Manticao"
+}, {
+    "code": 104318013,
+    "name": "Upper Malubog",
+    "citymun": "Manticao"
+}, {
+    "code": 104319001,
+    "name": "Bangbang",
+    "citymun": "Medina"
+}, {
+    "code": 104319002,
+    "name": "Bulwa",
+    "citymun": "Medina"
+}, {
+    "code": 104319003,
+    "name": "Cabug",
+    "citymun": "Medina"
+}, {
+    "code": 104319004,
+    "name": "Dig-aguyan",
+    "citymun": "Medina"
+}, {
+    "code": 104319005,
+    "name": "Duka",
+    "citymun": "Medina"
+}, {
+    "code": 104319006,
+    "name": "Gasa",
+    "citymun": "Medina"
+}, {
+    "code": 104319007,
+    "name": "Maanas",
+    "citymun": "Medina"
+}, {
+    "code": 104319008,
+    "name": "Mananum Bag-o",
+    "citymun": "Medina"
+}, {
+    "code": 104319009,
+    "name": "Mananum Daan",
+    "citymun": "Medina"
+}, {
+    "code": 104319011,
+    "name": "North Poblacion",
+    "citymun": "Medina"
+}, {
+    "code": 104319012,
+    "name": "Pahindong",
+    "citymun": "Medina"
+}, {
+    "code": 104319013,
+    "name": "Portulin",
+    "citymun": "Medina"
+}, {
+    "code": 104319014,
+    "name": "San Isidro",
+    "citymun": "Medina"
+}, {
+    "code": 104319015,
+    "name": "San Jose",
+    "citymun": "Medina"
+}, {
+    "code": 104319016,
+    "name": "San Roque",
+    "citymun": "Medina"
+}, {
+    "code": 104319017,
+    "name": "San Vicente",
+    "citymun": "Medina"
+}, {
+    "code": 104319018,
+    "name": "South Poblacion",
+    "citymun": "Medina"
+}, {
+    "code": 104319019,
+    "name": "Tambagan",
+    "citymun": "Medina"
+}, {
+    "code": 104319020,
+    "name": "Tup-on",
+    "citymun": "Medina"
+}, {
+    "code": 104320001,
+    "name": "Don Pedro",
+    "citymun": "Naawan"
+}, {
+    "code": 104320002,
+    "name": "Linangkayan",
+    "citymun": "Naawan"
+}, {
+    "code": 104320003,
+    "name": "Lubilan",
+    "citymun": "Naawan"
+}, {
+    "code": 104320004,
+    "name": "Mapulog",
+    "citymun": "Naawan"
+}, {
+    "code": 104320005,
+    "name": "Maputi",
+    "citymun": "Naawan"
+}, {
+    "code": 104320006,
+    "name": "Mat-i",
+    "citymun": "Naawan"
+}, {
+    "code": 104320007,
+    "name": "Patag",
+    "citymun": "Naawan"
+}, {
+    "code": 104320008,
+    "name": "Poblacion",
+    "citymun": "Naawan"
+}, {
+    "code": 104320009,
+    "name": "Tagbalogo",
+    "citymun": "Naawan"
+}, {
+    "code": 104320010,
+    "name": "Tuboran",
+    "citymun": "Naawan"
+}, {
+    "code": 104321001,
+    "name": "Awang",
+    "citymun": "Opol"
+}, {
+    "code": 104321002,
+    "name": "Bagocboc",
+    "citymun": "Opol"
+}, {
+    "code": 104321003,
+    "name": "Barra",
+    "citymun": "Opol"
+}, {
+    "code": 104321004,
+    "name": "Bonbon",
+    "citymun": "Opol"
+}, {
+    "code": 104321005,
+    "name": "Cauyonan",
+    "citymun": "Opol"
+}, {
+    "code": 104321006,
+    "name": "Igpit",
+    "citymun": "Opol"
+}, {
+    "code": 104321007,
+    "name": "Limonda",
+    "citymun": "Opol"
+}, {
+    "code": 104321008,
+    "name": "Luyongbonbon",
+    "citymun": "Opol"
+}, {
+    "code": 104321009,
+    "name": "Malanang",
+    "citymun": "Opol"
+}, {
+    "code": 104321011,
+    "name": "Nangcaon",
+    "citymun": "Opol"
+}, {
+    "code": 104321013,
+    "name": "Patag",
+    "citymun": "Opol"
+}, {
+    "code": 104321014,
+    "name": "Poblacion",
+    "citymun": "Opol"
+}, {
+    "code": 104321015,
+    "name": "Taboc",
+    "citymun": "Opol"
+}, {
+    "code": 104321016,
+    "name": "Tingalan",
+    "citymun": "Opol"
+}, {
+    "code": 104322001,
+    "name": "Alipuaton",
+    "citymun": "Salay"
+}, {
+    "code": 104322002,
+    "name": "Ampenican",
+    "citymun": "Salay"
+}, {
+    "code": 104322003,
+    "name": "Bunal",
+    "citymun": "Salay"
+}, {
+    "code": 104322004,
+    "name": "Dinagsaan",
+    "citymun": "Salay"
+}, {
+    "code": 104322005,
+    "name": "Guinalaban",
+    "citymun": "Salay"
+}, {
+    "code": 104322006,
+    "name": "Ili-ilihon",
+    "citymun": "Salay"
+}, {
+    "code": 104322007,
+    "name": "Inobulan",
+    "citymun": "Salay"
+}, {
+    "code": 104322008,
+    "name": "Looc",
+    "citymun": "Salay"
+}, {
+    "code": 104322009,
+    "name": "Matampa",
+    "citymun": "Salay"
+}, {
+    "code": 104322010,
+    "name": "Membuli",
+    "citymun": "Salay"
+}, {
+    "code": 104322011,
+    "name": "Poblacion",
+    "citymun": "Salay"
+}, {
+    "code": 104322012,
+    "name": "Salagsag",
+    "citymun": "Salay"
+}, {
+    "code": 104322014,
+    "name": "Salay River I",
+    "citymun": "Salay"
+}, {
+    "code": 104322015,
+    "name": "Salay River II",
+    "citymun": "Salay"
+}, {
+    "code": 104322016,
+    "name": "Saray",
+    "citymun": "Salay"
+}, {
+    "code": 104322017,
+    "name": "Tinagaan",
+    "citymun": "Salay"
+}, {
+    "code": 104322018,
+    "name": "Yungod",
+    "citymun": "Salay"
+}, {
+    "code": 104322019,
+    "name": "Casulog",
+    "citymun": "Salay"
+}, {
+    "code": 104323001,
+    "name": "Alicomohan",
+    "citymun": "Sugbongcogon"
+}, {
+    "code": 104323002,
+    "name": "Ampianga",
+    "citymun": "Sugbongcogon"
+}, {
+    "code": 104323003,
+    "name": "Kaulayanan",
+    "citymun": "Sugbongcogon"
+}, {
+    "code": 104323004,
+    "name": "Kidampas",
+    "citymun": "Sugbongcogon"
+}, {
+    "code": 104323005,
+    "name": "Kiraging",
+    "citymun": "Sugbongcogon"
+}, {
+    "code": 104323006,
+    "name": "Mangga",
+    "citymun": "Sugbongcogon"
+}, {
+    "code": 104323007,
+    "name": "Mimbuahan",
+    "citymun": "Sugbongcogon"
+}, {
+    "code": 104323008,
+    "name": "Poblacion",
+    "citymun": "Sugbongcogon"
+}, {
+    "code": 104323009,
+    "name": "Santa Cruz (Mabini)",
+    "citymun": "Sugbongcogon"
+}, {
+    "code": 104323010,
+    "name": "Silad",
+    "citymun": "Sugbongcogon"
+}, {
+    "code": 104324001,
+    "name": "Baluarte",
+    "citymun": "Tagoloan"
+}, {
+    "code": 104324002,
+    "name": "Casinglot",
+    "citymun": "Tagoloan"
+}, {
+    "code": 104324003,
+    "name": "Gracia",
+    "citymun": "Tagoloan"
+}, {
+    "code": 104324004,
+    "name": "Mohon",
+    "citymun": "Tagoloan"
+}, {
+    "code": 104324005,
+    "name": "Natumolan",
+    "citymun": "Tagoloan"
+}, {
+    "code": 104324006,
+    "name": "Poblacion",
+    "citymun": "Tagoloan"
+}, {
+    "code": 104324007,
+    "name": "Rosario",
+    "citymun": "Tagoloan"
+}, {
+    "code": 104324008,
+    "name": "Santa Ana",
+    "citymun": "Tagoloan"
+}, {
+    "code": 104324009,
+    "name": "Santa Cruz",
+    "citymun": "Tagoloan"
+}, {
+    "code": 104324010,
+    "name": "Sugbongcogon",
+    "citymun": "Tagoloan"
+}, {
+    "code": 104325001,
+    "name": "Bugdang",
+    "citymun": "Talisayan"
+}, {
+    "code": 104325002,
+    "name": "Calamcam",
+    "citymun": "Talisayan"
+}, {
+    "code": 104325003,
+    "name": "Casibole",
+    "citymun": "Talisayan"
+}, {
+    "code": 104325004,
+    "name": "Macopa",
+    "citymun": "Talisayan"
+}, {
+    "code": 104325005,
+    "name": "Magkarila",
+    "citymun": "Talisayan"
+}, {
+    "code": 104325006,
+    "name": "Mahayag",
+    "citymun": "Talisayan"
+}, {
+    "code": 104325007,
+    "name": "Mandahilag",
+    "citymun": "Talisayan"
+}, {
+    "code": 104325008,
+    "name": "Mintabon",
+    "citymun": "Talisayan"
+}, {
+    "code": 104325009,
+    "name": "Pangpangon",
+    "citymun": "Talisayan"
+}, {
+    "code": 104325010,
+    "name": "Poblacion",
+    "citymun": "Talisayan"
+}, {
+    "code": 104325011,
+    "name": "Pook",
+    "citymun": "Talisayan"
+}, {
+    "code": 104325012,
+    "name": "Punta Santiago",
+    "citymun": "Talisayan"
+}, {
+    "code": 104325013,
+    "name": "Puting Balas",
+    "citymun": "Talisayan"
+}, {
+    "code": 104325014,
+    "name": "San Jose",
+    "citymun": "Talisayan"
+}, {
+    "code": 104325015,
+    "name": "Santa Ines",
+    "citymun": "Talisayan"
+}, {
+    "code": 104325016,
+    "name": "Sibantang",
+    "citymun": "Talisayan"
+}, {
+    "code": 104325017,
+    "name": "Sindangan",
+    "citymun": "Talisayan"
+}, {
+    "code": 104325018,
+    "name": "Tagbocboc",
+    "citymun": "Talisayan"
+}, {
+    "code": 104326001,
+    "name": "Balacanas",
+    "citymun": "Villanueva"
+}, {
+    "code": 104326003,
+    "name": "Dayawan",
+    "citymun": "Villanueva"
+}, {
+    "code": 104326004,
+    "name": "Katipunan",
+    "citymun": "Villanueva"
+}, {
+    "code": 104326005,
+    "name": "Kimaya",
+    "citymun": "Villanueva"
+}, {
+    "code": 104326007,
+    "name": "Poblacion 1",
+    "citymun": "Villanueva"
+}, {
+    "code": 104326008,
+    "name": "San Martin",
+    "citymun": "Villanueva"
+}, {
+    "code": 104326009,
+    "name": "Tambobong",
+    "citymun": "Villanueva"
+}, {
+    "code": 104326010,
+    "name": "Imelda",
+    "citymun": "Villanueva"
+}, {
+    "code": 104326011,
+    "name": "Looc",
+    "citymun": "Villanueva"
+}, {
+    "code": 104326012,
+    "name": "Poblacion 2",
+    "citymun": "Villanueva"
+}, {
+    "code": 104326013,
+    "name": "Poblacion 3",
+    "citymun": "Villanueva"
+}]
