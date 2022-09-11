@@ -10,12 +10,13 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta name="description" content="RSBSA Validation by AJ Octat">
 
-    <link rel="stylesheet" href="assets/bootstrap/css/bootstrap.min.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.3.1/dist/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
     <link rel="stylesheet" href="assets/fontawesome/all.min.css">
     <link rel="stylesheet" href="assets/fontawesome/fontawesome.min.css">
 
     <script src="assets/jquery/jquery-3.6.0.js"></script>
-    <script src="assets/bootstrap/js/bootstrap.bundle.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.14.7/dist/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.3.1/dist/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
     <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/v/dt/dt-1.11.4/datatables.min.css" />
     <script type="text/javascript" src="https://cdn.datatables.net/v/dt/dt-1.11.4/datatables.min.js"></script>
     <style type="text/css">
@@ -279,72 +280,74 @@
 </head>
 <div class="modal fade" id="exampleModalCenter" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle"
     aria-hidden="true">
-    <div class="modal-dialog modal-dialog-centered" role="document">
+    <div class="modal-dialog modal-lg modal-dialog-centered" role="document">
         <div class="modal-content">
-            <div class="modal-header">
-                <h5 class="modal-title" id="mRSBSA"></h5>
-                <h5 class="modal-title" id="mSysgen" hidden></h5>
-                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-                    <span aria-hidden="true">&times;</span>
-                </button>
-            </div>
             <div class="modal-body">
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+              <span aria-hidden="true">&times;</span>
+            </button>
+            <div class="media mt-3">
+              <div class="align-self-center mr-3">
+                <div class="text-center">
+                  <img class="rounded-circle shadow" id="mImg" width="200" height="200">
+                </div>
+                <input type="text" readodnly disabled class="form-control-plaintext text-center font-weight-bold mt-2" id="mRSBSA" value="">
+              </div>
+              <div class="media-body">
                 <div class="row">
-                    <label class="col-sm-4 col-form-label">Last Name</label>
-                    <div class="col-sm-8">
-                        <input type="text" readodnly disabled class="form-control-plaintext" id="mLastname" value="">
-                    </div>
+                  <label class="col-sm-4 col-form-label">Full Name</label>
+                  <div class="col-sm-8">
+                    <input type="text" readodnly disabled class="form-control-plaintext" id="mFullname" value="">
+                  </div>
                 </div>
                 <div class="row">
-                    <label class="col-sm-4 col-form-label">First Name</label>
-                    <div class="col-sm-8">
-                        <input type="text" readodnly disabled class="form-control-plaintext" id="mFirstname" value="">
-                    </div>
+                  <label class="col-sm-4 col-form-label">Gender</label>
+                  <div class="col-sm-8">
+                    <input type="text" readodnly disabled class="form-control-plaintext" id="mGender" value="">
+                  </div>
                 </div>
                 <div class="row">
-                    <label class="col-sm-4 col-form-label">Middle Name</label>
-                    <div class="col-sm-8">
-                        <input type="text" readodnly disabled class="form-control-plaintext" id="mMiddlename" value="">
-                    </div>
+                  <label class="col-sm-4 col-form-label">Birthdate</label>
+                  <div class="col-sm-8">
+                    <input type="text" readodnly disabled class="form-control-plaintext" id="mBday" value="">
+                  </div>
                 </div>
                 <div class="row">
-                    <label class="col-sm-4 col-form-label">Ext</label>
-                    <div class="col-sm-8">
-                        <input type="text" readodnly disabled class="form-control-plaintext" id="mExtname" value="">
-                    </div>
+                  <label class="col-sm-4 col-form-label">Encoder</label>
+                  <div class="col-sm-8">
+                    <input type="text" readodnly disabled class="form-control-plaintext" id="mEncoder" value="">
+                  </div>
                 </div>
                 <div class="row">
-                    <label class="col-sm-4 col-form-label">Gender</label>
-                    <div class="col-sm-8">
-                        <input type="text" readodnly disabled class="form-control-plaintext" id="mGender" value="">
-                    </div>
+                  <label class="col-sm-4 col-form-label">Date Encoded</label>
+                  <div class="col-sm-8">
+                    <input type="text" readodnly disabled class="form-control-plaintext" id="mDate" value="">
+                  </div>
                 </div>
                 <div class="row">
-                    <label class="col-sm-4 col-form-label">Birthdate</label>
-                    <div class="col-sm-8">
-                        <input type="text" readodnly disabled class="form-control-plaintext" id="mBday" value="">
-                    </div>
+                  <label class="col-sm-4 col-form-label">Updated By</label>
+                  <div class="col-sm-8">
+                    <input type="text" readodnly disabled class="form-control-plaintext" id="mUpdater" value="">
+                  </div>
                 </div>
                 <div class="row">
-                    <label class="col-sm-4 col-form-label">Encoder</label>
-                    <div class="col-sm-8">
-                        <input type="text" readodnly disabled class="form-control-plaintext" id="mEncoder" value="">
-                    </div>
+                  <label class="col-sm-4 col-form-label">Date Updated</label>
+                  <div class="col-sm-8">
+                    <input type="text" readodnly disabled class="form-control-plaintext" id="mDateUpdated" value="">
+                  </div>
                 </div>
-                <div class="row">
-                    <label class="col-sm-4 col-form-label">Date Encoded</label>
-                    <div class="col-sm-8">
-                        <input type="text" readodnly disabled class="form-control-plaintext" id="mDate" value="">
-                    </div>
-                </div>
-                <div class="row">
-                    <div class="col-sm-6">
-                        <button class="btn btn-success btn-block mProfile">Open Profile</button>
-                    </div>
-                    <div class="col-sm-6">
-                        <button class="btn btn-success btn-block mDocs">Open Docs</button>
-                    </div>
-                </div>
+              </div>
+            </div>
+            <div class="row">
+              <div class="col-sm-1"></div>
+              <div class="col-sm-5">
+                <button class="btn btn-success btn-block mProfile"><i class="far fa-user-circle"></i> Open Profile</button>
+              </div>
+              <div class="col-sm-5">
+                <button class="btn btn-success btn-block mDocs"><i class="far fa-file-image"></i> Open Docs</button>
+              </div>
+              <div class="col-sm-1"></div>
+            </div>
             </div>
         </div>
     </div>
@@ -393,7 +396,7 @@
                             break;
                         }
                         if ($barangay != '') {
-                            $json = file_get_contents('assets/data/barangays.json');
+                            $json = file_get_contents('./assets/data/barangays.json');
                             $json_data = json_decode($json,true);
                             foreach ($json_data as $json_data_key) {
                                 if ($json_data_key['code']==$noDash) {
@@ -401,7 +404,7 @@
                                 }
                             }
                         }else{
-                            $json = file_get_contents('assets/data/municipalities.json');
+                            $json = file_get_contents('./assets/data/municipalities.json');
                             $json_data = json_decode($json,true);
                             foreach ($json_data as $json_data_key) {
                                 if ($json_data_key['mcode']==$noDash) {
@@ -417,8 +420,23 @@
         </div>
     </div>
     <div class="row justify-content-md-center mt-5">
-        <div class="col-md-1"><input type="text" class="form-control" id="Keyword" autocomplete="off" placeholder="Keyword/Geocode" style="border-color: #26a042;background: transparent;color: #000000;display: none;" value="10"></div>
+        <div class="col-md-3"></div>
+        <div class="col-md-6">
+            <div class="row justify-content-md-center mt-3">
+                <div class="col-md-9">
+                    <input type="text" class="form-control text-uppercase" id="Keyword" autocomplete="off" placeholder="Keyword/Geocode" style="border-color: #26a042;background: transparent;color: #000000;">
+                </div>
+                <div class="col-md-3">
+                    <button class="btn btn-success btn-block" onclick="filterData();"><i class="fas fa-search-location"></i></button>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-3"></div>
+    </div>
+    <div class="row justify-content-md-center mt-3">
         <div class="col-md-3">
+        </div>
+        <div class="col-md-2">
             <select class="form-control" type="text" id="select_province" style="border-color: #26a042;background: transparent;color: #000000" onchange="changeMunicipality();showOpt();">
                 <option style="background: #FFFFFF;" selected="selected" value="0">Select Province</option>
                 <option style="background: #FFFFFF;" value="13">BUKIDNON [13]</option>
@@ -428,19 +446,18 @@
                 <option style="background: #FFFFFF; ?>;" value="43">MISAMIS ORIENTAL [43]</option>
             </select>
         </div>
-        <div class="col-md-3">
+        <div class="col-md-2">
             <select class="select form-control" type="text" id="select_municipality" onchange="changeBarangay();showOpt();" style="border-color: #26a042;background: transparent;color: #000000">
             </select>
         </div>
-        <div class="col-md-3">
+        <div class="col-md-2">
             <select class="select form-control" type="text" id="select_barangay" onchange="showOpt();" style="border-color: #26a042;background: transparent;color: #000000;">
             </select>
         </div>
-        <div class="col-md-1">
-            <button class="btn btn-success btn-block" onclick="filterData();"><i class="fas fa-search-location"></i></button>
+        
+        <div class="col-md-3">
         </div>
-        <div class="col-md-1">
-        </div>
+        <h3>PLEASE ALLOW POP-UPS TO VIEW ALL DUPLICATES</h3>
     </div>
     <div id="results" class="justify-content-md-center" style="margin: 20px;display: none;">
         <table id="example" class="table table-borderless table-responsive-sm mt-5" style="width:100%;">
@@ -448,6 +465,7 @@
                 <tr id="headerss">
                     <th class="noWrap">RSBSA No.</th>
                     <th class="noWrap">SysGen No.</th>
+                    <th></th>
                     <th></th>
                     <th></th>
                     <th class="noWrap">Last Name</th>
@@ -482,12 +500,9 @@
                 'color': '#000000',
             });
             var row = $(this).closest('tr');
-            $('#mRSBSA').text(table.row(row).data().control_no);
-            $('#mSysgen').text(table.row(row).data().rsbsa_no);
-            $('#mLastname').val(table.row(row).data().last_name);
-            $('#mFirstname').val(table.row(row).data().first_name);
-            $('#mMiddlename').val(table.row(row).data().middle_name);
-            $('#mExtname').val(table.row(row).data().ext_name);
+            $('#mRSBSA').val(table.row(row).data().rsbsa_no);
+            $("#mImg").attr("src",'https://ffrs1.da.gov.ph/uploads/photo/'+table.row(row).data().img);
+            $('#mFullname').val(table.row(row).data().fullname);
             $('#mGender').val(table.row(row).data().sex);
             $('#mBday').val(table.row(row).data().birthday);
             if(table.row(row).data().encoder_fullname!=null){
@@ -495,7 +510,9 @@
             }else{
               $('#mEncoder').val('[' + table.row(row).data().encoder_agency + '] NFFIS');
             }
-            $('#mDate').val(formatDate(formatMonth(table.row(row).data().date_created)));
+            $('#mDate').val(table.row(row).data().date_created);
+            $('#mUpdater').val(table.row(row).data().encoder_fullname_updated);
+            $('#mDateUpdated').val(table.row(row).data().date_updated);
             $('#exampleModalCenter').modal('show');
         });
 
@@ -551,6 +568,23 @@
               }
           })
         });
+        $('#example tbody').on('click', '.getFiles', function() {
+             $(this).closest('tr').css({
+                'background-color': '#000000',
+                'color': '#ffffff',
+            }).siblings('tr').css({
+                'background-color': '#ffffff',
+                'color': '#000000',
+            });
+            var row = $(this).closest('tr');
+            var data = table.row(row).data().rsbsa_no;
+            $.getJSON('dedupFind?q='+data, function(data){
+                for (let index = 0; index < data.duplicates.length; index++) {
+                    window.open('./docs/' + data.duplicates[index], '_blank');
+                    //window.open('https://ffrs1.da.gov.ph/View_document/rsbsa_form/' + data.duplicates[index], '_blank');
+              }
+          })
+        });
         $('#example tbody').on('click', '.docs', function() {
             $(this).closest('tr').css({
                 'background-color': '#000000',
@@ -561,15 +595,15 @@
             });
             var row = $(this).closest('tr');
             var data = table.row(row).data().rsbsa_no;
-            window.open('https://ffrs1.da.gov.ph/View_document/rsbsa_form/' + data, '_blank');
+            window.open('./docs/' + data, '_blank');
         });
         $(".mProfile").on('click', function(event) {
-            data = $('#mSysgen').text();
+            data = $('#mRSBSA').val();
             window.open('https://ffrs1.da.gov.ph/Farmers/view_profile/' + data, '_blank');
         });
         $(".mDocs").on('click', function(event) {
-            data = $('#mSysgen').text();
-            window.open('https://ffrs1.da.gov.ph/View_document/rsbsa_form/' + data, '_blank');
+            data = $('#mRSBSA').val();
+            window.open('./docs/' + data, '_blank');
         });
         $(".clearFilters").on('click', function(event) {
             var table = $('#example').DataTable();
@@ -587,36 +621,12 @@
 
     function filterData(){
         let codex = $('#Keyword').val();
-        const myArray = codex.split("-");
-        var Vprovince;
-        var Vmunicipality;
-        var Vbarangay;
-        var strCode;
-        
-        if (myArray[1]!= undefined) {
-            Vprovince = myArray[1];
-            strCode = '10-'+Vprovince;
-        }else{
-            Vprovince = '';
-        }
-        if (myArray[2]!= undefined) {
-            Vmunicipality = myArray[2];
-            strCode = strCode+"-"+Vmunicipality;
-        }else{
-            Vmunicipality = '';
-        }
-        if (myArray[3]!= undefined) {
-            Vbarangay = myArray[3];
-            strCode = strCode+"-"+Vbarangay;
-        }else{
-            Vbarangay = '';
-        }
         table = $('#example').DataTable({
             "destroy": true,
             "orderCellsTop": true,
             "processing": true,
             "ajax": {
-                "url": 'dedupApi?q='+strCode
+                "url": './dedupApi?q='+codex
             },
             "columns": [{
                 "data": "control_no",
@@ -642,6 +652,14 @@
                 "orderable": false,
                 render: function(data, type, full, meta) {
                     return '<i class="fas fa-users" value="1"></i>';
+                }
+            },
+            {
+                "data": "null",
+                "className": "getFiles",
+                "orderable": false,
+                render: function(data, type, full, meta) {
+                    return '<i class="fas fa-paperclip" value="1"></i>';
                 }
             },
             {
@@ -812,7 +830,7 @@
     }
 
     function home() {
-        window.open('../../', "_self");
+        window.open('./', "_self");
     }
 
     function copyToClipboard(text) {

@@ -1,16 +1,38 @@
-<html lang="en"><!-- 
-      ____                                       
-     / __ \________  __  ______ _____  ____  ____
-    / / / / ___/ _ \/ / / / __ `/ __ \/ __ \/_  /
-   / /_/ / /  /  __/ /_/ / /_/ / / / / / / / / /_
+<?php 
+include_once('_config.php');
+header("Access-Control-Allow-Origin: *");
+
+if (isset($_GET['q'])) {
+  $geocode = $_GET['q'];
+}
+
+# Function: get root url
+function url(){
+  return sprintf(
+    "%s://%s%s",
+    isset($_SERVER['HTTPS']) && $_SERVER['HTTPS'] != 'off' ? 'https' : 'http',
+    $_SERVER['SERVER_NAME'],
+    $_SERVER['REQUEST_URI']
+  );
+}
+?>
+<!doctype html>
+  <html lang="en">
+  <!-- 
+      __                                       
+     / _ \_______  _  _____
+___  __  __
+    / / / / __/ _ \/ / / / _ `/ _ \/ _ \/_  /
+   / /_/ / /  /  _/ /_/ / /_/ / / / / / / / / /
   /_____/_/   \___/\__, /\__,_/_/ /_/_/ /_/ /___/
                   /____/                         
        Script Author: Adrian Jann F. Octat
-  --><head>
+  -->
+  <head>
     <!-- Required meta tags -->
     <meta charset="utf-8">
-    <title>DA Region 10 | RSBSA Message Board</title>
-    <meta name="title" content="DA Region 10 | RSBSA Message Board">
+    <title>DA Region 10 | RSBSA</title>
+    <meta name="title" content="DA Region 10 | RSBSA">
     <meta name="description" content="Registry System for Basic Sectors in Agriculture | Department of Agriculture Regional Field Office 10">
     <meta name="keywords" content="RSBSA, Ani at Kita, Department of Agriculture, Department of Agriculture Regional Field Office 10, DA, DA RFO 10, Registry System for Basic Sectors in Agriculture">
     <meta name="robots" content="noindex, nofollow">
@@ -18,16 +40,16 @@
     <meta name="language" content="English">
     <meta name="author" content="DA-RFO 10 | AJ Octat">
     <meta name="google" content="notranslate">
-    <link rel="icon" href="assets/Logo/Logo_DA.png" type="image/png">
+    <link rel="icon" href="../assets/Logo/Logo_DA.png" type="image/png">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
     <!-- Bootstrap CSS -->
-    <link rel="stylesheet" href="assets/bootstrap/css/bootstrap.min.css">
-    <link rel="stylesheet" href="assets/fontawesome/all.min.css">
-    <link rel="stylesheet" href="assets/fontawesome/fontawesome.min.css">
-    <script src="assets/jquery/jquery-3.6.0.js"></script>
-    <script src="assets/bootstrap/js/bootstrap.bundle.min.js"></script>
-    <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/v/dt/dt-1.11.4/datatables.min.css">
+    <link rel="stylesheet" href="../assets/bootstrap/css/bootstrap.min.css">
+    <link rel="stylesheet" href="../assets/fontawesome/all.min.css">
+    <link rel="stylesheet" href="../assets/fontawesome/fontawesome.min.css">
+    <script src="../assets/jquery/jquery-3.6.0.js" ></script>
+    <script src="../assets/bootstrap/js/bootstrap.bundle.min.js"></script>
+    <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/v/dt/dt-1.11.4/datatables.min.css" />
     <script type="text/javascript" src="https://cdn.datatables.net/v/dt/dt-1.11.4/datatables.min.js"></script>
     <style type="text/css">
       @font-face {
@@ -35,32 +57,32 @@
         font-style: normal;
         font-weight: 300;
         src: local(''),
-        url('assets/fonts/poppins-v19-latin-300.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
-        url('assets/fonts/poppins-v19-latin-300.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+        url('../assets/fonts/poppins-v19-latin-300.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+        url('../assets/fonts/poppins-v19-latin-300.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
       }
       @font-face {
         font-family: 'Poppins';
         font-style: normal;
         font-weight: 400;
         src: local(''),
-        url('assets/fonts/poppins-v19-latin-regular.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
-        url('assets/fonts/poppins-v19-latin-regular.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+        url('../assets/fonts/poppins-v19-latin-regular.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+        url('../assets/fonts/poppins-v19-latin-regular.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
       }
       @font-face {
         font-family: 'Poppins';
         font-style: normal;
         font-weight: 500;
         src: local(''),
-        url('assets/fonts/poppins-v19-latin-500.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
-        url('assets/fonts/poppins-v19-latin-500.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+        url('../assets/fonts/poppins-v19-latin-500.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+        url('../assets/fonts/poppins-v19-latin-500.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
       }
       @font-face {
         font-family: 'Poppins';
         font-style: normal;
         font-weight: 600;
         src: local(''),
-        url('assets/fonts/poppins-v19-latin-600.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
-        url('assets/fonts/poppins-v19-latin-600.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+        url('../assets/fonts/poppins-v19-latin-600.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+        url('../assets/fonts/poppins-v19-latin-600.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
       }
       *{
         margin: 0;
@@ -294,102 +316,102 @@
         background-color: #26a042;
         color: #fff;
       }
+      .enLarge {
+        bottom: 10px;
+        position: fixed;
+        left: 50%;
+        width: 75%;
+        transform: translate(-50%, 0px);
+        z-index: 100;
+      }
+      .iimg{
+        width: 100%;
+        height: auto;
+      }
+      .iembed{
+        width: 100%;
+        height: 100vh;
+      }
+      .enLarge {
+        bottom: 10px;
+        position: fixed;
+        left: 50%;
+        width: 75%;
+        transform: translate(-50%, 0px);
+        z-index: 100;
+      }
+      .bgBox {
+        position: fixed;
+        bottom: -80px;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        z-index: 99;
+        padding: 10px;
+        border: none;
+        outline: none;
+        justify-content: center;
+        align-items: center;
+        text-align: center;
+        opacity: 1;
+        color: #fff;
+        background: #26a042;
+      }
     </style>
   </head>
+  <div class="mypopup1" id="loadingPops" style="display: none;">
+    <div id="container1">
+      <div class="loader"><img class="rounded-circle" src="../assets/Logo/Logo_DA.png" width="180" height="180"></div>
+    </div>
+  </div>
+  <div class="enLarge">
+    <div class="row">
+      <div class="col-4"></div>
+      <div class="col-4 mControlNo">
+      </div>
+      <div class="col-4"></div>
+    </div>
+  </div>
   <body style="background: #ffffff">
-    <div class="mr-5 ml-5 mb-5 mt-5" id="header">
-      <button onclick="topFunction()" id="toTheTop" title="Go to top"><i class="fas fa-chevron-up"></i></button>
-      <div class="card-deck row">
-        <div class="card border-success shadow col-3">
-          <div class="card-body">
-            <h6 class="card-title">Message Box</h6>
-            <textarea id="message" type="text" class="form-control" rows="15"></textarea>
-            <div class="custom-control custom-switch" style="text-align: right;">
-              <input type="checkbox" class="custom-control-input" id="quotes" onclick="changeCheckbox();">
-              <label class="custom-control-label" for="quotes">Quotes</label>
-            </div>
-            <div class="row">
-              <div class="col">
-                <button type="button" class="btn btn-outline-success shadow view mt-1"><i class="fas fa-eye"></i>&nbsp;</button>
-              </div>
-              <div class="col-9">
-                 <button type="button" class="btn btn-outline-success btn-block shadow save mt-1"><i class="far fa-save"></i> Save</button>
-              </div>
-            </div>
-            
-           
-          </div>
+    <div class="mr-5 ml-5 mt-5 mb-5" id="header">
+      <div class="row">
+        <div class="col-1"></div>
+        <div class="col" id="results">
         </div>
-        <div class="card border-success shadow col-9">
-          <div class="card-body">
-            <h6 class="card-title">Preview</h6>
-            <div id="preview"></div>
-          </div>
-        </div>
+        <div class="col-1"></div>
       </div>
     </div>
+    
     <!-- WEBSITE SCRIPTS-->
     <script type="text/javascript">
-      $(document).ready(function(){
-        readValue();
-        $(".save").on('click', function(event){
-          $('#preview').empty().append($('textarea#message').val());
-          changeValue(!$('#quotes').is(':checked'),$('#message').val());
-        });
-        $(".view").on('click', function(event){
-          $('#preview').empty().append($('textarea#message').val());
-        });
+      $(document).ready(function() {
+        loadingPops();
+        $.getJSON('../dlApi.php?q=<?php echo $geocode?>', function(data){
+          $('#results').empty();
+          html = '';
+          for (let index = 0; index < data.length; index++) {
+            if (data[index].indexOf('pdf') > -1) {
+              html +=  '<embed class="iembed shadow m-3 border border-dark rounded" src="https://ffrs1.da.gov.ph/uploads/rsbsa_form/' + data[index] + '">';
+            } else {
+              html +=  '<img class="iimg shadow m-3 border border-dark rounded" src="https://ffrs1.da.gov.ph/uploads/rsbsa_form/' + data[index] + '">';
+            }
+            
+            console.log(data[index]);
+          }
+          $('.mControlNo').append('<h3 class="bgBox"><?php echo $geocode?></h3></button>');
+          $('#results').append(html);
+          loadingPopsClose();
+        })
       });
-
-      function changeCheckbox(){
-        $('#quotes').change(function(){
-          if ($('#quotes').is(':checked')) {
-            $('#message').prop('disabled', true);
-          }else{
-            $('#message').prop('disabled', false);
-          }
-        });
+      function loadingPops() {
+        document.getElementById("loadingPops").style.display = 'block';
+        $('#database').css({ 'opacity' : 0 });
       }
 
-      function changeValue(status,message){
-        $.getJSON('messageApi?f=w&s='+status+'&m='+encodeURI(message), function(data){
-          if (data.status=="true"){
-            $('#preview').empty().append($('textarea#message').val());
-          }else{
-            $('#preview').empty().append('<h2 style="text-align:center;">Quotes will be shown on the homepage</h2></br>'+$('textarea#message').val());
-          }
-        });
+      function loadingPopsClose() {
+        document.getElementById("loadingPops").style.display = 'none';
+        $('#database').css({ 'opacity' : 1 });
       }
-
-      function readValue() {
-        $.getJSON('messageApi?f=r', function(data){
-          $('#message').text(data.message);
-          if (data.status=="false") {
-            $('#preview').empty().append('<h2 style="text-align:center;">Quotes will be shown on the homepage</h2></br>'+data.message);
-            $("#quotes").attr("checked", true);
-            $('#message').prop('disabled', true);
-          }else{
-            $('#preview').empty().append(data.message);
-            $("#quotes").attr("checked", false);
-            $('#message').prop('disabled', false);
-          }
-        });
-      }
-
-      var toTheTopBotton = document.getElementById("toTheTop");
-      window.onscroll = function() {scrollFunction()};
-
-      function scrollFunction() {
-        if (document.body.scrollTop > 80 || document.documentElement.scrollTop > 80) {
-          toTheTopBotton.style.display = "block";
-        } else {
-          toTheTopBotton.style.display = "none";
-        }
-      }
-
-      function topFunction() {
-        jQuery('html,body').animate({scrollTop:0},1000);
-      }
-</script>
-
-</body></html>
+    </script>
+</body>
+</html>

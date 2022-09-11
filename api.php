@@ -20,7 +20,7 @@ header('Content-Type: application/json');
 date_default_timezone_set("Asia/Manila");
 
 # Fetch variables
-$keyword = $_GET['q'];
+$keyword = strtoupper($_GET['q']);
 $module = $_GET['m'];
 
 # Declare variables (FFRS Credentials)
@@ -29,31 +29,32 @@ include_once('_config.php');
 # Start execution time of process
 $time_start = microtime(true);
 
-# cURL process to fetch CSRF Token and FFRS cookies
-$ch = curl_init('https://ffrs'.$ffrsVersion.'.da.gov.ph/');
-curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);
-curl_setopt($ch, CURLOPT_COOKIEJAR, 'cookie.txt');
-$response = curl_exec($ch);
-
-preg_match_all('/name="csrf_ffrs_token2" value="(.*)"/', $response, $inputs);
-$token = $inputs[1][0];
-$data = array(
-	"username" => $username,
-	"password" => $password,
-	"csrf_ffrs_token2" => $token,
-);
-
-# cURL process to Login at FFRS 
-curl_setopt($ch, CURLOPT_URL, 'https://ffrs'.$ffrsVersion.'.da.gov.ph/Login/check');
-curl_setopt($ch, CURLOPT_POST, true);
-curl_setopt($ch, CURLOPT_POSTFIELDS, $data);
-curl_setopt($ch, CURLOPT_COOKIEJAR, 'cookie.txt');
-curl_setopt($ch, CURLOPT_FOLLOWLOCATION, true);
-$response = curl_exec($ch);
 
 # switch process with respect to module used 
 switch ($module) {
 	case '0':
+		# cURL process to fetch CSRF Token and FFRS cookies
+		$ch = curl_init('https://ffrs'.$ffrsVersion.'.da.gov.ph/');
+		curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);
+		curl_setopt($ch, CURLOPT_COOKIEJAR, 'cookie.txt');
+		$response = curl_exec($ch);
+
+		preg_match_all('/name="csrf_ffrs_token2" value="(.*)"/', $response, $inputs);
+		$token = $inputs[1][0];
+		$data = array(
+			"username" => $username,
+			"password" => $password,
+			"csrf_ffrs_token2" => $token,
+		);
+
+		# cURL process to Login at FFRS 
+		curl_setopt($ch, CURLOPT_URL, 'https://ffrs'.$ffrsVersion.'.da.gov.ph/Login/check');
+		curl_setopt($ch, CURLOPT_POST, true);
+		curl_setopt($ch, CURLOPT_POSTFIELDS, $data);
+		curl_setopt($ch, CURLOPT_COOKIEJAR, 'cookie.txt');
+		curl_setopt($ch, CURLOPT_FOLLOWLOCATION, true);
+		$response = curl_exec($ch);
+
 		# Validate module of FFRS
 		curl_setopt($ch, CURLOPT_URL, 'https://ffrs'.$ffrsVersion.'.da.gov.ph/Validate/get_data');
 		curl_setopt($ch, CURLOPT_POST, true);
@@ -65,20 +66,69 @@ switch ($module) {
 		break;
 
 	case '1':
-		# Data Check module of FFRS
-		$limit = '20000';
-		$province = substr($keyword,3,2);
-		$municipality = substr($keyword,6,2);
-		$barangay = substr($keyword,9,3);
+		# cURL process to fetch CSRF Token and FFRS cookies
+		$ch = curl_init('https://ffrs'.$ffrsVersion.'.da.gov.ph/');
+		curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);
+		curl_setopt($ch, CURLOPT_COOKIEJAR, 'cookie.txt');
+		$response = curl_exec($ch);
 
+		preg_match_all('/name="csrf_ffrs_token2" value="(.*)"/', $response, $inputs);
+		$token = $inputs[1][0];
+		$data = array(
+			"username" => $username,
+			"password" => $password,
+			"csrf_ffrs_token2" => $token,
+		);
+
+		# cURL process to Login at FFRS 
+		curl_setopt($ch, CURLOPT_URL, 'https://ffrs'.$ffrsVersion.'.da.gov.ph/Login/check');
+		curl_setopt($ch, CURLOPT_POST, true);
+		curl_setopt($ch, CURLOPT_POSTFIELDS, $data);
+		curl_setopt($ch, CURLOPT_COOKIEJAR, 'cookie.txt');
+		curl_setopt($ch, CURLOPT_FOLLOWLOCATION, true);
+		$response = curl_exec($ch);
+
+		# Data Check module of FFRS
+		$wordValue = '';
+		$province = '';
+		$municipality = '';
+		$barangay = '';
+		if (!str_starts_with($keyword,"10-")) {
+			$wordValue = $keyword;
+		}else{
+			$province = substr($keyword,3,2);
+			$municipality = substr($keyword,6,2);
+			$barangay = substr($keyword,9,3);
+		}
+		
+		$data = array(
+			"start" => "0",
+			"length" => "20000",
+			"search[value]" => $wordValue,
+			"search[regex]" => "false",
+			"load_code" => "all",
+			"rsbsanum" => "",
+			"prov_code" => $province,
+			"mun_code" => $municipality,
+			"barangay" => $barangay,
+		);
 		curl_setopt($ch, CURLOPT_URL, 'https://ffrs'.$ffrsVersion.'.da.gov.ph/Checking/get_farmers');
 		curl_setopt($ch, CURLOPT_POST, true);
-		curl_setopt($ch, CURLOPT_POSTFIELDS, 'draw=1&columns%5B0%5D%5Bdata%5D=0&columns%5B0%5D%5Bname%5D=&columns%5B0%5D%5Bsearchable%5D=true&columns%5B0%5D%5Borderable%5D=false&columns%5B0%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B0%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B1%5D%5Bdata%5D=control_no&columns%5B1%5D%5Bname%5D=&columns%5B1%5D%5Bsearchable%5D=true&columns%5B1%5D%5Borderable%5D=false&columns%5B1%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B1%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B2%5D%5Bdata%5D=data_source&columns%5B2%5D%5Bname%5D=&columns%5B2%5D%5Bsearchable%5D=true&columns%5B2%5D%5Borderable%5D=false&columns%5B2%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B2%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B3%5D%5Bdata%5D=3&columns%5B3%5D%5Bname%5D=&columns%5B3%5D%5Bsearchable%5D=true&columns%5B3%5D%5Borderable%5D=false&columns%5B3%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B3%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B4%5D%5Bdata%5D=4&columns%5B4%5D%5Bname%5D=&columns%5B4%5D%5Bsearchable%5D=true&columns%5B4%5D%5Borderable%5D=false&columns%5B4%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B4%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B5%5D%5Bdata%5D=5&columns%5B5%5D%5Bname%5D=&columns%5B5%5D%5Bsearchable%5D=true&columns%5B5%5D%5Borderable%5D=false&columns%5B5%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B5%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B6%5D%5Bdata%5D=6&columns%5B6%5D%5Bname%5D=&columns%5B6%5D%5Bsearchable%5D=true&columns%5B6%5D%5Borderable%5D=false&columns%5B6%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B6%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B7%5D%5Bdata%5D=7&columns%5B7%5D%5Bname%5D=&columns%5B7%5D%5Bsearchable%5D=true&columns%5B7%5D%5Borderable%5D=false&columns%5B7%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B7%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B8%5D%5Bdata%5D=8&columns%5B8%5D%5Bname%5D=&columns%5B8%5D%5Bsearchable%5D=true&columns%5B8%5D%5Borderable%5D=false&columns%5B8%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B8%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B9%5D%5Bdata%5D=9&columns%5B9%5D%5Bname%5D=&columns%5B9%5D%5Bsearchable%5D=true&columns%5B9%5D%5Borderable%5D=false&columns%5B9%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B9%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B10%5D%5Bdata%5D=10&columns%5B10%5D%5Bname%5D=&columns%5B10%5D%5Bsearchable%5D=true&columns%5B10%5D%5Borderable%5D=false&columns%5B10%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B10%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B11%5D%5Bdata%5D=encoder_agency&columns%5B11%5D%5Bname%5D=&columns%5B11%5D%5Bsearchable%5D=true&columns%5B11%5D%5Borderable%5D=false&columns%5B11%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B11%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B12%5D%5Bdata%5D=12&columns%5B12%5D%5Bname%5D=&columns%5B12%5D%5Bsearchable%5D=true&columns%5B12%5D%5Borderable%5D=false&columns%5B12%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B12%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B13%5D%5Bdata%5D=13&columns%5B13%5D%5Bname%5D=&columns%5B13%5D%5Bsearchable%5D=true&columns%5B13%5D%5Borderable%5D=false&columns%5B13%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B13%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B14%5D%5Bdata%5D=14&columns%5B14%5D%5Bname%5D=&columns%5B14%5D%5Bsearchable%5D=true&columns%5B14%5D%5Borderable%5D=false&columns%5B14%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B14%5D%5Bsearch%5D%5Bregex%5D=false&start=0&length='.$limit.'&search%5Bvalue%5D=&search%5Bregex%5D=false&load_code=&prov_code='.$province.'&mun_code='.$municipality.'&bgy_code='.$barangay.'&controlnum_c=&firstname_c=&middlename_c=&surname_c=&extname_c=&birthday_c=&sex_c=&maidenname_c=&civilstatus_c=');
+		curl_setopt($ch, CURLOPT_POSTFIELDS, $data);
 		curl_setopt($ch, CURLOPT_COOKIEJAR, 'cookie.txt');
 		curl_setopt($ch, CURLOPT_FOLLOWLOCATION, true);
 		$response = curl_exec($ch);
 		curl_close($ch);
 		break;
+
+		case '2':
+			if (str_starts_with($keyword,'10-')) {
+				$province = substr($keyword,3,2);
+				$municipality = substr($keyword,6,2);
+				$barangay = substr($keyword,9,3);
+			}
+			$response = file_get_contents('KYC/10-'.$province.'-'.$municipality.'.json');
+			break;
 }
 
 # Remove FFRS cookies
@@ -107,7 +157,8 @@ switch ($module) {
 	case '1':
 		$filtered_data = array();
 		foreach ($data as $dataKey) {
-			if (str_starts_with($dataKey['rsbsa_no'],$keyword)||str_starts_with($dataKey['control_no'],$keyword)) {
+			$fullname = strtoupper($dataKey['first_name'].' '.$dataKey['middle_name'].' '.$dataKey['surname']);
+			if (str_starts_with($dataKey['rsbsa_no'],$keyword)||str_starts_with($dataKey['control_no'],$keyword)||strpos($fullname, $keyword) !== false) {
 				$extension = '';
 				$cashout = 'Not Verified';
 				if ($dataKey['sex']=='1') {
@@ -127,25 +178,41 @@ switch ($module) {
 					'encoder_agency' => strtoupper($dataKey['encoder_agency']),
 					'encoder_fullname' => strtoupper($dataKey['encoder_fullname']),
 					'fullname' => strtoupper($dataKey['first_name'].' '.$dataKey['middle_name'].' '.$dataKey['surname'].''.$extension),
+					'img' => $dataKey['file_picture'],
 					'first_name' => strtoupper($dataKey['first_name']),
 					'middle_name' => strtoupper($dataKey['middle_name']),
 					'last_name' => strtoupper($dataKey['surname']),
 					'ext_name' => strtoupper($dataKey['ext_name']),
 					'sex' => $gender,
 					'birthday' => date("M. d, Y", strtotime($dataKey['birthday'])),
-					'date_created' => $dataKey['date_created'],
-					'rffa2_cashout' => $cashout,
-					'duplicated' => ''
+					'date_created' => date("M. d, Y h:iA", strtotime($dataKey['date_created'])),
+					'encoder_fullname_updated' => strtoupper($dataKey['encoder_fullname_updated']),
+					'date_updated' => date("M. d, Y h:iA", strtotime($dataKey['date_updated'])),
+					'rffa2_cashout' => $cashout
 				);
 				$filtered_data[] = $minimal_data;
 			}
 		}
 		$new_data = array(
-			'generationTime' => date("d M Y h:iA"),
-		    'executionTime' => round($execution_time, 2).' mins',
-			'dataTotal' => $data_json['recordsTotal'],
+			'generationTime' => date("M. d, Y h:iA"),
+			'executionTime' => round($execution_time, 2).' mins',
+			'dataTotal' => count($filtered_data),
 			'data' => $filtered_data);
 		break;
+		case '2':
+		$filtered_data = array();
+		foreach ($data as $dataKey) {
+			if (str_starts_with($dataKey['rsbsa_no'],$keyword)||str_starts_with($dataKey['control_no'],$keyword)) {
+				$filtered_data[] = $dataKey;
+			}
+		}
+		$new_data = array(
+			'generationTime' => date("d M Y h:iA"),
+			'executionTime' => round($execution_time, 2).' mins',
+			'dataTotal' => count($filtered_data),
+			'data' => $filtered_data);
+		break;
+
 }
 
 # Print JSON response

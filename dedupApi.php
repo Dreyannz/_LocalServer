@@ -8,27 +8,70 @@
                 /____/                         
      Script Author: Adrian Jann F. Octat
 */
-//error_reporting(0);
-// ini_set('display_errors', 0);
+error_reporting(0);
+ini_set('display_errors', 0);
 header('Content-Type: application/json');
 date_default_timezone_set("Asia/Manila");
 
-$query = $_GET['q'];
-$munCode = substr($query,0,8);
-
 
 $time_start = microtime(true);
+$query = strtoupper($_GET['q']);
 
+$module = 0;
 
 $data_file = file_get_contents('deduplication.json');
 $data_json = json_decode($data_file, 1);
-
 $allData = array();
-foreach ($data_json['data'] as $value) {
-	if (str_starts_with($value['rsbsa_no'], $query)) {
-	    $allData[] = $value;
-	}
+
+switch (strlen($query)) {
+	case 5:
+		// Province Level
+		$regex = '/^[0-9]{2}-[0-9]{2}$/';
+		if (preg_match($regex, $query)) {
+		   $module = 1;
+		}
+		break;
+
+	case 8:
+		// Municipality Level
+		$regex = '/^[0-9]{2}-[0-9]{2}-[0-9]{2}$/';
+		if (preg_match($regex, $query)) {
+		   $module = 1;
+		}
+		break;
+
+	case 12:
+		// Barangay Level
+		$regex = '/^[0-9]{2}-[0-9]{2}-[0-9]{2}-[0-9]{3}$/';
+		if (preg_match($regex, $query)) {
+		   $module = 1;
+		}
+		break;
+
+	default:
+		$module = 0;
+		break;
 }
+
+
+switch ($module) {
+	case 1:
+		foreach ($data_json['data'] as $value) {
+			if (str_starts_with($value['rsbsa_no'], $query)) {
+			    $allData[] = $value;
+			}
+		}
+		break;
+	
+	default:
+		foreach ($data_json['data'] as $value) {
+			if (strpos($value['fullname'], $query) !== false||strpos($value['rsbsa_no'], $query) !== false||strpos($value['control_no'], $query) !== false) {
+				$allData[] = $value;
+			}
+		}
+		break;
+}
+
 usort($allData, 'sortByAlpha');
 
 $time_end = microtime(true);

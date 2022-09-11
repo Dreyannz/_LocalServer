@@ -1,11 +1,11 @@
 {
 	"supervisory": [{
-		"name": "Carlene C. Collado",
+		"name": "Milo D. Delos Reyes",
 		"roles": [
-			"Regional Executive Director"
+			"OIC - Regional Executive Director"
 		],
 		"office": "ORED",
-		"image": "CCC"
+		"image": "MDR"
 	}, {
 		"name": "Carlota S. Madriaga",
 		"roles": [
@@ -15,12 +15,12 @@
 		"office": "ORED",
 		"image": "CSM"
 	}, {
-		"name": "Carmelita T. Bajarla",
+		"name": "Audy G. Maagad",
 		"roles": [
-			"Regional Technical Director"
+			"OIC - Regional Technical Director"
 		],
 		"office": "ORED",
-		"image": "CTB"
+		"image": "AGM"
 	}, {
 		"name": "Lorena V. Duna",
 		"roles": [
@@ -159,6 +159,14 @@
 		"designation": "AdminAssistantI_Encoder",
 		"roles": [
 			"🔎Validator"
+		]
+	}, {
+		"name": "John Hendrix O. Cornelio",
+		"image": "JHOC",
+		"station": "Regional Office | IMS",
+		"designation": "AdminAssistantI_Encoder",
+		"roles": [
+			"💻Encoder"
 		]
 	}, {
 		"name": "Cozzete E. Padilla",
@@ -343,16 +351,6 @@
 		"station": "📍Malaybalay City",
 		"designation": "ProjectDevelopmentAssistantI_Geotagger"
 	}, {
-		"name": "Ngeri Boy E. Febria",
-		"image": "NBEF",
-		"station": "📍Malaybalay City",
-		"designation": "ProjectDevelopmentAssistantI_Geotagger"
-	}, {
-		"name": "Ariel D. Natividad",
-		"image": "ADN",
-		"station": "📍Malaybalay City",
-		"designation": "ProjectDevelopmentAssistantI_Geotagger"
-	}, {
 		"name": "Erwin L. Tagong",
 		"image": "ELT",
 		"station": "📍Malaybalay City",
@@ -360,11 +358,6 @@
 	}, {
 		"name": "Marian Laica Y. Angco",
 		"image": "MLYA",
-		"station": "📍Valencia City",
-		"designation": "ProjectDevelopmentAssistantI_Geotagger"
-	}, {
-		"name": "Marlo T. Bontes",
-		"image": "MTB",
 		"station": "📍Valencia City",
 		"designation": "ProjectDevelopmentAssistantI_Geotagger"
 	}, {

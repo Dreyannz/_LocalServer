@@ -31,32 +31,32 @@
       font-style: normal;
       font-weight: 300;
       src: local(''),
-      url('../assets/fonts/poppins-v19-latin-300.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
-      url('../assets/fonts/poppins-v19-latin-300.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+      url('./assets/fonts/poppins-v19-latin-300.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+      url('./assets/fonts/poppins-v19-latin-300.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
     }
     @font-face {
       font-family: 'Poppins';
       font-style: normal;
       font-weight: 400;
       src: local(''),
-      url('../assets/fonts/poppins-v19-latin-regular.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
-      url('../assets/fonts/poppins-v19-latin-regular.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+      url('./assets/fonts/poppins-v19-latin-regular.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+      url('./assets/fonts/poppins-v19-latin-regular.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
     }
     @font-face {
       font-family: 'Poppins';
       font-style: normal;
       font-weight: 500;
       src: local(''),
-      url('../assets/fonts/poppins-v19-latin-500.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
-      url('../assets/fonts/poppins-v19-latin-500.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+      url('./assets/fonts/poppins-v19-latin-500.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+      url('./assets/fonts/poppins-v19-latin-500.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
     }
     @font-face {
       font-family: 'Poppins';
       font-style: normal;
       font-weight: 600;
       src: local(''),
-      url('../assets/fonts/poppins-v19-latin-600.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
-      url('../assets/fonts/poppins-v19-latin-600.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+      url('./assets/fonts/poppins-v19-latin-600.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+      url('./assets/fonts/poppins-v19-latin-600.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
     }
     *{
       margin: 0;
@@ -267,11 +267,11 @@
     </div>
     <div class="row justify-content-center row-cols-1 row-cols-md-4" style="margin-top: 30px;">
       <?php 
-        $json = file_get_contents('rsbsa.json');
+        $json = file_get_contents('./rsbsa.json');
         $json_data = json_decode($json,true);
         foreach ($json_data['supervisory'] as $value) {
           if ($value['office'] == "ORED") {
-            echo '<div class="profile-card-2"><img src="assets/img/'.$value['image'].'.jpg" class="img img-responsive">';
+            echo '<div class="profile-card-2"><img src="./assets/img/'.$value['image'].'.jpg" class="img img-responsive">';
             echo '<div class="profile-name">'.$value['name'].'</div>';
             echo '<div class="profile-roles">';
             foreach($value['roles'] as $roles){
@@ -286,7 +286,7 @@
       <?php 
         foreach ($json_data['supervisory'] as $value) {
           if ($value['office'] == "PMED") {
-            echo '<div class="profile-card-2"><img src="assets/img/'.$value['image'].'.jpg" class="img img-responsive">';
+            echo '<div class="profile-card-2"><img src="./assets/img/'.$value['image'].'.jpg" class="img img-responsive">';
             echo '<div class="profile-name">'.$value['name'].'</div>';
             echo '<div class="profile-roles">';
             foreach($value['roles'] as $roles){
@@ -309,7 +309,7 @@
         shuffle($json_data['staff']);
         foreach ($json_data['staff'] as $value) {
           if ($value['designation']=="AdminAssistantI_Encoder"||$value['designation']=="AdminAideVI") {
-            echo '<div class="profile-card-2"><img src="assets/img/'.$value['image'].'.jpg" class="img img-responsive">';
+            echo '<div class="profile-card-2"><img src="./assets/img/'.$value['image'].'.jpg" class="img img-responsive">';
             echo '<div class="profile-name">'.$value['name'].'</div>';
             echo '<div class="profile-roles">';
             foreach($value['roles'] as $roles){
