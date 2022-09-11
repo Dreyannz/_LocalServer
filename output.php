@@ -286,17 +286,21 @@
     <button class="btn" onclick="home()" id="Home" title="Home"><i class="fas fa-home"></i></button>
     <div class="container mb-5 mt-5" id="container">
       <button onclick="topFunction()" id="toTheTop" title="Go to top"><i class="fas fa-chevron-up"></i></button>
-      <div class="row justify-content-center row-cols-2 row-cols-md-4" id="encoded_container" style="margin-top: 30px; display: none">
-        <div class="card" style="margin:10px">
-          <div class="card-body">
-            <h6 class="card-title font-weight-bold">Total Encoded Today:</h6>
-            <p class="card-text" id="encoded_today">0</p>
+      <div class="row" id="encoded_container">
+        <div class="col-6">
+          <div class="card border-success shadow">
+            <div class="card-body">
+              <h6 class="text-truncate">TOTAL ENCODED TODAY</h6>
+              <h4 class="font-weight-bold count" id="encoded_today">0</h4>
+            </div>
           </div>
         </div>
-        <div class="card" style="margin:10px">
-          <div class="card-body">
-            <h6 class="card-title font-weight-bold">Total Encoded This Month:</h6>
-            <p class="card-text" id="encoded_month">0</p>
+        <div class="col-6">
+          <div class="card border-success shadow">
+            <div class="card-body">
+              <h6 class="text-truncate">TOTAL ENCODED THIS MONTH</h6>
+              <h4 class="font-weight-bold count" id="encoded_month">0</h4>
+            </div>
           </div>
         </div>
       </div>
@@ -306,6 +310,7 @@
     <!-- WEBSITE SCRIPTS-->
     <script type="text/javascript">
       $(document).ready(function(){
+        $('#encoded_container').hide();
         popShow();
         getOutput();
         setInterval(function(){ 
@@ -325,7 +330,7 @@
           $.each(data, function(key, value) {
             html = '';
             if (value['output']!=null) {
-              html += '<div class="profile-card-2"><img src="assets/img/'+value['image']+'" class="img img-responsive">';
+              html += '<div class="profile-card-2 shadow"><img src="assets/img/'+value['image']+'" class="img img-responsive">';
               html += '<div class="profile-name">'+value['name']+'</div>';
               html += '<div class="profile-encoded"><span class="badge badge-pill badge-encoder">'+value['output']+' | '+value['outputTotal']+'</span></div>';
               html += '</div>';
@@ -335,7 +340,7 @@
             $('#containerOutput').append(html);
             $('#encoded_today').text(encoded_today);
             $('#encoded_month').text(encoded_month);
-            document.getElementById("encoded_container").style.display = 'block';
+            $('#encoded_container').show();
           });
           console.log(n+" | Encoded Today: "+encoded_today+" | Encoded This Month: "+encoded_month);
           popClose();

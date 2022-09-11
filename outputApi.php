@@ -14,8 +14,8 @@ ini_set('display_errors', 0);
 header('Content-Type: application/json');
 
 $time_start = microtime(true);
-$username = '';
-$password = '';
+$username = 'rfo10admin.christian';
+$password = 'rcu4dm1N@10';
 
 
 $ch = curl_init("https://ffrs1.da.gov.ph/");
